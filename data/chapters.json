@@ -1,0 +1,16 @@
+[
+  {
+    "unit": 1,
+    "title": "去饭店",
+    "titleEn": "Eating out",
+    "week": "2026-11-09",
+    "days": [
+      { "title": "你好", "titleEn": "Who's at the table", "words": "我 你 他 她 我们 你们 他们 是 不 好" },
+      { "title": "饿了", "titleEn": "Hungry and thirsty", "words": "吗 想 要 吃 喝 饿 渴 很 也 呢" },
+      { "title": "喝什么", "titleEn": "Drinks", "words": "水 茶 咖啡 牛奶 饮料 热 冷 甜 和 喜欢" },
+      { "title": "吃什么", "titleEn": "Food", "words": "一 两 个 米饭 面包 鸡蛋 鱼 肉 鸡 菜" },
+      { "title": "点菜", "titleEn": "Ordering", "words": "饭店 菜单 请 给 这 那 什么 来 有 没有" },
+      { "title": "多少钱", "titleEn": "Paying and goodbye", "words": "多少 钱 块 十 五 贵 好吃 可以 谢谢 再见" }
+    ]
+  }
+]

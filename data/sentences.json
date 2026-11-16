@@ -1,0 +1,8192 @@
+[
+ {
+  "id": "s0001",
+  "hanzi": "你好！",
+  "pinyin": "Nǐ hǎo!",
+  "en": "Hello!",
+  "words": [
+   146,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 10
+ },
+ {
+  "id": "s0002",
+  "hanzi": "我是云希。",
+  "pinyin": "Wǒ shì Yúnxī.",
+  "en": "I'm Yunxi.",
+  "words": [
+   221,
+   188,
+   "云希"
+  ],
+  "speaker": "hero",
+  "maxPos": 8
+ },
+ {
+  "id": "s0003",
+  "hanzi": "你是月吗？",
+  "pinyin": "Nǐ shì Yuè ma?",
+  "en": "Are you Yue?",
+  "words": [
+   146,
+   188,
+   "月",
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 11
+ },
+ {
+  "id": "s0004",
+  "hanzi": "我是月。",
+  "pinyin": "Wǒ shì Yuè.",
+  "en": "I'm Yue.",
+  "words": [
+   221,
+   188,
+   "月"
+  ],
+  "speaker": "yueB",
+  "maxPos": 8
+ },
+ {
+  "id": "s0005",
+  "hanzi": "她是云希。",
+  "pinyin": "Tā shì Yúnxī.",
+  "en": "She is Yunxi.",
+  "words": [
+   202,
+   188,
+   "云希"
+  ],
+  "speaker": "teacher",
+  "maxPos": 8
+ },
+ {
+  "id": "s0006",
+  "hanzi": "她是晓晓。",
+  "pinyin": "Tā shì Xiǎoxiǎo.",
+  "en": "She is Xiaoxiao.",
+  "words": [
+   202,
+   188,
+   "晓晓"
+  ],
+  "speaker": "hero",
+  "maxPos": 8
+ },
+ {
+  "id": "s0007",
+  "hanzi": "她不是月。",
+  "pinyin": "Tā bù shì Yuè.",
+  "en": "She isn't Yue.",
+  "words": [
+   202,
+   13,
+   188,
+   "月"
+  ],
+  "speaker": "teacher",
+  "maxPos": 9
+ },
+ {
+  "id": "s0008",
+  "hanzi": "他不是晓晓。",
+  "pinyin": "Tā bù shì Xiǎoxiǎo.",
+  "en": "He isn't Xiaoxiao.",
+  "words": [
+   200,
+   13,
+   188,
+   "晓晓"
+  ],
+  "speaker": "yueB",
+  "maxPos": 9
+ },
+ {
+  "id": "s0009",
+  "hanzi": "我们是朋友。",
+  "pinyin": "Wǒmen shì péngyou.",
+  "en": "We are friends.",
+  "words": [
+   222,
+   188,
+   156
+  ],
+  "speaker": "hero",
+  "maxPos": 179
+ },
+ {
+  "id": "s0010",
+  "hanzi": "你们好！",
+  "pinyin": "Nǐmen hǎo!",
+  "en": "Hello, everyone!",
+  "words": [
+   148,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 10
+ },
+ {
+  "id": "s0011",
+  "hanzi": "他们是谁？",
+  "pinyin": "Tāmen shì shéi?",
+  "en": "Who are they?",
+  "words": [
+   203,
+   188,
+   181
+  ],
+  "speaker": "yueB",
+  "maxPos": 62
+ },
+ {
+  "id": "s0012",
+  "hanzi": "你们是学生吗？",
+  "pinyin": "Nǐmen shì xuéshēng ma?",
+  "en": "Are you students?",
+  "words": [
+   148,
+   188,
+   248,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 126
+ },
+ {
+  "id": "s0013",
+  "hanzi": "我们不是老师。",
+  "pinyin": "Wǒmen bù shì lǎoshī.",
+  "en": "We aren't teachers.",
+  "words": [
+   222,
+   13,
+   188,
+   107
+  ],
+  "speaker": "hero",
+  "maxPos": 196
+ },
+ {
+  "id": "s0014",
+  "hanzi": "他们是我的朋友。",
+  "pinyin": "Tāmen shì wǒ de péngyou.",
+  "en": "They are my friends.",
+  "words": [
+   203,
+   188,
+   221,
+   30,
+   156
+  ],
+  "speaker": "hero",
+  "maxPos": 179
+ },
+ {
+  "id": "s0015",
+  "hanzi": "你好吗？",
+  "pinyin": "Nǐ hǎo ma?",
+  "en": "How are you?",
+  "words": [
+   146,
+   71,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 11
+ },
+ {
+  "id": "s0016",
+  "hanzi": "我很好。",
+  "pinyin": "Wǒ hěn hǎo.",
+  "en": "I'm very well.",
+  "words": [
+   221,
+   79,
+   71
+  ],
+  "speaker": "hero",
+  "maxPos": 18
+ },
+ {
+  "id": "s0017",
+  "hanzi": "你有书吗？",
+  "pinyin": "Nǐ yǒu shū ma?",
+  "en": "Do you have a book?",
+  "words": [
+   146,
+   263,
+   190,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 145
+ },
+ {
+  "id": "s0018",
+  "hanzi": "我有一个朋友。",
+  "pinyin": "Wǒ yǒu yī gè péngyou.",
+  "en": "I have a friend.",
+  "words": [
+   221,
+   263,
+   254,
+   60,
+   156
+  ],
+  "speaker": "yueB",
+  "maxPos": 179
+ },
+ {
+  "id": "s0019",
+  "hanzi": "我没有钱。",
+  "pinyin": "Wǒ méiyǒu qián.",
+  "en": "I don't have money.",
+  "words": [
+   221,
+   122,
+   164
+  ],
+  "speaker": "hero",
+  "maxPos": 52
+ },
+ {
+  "id": "s0020",
+  "hanzi": "他没有名字吗？",
+  "pinyin": "Tā méiyǒu míngzi ma?",
+  "en": "Doesn't he have a name?",
+  "words": [
+   200,
+   122,
+   130,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 70
+ },
+ {
+  "id": "s0021",
+  "hanzi": "这是我的书。",
+  "pinyin": "Zhè shì wǒ de shū.",
+  "en": "This is my book.",
+  "words": [
+   279,
+   188,
+   221,
+   30,
+   190
+  ],
+  "speaker": "hero",
+  "maxPos": 145
+ },
+ {
+  "id": "s0022",
+  "hanzi": "那是你的吗？",
+  "pinyin": "Nà shì nǐ de ma?",
+  "en": "Is that yours?",
+  "words": [
+   136,
+   188,
+   146,
+   30,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 61
+ },
+ {
+  "id": "s0023",
+  "hanzi": "这是什么？",
+  "pinyin": "Zhè shì shénme?",
+  "en": "What is this?",
+  "words": [
+   279,
+   188,
+   182
+  ],
+  "speaker": "hero",
+  "maxPos": 47
+ },
+ {
+  "id": "s0024",
+  "hanzi": "那是什么？",
+  "pinyin": "Nà shì shénme?",
+  "en": "What is that?",
+  "words": [
+   136,
+   188,
+   182
+  ],
+  "speaker": "teacher",
+  "maxPos": 47
+ },
+ {
+  "id": "s0025",
+  "hanzi": "你叫什么名字？",
+  "pinyin": "Nǐ jiào shénme míngzi?",
+  "en": "What's your name?",
+  "words": [
+   146,
+   91,
+   182,
+   130
+  ],
+  "speaker": "teacher",
+  "maxPos": 70
+ },
+ {
+  "id": "s0026",
+  "hanzi": "她是谁？",
+  "pinyin": "Tā shì shéi?",
+  "en": "Who is she?",
+  "words": [
+   202,
+   188,
+   181
+  ],
+  "speaker": "hero",
+  "maxPos": 62
+ },
+ {
+  "id": "s0027",
+  "hanzi": "谁是云希？",
+  "pinyin": "Shéi shì Yúnxī?",
+  "en": "Who is Yunxi?",
+  "words": [
+   181,
+   188,
+   "云希"
+  ],
+  "speaker": "yueB",
+  "maxPos": 62
+ },
+ {
+  "id": "s0028",
+  "hanzi": "你去哪儿？",
+  "pinyin": "Nǐ qù nǎr?",
+  "en": "Where are you going?",
+  "words": [
+   146,
+   167,
+   134
+  ],
+  "speaker": "hero",
+  "maxPos": 66
+ },
+ {
+  "id": "s0029",
+  "hanzi": "他在哪儿？",
+  "pinyin": "Tā zài nǎr?",
+  "en": "Where is he?",
+  "words": [
+   200,
+   271,
+   134
+  ],
+  "speaker": "yueB",
+  "maxPos": 83
+ },
+ {
+  "id": "s0030",
+  "hanzi": "我很好，你呢？",
+  "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+  "en": "I'm well, and you?",
+  "words": [
+   221,
+   79,
+   71,
+   146,
+   144
+  ],
+  "speaker": "hero",
+  "maxPos": 20
+ },
+ {
+  "id": "s0031",
+  "hanzi": "月呢？",
+  "pinyin": "Yuè ne?",
+  "en": "And Yue?",
+  "words": [
+   "月",
+   144
+  ],
+  "speaker": "teacher",
+  "maxPos": 20
+ },
+ {
+  "id": "s0032",
+  "hanzi": "他是好人。",
+  "pinyin": "Tā shì hǎo rén.",
+  "en": "He is a good person.",
+  "words": [
+   200,
+   188,
+   71,
+   170
+  ],
+  "speaker": "yueB",
+  "maxPos": 64
+ },
+ {
+  "id": "s0033",
+  "hanzi": "她不好。",
+  "pinyin": "Tā bù hǎo.",
+  "en": "She isn't well.",
+  "words": [
+   202,
+   13,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 10
+ },
+ {
+  "id": "s0034",
+  "hanzi": "你们有什么？",
+  "pinyin": "Nǐmen yǒu shénme?",
+  "en": "What do you have?",
+  "words": [
+   148,
+   263,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 49
+ },
+ {
+  "id": "s0035",
+  "hanzi": "她是中国人。",
+  "pinyin": "Tā shì Zhōngguó rén.",
+  "en": "She is Chinese.",
+  "words": [
+   202,
+   188,
+   289,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 80
+ },
+ {
+  "id": "s0036",
+  "hanzi": "我也是学生。",
+  "pinyin": "Wǒ yě shì xuéshēng.",
+  "en": "I'm a student too.",
+  "words": [
+   221,
+   253,
+   188,
+   248
+  ],
+  "speaker": "hero",
+  "maxPos": 126
+ },
+ {
+  "id": "s0037",
+  "hanzi": "他们都是好人。",
+  "pinyin": "Tāmen dōu shì hǎo rén.",
+  "en": "They are all good people.",
+  "words": [
+   203,
+   41,
+   188,
+   71,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 65
+ },
+ {
+  "id": "s0038",
+  "hanzi": "我们都很好。",
+  "pinyin": "Wǒmen dōu hěn hǎo.",
+  "en": "We're all well.",
+  "words": [
+   222,
+   41,
+   79,
+   71
+  ],
+  "speaker": "hero",
+  "maxPos": 65
+ },
+ {
+  "id": "s0039",
+  "hanzi": "你想去吗？",
+  "pinyin": "Nǐ xiǎng qù ma?",
+  "en": "Do you want to go?",
+  "words": [
+   146,
+   233,
+   167,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 66
+ },
+ {
+  "id": "s0040",
+  "hanzi": "我想吃饭。",
+  "pinyin": "Wǒ xiǎng chī fàn.",
+  "en": "I want to eat.",
+  "words": [
+   221,
+   233,
+   21,
+   50
+  ],
+  "speaker": "hero",
+  "maxPos": 197
+ },
+ {
+  "id": "s0041",
+  "hanzi": "我要喝水。",
+  "pinyin": "Wǒ yào hē shuǐ.",
+  "en": "I want to drink water.",
+  "words": [
+   221,
+   252,
+   77,
+   192
+  ],
+  "speaker": "hero",
+  "maxPos": 21
+ },
+ {
+  "id": "s0042",
+  "hanzi": "你要什么？",
+  "pinyin": "Nǐ yào shénme?",
+  "en": "What do you want?",
+  "words": [
+   146,
+   252,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 47
+ },
+ {
+  "id": "s0043",
+  "hanzi": "我们去学校。",
+  "pinyin": "Wǒmen qù xuéxiào.",
+  "en": "We're going to school.",
+  "words": [
+   222,
+   167,
+   250
+  ],
+  "speaker": "hero",
+  "maxPos": 152
+ },
+ {
+  "id": "s0044",
+  "hanzi": "明天你来吗？",
+  "pinyin": "Míngtiān nǐ lái ma?",
+  "en": "Are you coming tomorrow?",
+  "words": [
+   129,
+   146,
+   106,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 79
+ },
+ {
+  "id": "s0045",
+  "hanzi": "他不来了。",
+  "pinyin": "Tā bù lái le.",
+  "en": "He isn't coming anymore.",
+  "words": [
+   200,
+   13,
+   106,
+   108
+  ],
+  "speaker": "teacher",
+  "maxPos": 82
+ },
+ {
+  "id": "s0046",
+  "hanzi": "你来我家吧。",
+  "pinyin": "Nǐ lái wǒ jiā ba.",
+  "en": "Come to my home.",
+  "words": [
+   146,
+   106,
+   221,
+   86,
+   4
+  ],
+  "speaker": "hero",
+  "maxPos": 134
+ },
+ {
+  "id": "s0047",
+  "hanzi": "你吃什么？",
+  "pinyin": "Nǐ chī shénme?",
+  "en": "What are you eating?",
+  "words": [
+   146,
+   21,
+   182
+  ],
+  "speaker": "hero",
+  "maxPos": 47
+ },
+ {
+  "id": "s0048",
+  "hanzi": "月不吃包子。",
+  "pinyin": "Yuè bù chī bāozi.",
+  "en": "Yue doesn't eat buns.",
+  "words": [
+   "月",
+   13,
+   21,
+   8
+  ],
+  "speaker": "teacher",
+  "maxPos": 304
+ },
+ {
+  "id": "s0049",
+  "hanzi": "你喝茶吗？",
+  "pinyin": "Nǐ hē chá ma?",
+  "en": "Do you drink tea?",
+  "words": [
+   146,
+   77,
+   17,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 22
+ },
+ {
+  "id": "s0050",
+  "hanzi": "她也喝茶。",
+  "pinyin": "Tā yě hē chá.",
+  "en": "She drinks tea too.",
+  "words": [
+   202,
+   253,
+   77,
+   17
+  ],
+  "speaker": "teacher",
+  "maxPos": 22
+ },
+ {
+  "id": "s0051",
+  "hanzi": "我看书。",
+  "pinyin": "Wǒ kàn shū.",
+  "en": "I read a book.",
+  "words": [
+   221,
+   99,
+   190
+  ],
+  "speaker": "yueB",
+  "maxPos": 145
+ },
+ {
+  "id": "s0052",
+  "hanzi": "你看！",
+  "pinyin": "Nǐ kàn!",
+  "en": "Look!",
+  "words": [
+   146,
+   99
+  ],
+  "speaker": "hero",
+  "maxPos": 67
+ },
+ {
+  "id": "s0053",
+  "hanzi": "你说什么？",
+  "pinyin": "Nǐ shuō shénme?",
+  "en": "What are you saying?",
+  "words": [
+   146,
+   196,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 68
+ },
+ {
+  "id": "s0054",
+  "hanzi": "他说汉语。",
+  "pinyin": "Tā shuō Hànyǔ.",
+  "en": "He speaks Chinese.",
+  "words": [
+   200,
+   196,
+   69
+  ],
+  "speaker": "teacher",
+  "maxPos": 81
+ },
+ {
+  "id": "s0055",
+  "hanzi": "我叫云希。",
+  "pinyin": "Wǒ jiào Yúnxī.",
+  "en": "My name is Yunxi.",
+  "words": [
+   221,
+   91,
+   "云希"
+  ],
+  "speaker": "hero",
+  "maxPos": 69
+ },
+ {
+  "id": "s0056",
+  "hanzi": "她叫什么？",
+  "pinyin": "Tā jiào shénme?",
+  "en": "What is she called?",
+  "words": [
+   202,
+   91,
+   182
+  ],
+  "speaker": "hero",
+  "maxPos": 69
+ },
+ {
+  "id": "s0057",
+  "hanzi": "你的名字很好。",
+  "pinyin": "Nǐ de míngzi hěn hǎo.",
+  "en": "Your name is nice.",
+  "words": [
+   146,
+   30,
+   130,
+   79,
+   71
+  ],
+  "speaker": "yueB",
+  "maxPos": 70
+ },
+ {
+  "id": "s0058",
+  "hanzi": "我的名字是晓晓。",
+  "pinyin": "Wǒ de míngzi shì Xiǎoxiǎo.",
+  "en": "My name is Xiaoxiao.",
+  "words": [
+   221,
+   30,
+   130,
+   188,
+   "晓晓"
+  ],
+  "speaker": "teacher",
+  "maxPos": 70
+ },
+ {
+  "id": "s0059",
+  "hanzi": "你们想看什么？",
+  "pinyin": "Nǐmen xiǎng kàn shénme?",
+  "en": "What do you want to see?",
+  "words": [
+   148,
+   233,
+   99,
+   182
+  ],
+  "speaker": "teacher",
+  "maxPos": 67
+ },
+ {
+  "id": "s0060",
+  "hanzi": "我们也要去。",
+  "pinyin": "Wǒmen yě yào qù.",
+  "en": "We want to go too.",
+  "words": [
+   222,
+   253,
+   252,
+   167
+  ],
+  "speaker": "yueB",
+  "maxPos": 66
+ },
+ {
+  "id": "s0061",
+  "hanzi": "他们都不想说。",
+  "pinyin": "Tāmen dōu bù xiǎng shuō.",
+  "en": "None of them want to talk.",
+  "words": [
+   203,
+   41,
+   13,
+   233,
+   196
+  ],
+  "speaker": "teacher",
+  "maxPos": 68
+ },
+ {
+  "id": "s0062",
+  "hanzi": "我有一个弟弟。",
+  "pinyin": "Wǒ yǒu yī gè dìdi.",
+  "en": "I have one little brother.",
+  "words": [
+   221,
+   263,
+   254,
+   60,
+   32
+  ],
+  "speaker": "hero",
+  "maxPos": 252
+ },
+ {
+  "id": "s0063",
+  "hanzi": "二和三是五。",
+  "pinyin": "Èr hé sān shì wǔ.",
+  "en": "Two and three is five.",
+  "words": [
+   49,
+   78,
+   173,
+   188,
+   223
+  ],
+  "speaker": "teacher",
+  "maxPos": 72
+ },
+ {
+  "id": "s0064",
+  "hanzi": "我们有三个人。",
+  "pinyin": "Wǒmen yǒu sān gè rén.",
+  "en": "There are three of us.",
+  "words": [
+   222,
+   263,
+   173,
+   60,
+   170
+  ],
+  "speaker": "yueB",
+  "maxPos": 72
+ },
+ {
+  "id": "s0065",
+  "hanzi": "四个人都来了。",
+  "pinyin": "Sì gè rén dōu lái le.",
+  "en": "All four people came.",
+  "words": [
+   198,
+   60,
+   170,
+   41,
+   106,
+   108
+  ],
+  "speaker": "teacher",
+  "maxPos": 82
+ },
+ {
+  "id": "s0066",
+  "hanzi": "我五岁。",
+  "pinyin": "Wǒ wǔ suì.",
+  "en": "I'm five years old.",
+  "words": [
+   221,
+   223,
+   199
+  ],
+  "speaker": "hero",
+  "maxPos": 170
+ },
+ {
+  "id": "s0067",
+  "hanzi": "六点我起床。",
+  "pinyin": "Liù diǎn wǒ qǐchuáng.",
+  "en": "I get up at six.",
+  "words": [
+   113,
+   33,
+   221,
+   161
+  ],
+  "speaker": "yueB",
+  "maxPos": 283
+ },
+ {
+  "id": "s0068",
+  "hanzi": "七个包子！",
+  "pinyin": "Qī gè bāozi!",
+  "en": "Seven buns!",
+  "words": [
+   160,
+   60,
+   8
+  ],
+  "speaker": "hero",
+  "maxPos": 304
+ },
+ {
+  "id": "s0069",
+  "hanzi": "八个人去。",
+  "pinyin": "Bā gè rén qù.",
+  "en": "Eight people are going.",
+  "words": [
+   2,
+   60,
+   170,
+   167
+  ],
+  "speaker": "teacher",
+  "maxPos": 76
+ },
+ {
+  "id": "s0070",
+  "hanzi": "九点去学校。",
+  "pinyin": "Jiǔ diǎn qù xuéxiào.",
+  "en": "Go to school at nine.",
+  "words": [
+   95,
+   33,
+   167,
+   250
+  ],
+  "speaker": "teacher",
+  "maxPos": 152
+ },
+ {
+  "id": "s0071",
+  "hanzi": "十块钱。",
+  "pinyin": "Shí kuài qián.",
+  "en": "Ten kuai.",
+  "words": [
+   184,
+   105,
+   164
+  ],
+  "speaker": "yueB",
+  "maxPos": 54
+ },
+ {
+  "id": "s0072",
+  "hanzi": "十二月很冷。",
+  "pinyin": "Shí èr yuè hěn lěng.",
+  "en": "December is cold.",
+  "words": [
+   184,
+   49,
+   269,
+   79,
+   109
+  ],
+  "speaker": "teacher",
+  "maxPos": 91
+ },
+ {
+  "id": "s0073",
+  "hanzi": "今天很好。",
+  "pinyin": "Jīntiān hěn hǎo.",
+  "en": "Today is good.",
+  "words": [
+   94,
+   79,
+   71
+  ],
+  "speaker": "hero",
+  "maxPos": 78
+ },
+ {
+  "id": "s0074",
+  "hanzi": "今天你去哪儿？",
+  "pinyin": "Jīntiān nǐ qù nǎr?",
+  "en": "Where are you going today?",
+  "words": [
+   94,
+   146,
+   167,
+   134
+  ],
+  "speaker": "yueB",
+  "maxPos": 78
+ },
+ {
+  "id": "s0075",
+  "hanzi": "明天见！",
+  "pinyin": "Míngtiān jiàn!",
+  "en": "See you tomorrow!",
+  "words": [
+   129,
+   88
+  ],
+  "speaker": "hero",
+  "maxPos": 104
+ },
+ {
+  "id": "s0076",
+  "hanzi": "明天我不来。",
+  "pinyin": "Míngtiān wǒ bù lái.",
+  "en": "I'm not coming tomorrow.",
+  "words": [
+   129,
+   221,
+   13,
+   106
+  ],
+  "speaker": "yueB",
+  "maxPos": 79
+ },
+ {
+  "id": "s0077",
+  "hanzi": "我想去中国。",
+  "pinyin": "Wǒ xiǎng qù Zhōngguó.",
+  "en": "I want to go to China.",
+  "words": [
+   221,
+   233,
+   167,
+   289
+  ],
+  "speaker": "hero",
+  "maxPos": 80
+ },
+ {
+  "id": "s0078",
+  "hanzi": "中国很大。",
+  "pinyin": "Zhōngguó hěn dà.",
+  "en": "China is very big.",
+  "words": [
+   289,
+   79,
+   25
+  ],
+  "speaker": "teacher",
+  "maxPos": 89
+ },
+ {
+  "id": "s0079",
+  "hanzi": "你会说汉语吗？",
+  "pinyin": "Nǐ huì shuō Hànyǔ ma?",
+  "en": "Can you speak Chinese?",
+  "words": [
+   146,
+   82,
+   196,
+   69,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 96
+ },
+ {
+  "id": "s0080",
+  "hanzi": "汉语很好学。",
+  "pinyin": "Hànyǔ hěn hǎo xué.",
+  "en": "Chinese is easy to learn.",
+  "words": [
+   69,
+   79,
+   71,
+   247
+  ],
+  "speaker": "hero",
+  "maxPos": 149
+ },
+ {
+  "id": "s0081",
+  "hanzi": "谢谢你！",
+  "pinyin": "Xièxie nǐ!",
+  "en": "Thank you!",
+  "words": [
+   241,
+   146
+  ],
+  "speaker": "hero",
+  "maxPos": 59
+ },
+ {
+  "id": "s0082",
+  "hanzi": "谢谢，再见！",
+  "pinyin": "Xièxie, zàijiàn!",
+  "en": "Thanks, bye!",
+  "words": [
+   241,
+   272
+  ],
+  "speaker": "yueB",
+  "maxPos": 60
+ },
+ {
+  "id": "s0083",
+  "hanzi": "再见，月！",
+  "pinyin": "Zàijiàn, Yuè!",
+  "en": "Bye, Yue!",
+  "words": [
+   272,
+   "月"
+  ],
+  "speaker": "hero",
+  "maxPos": 60
+ },
+ {
+  "id": "s0084",
+  "hanzi": "老师再见！",
+  "pinyin": "Lǎoshī zàijiàn!",
+  "en": "Goodbye, teacher!",
+  "words": [
+   107,
+   272
+  ],
+  "speaker": "hero",
+  "maxPos": 196
+ },
+ {
+  "id": "s0085",
+  "hanzi": "我吃了。",
+  "pinyin": "Wǒ chī le.",
+  "en": "I've eaten.",
+  "words": [
+   221,
+   21,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 82
+ },
+ {
+  "id": "s0086",
+  "hanzi": "他来了！",
+  "pinyin": "Tā lái le!",
+  "en": "He's here!",
+  "words": [
+   200,
+   106,
+   108
+  ],
+  "speaker": "yueB",
+  "maxPos": 82
+ },
+ {
+  "id": "s0087",
+  "hanzi": "你在哪儿？",
+  "pinyin": "Nǐ zài nǎr?",
+  "en": "Where are you?",
+  "words": [
+   146,
+   271,
+   134
+  ],
+  "speaker": "hero",
+  "maxPos": 83
+ },
+ {
+  "id": "s0088",
+  "hanzi": "我在家。",
+  "pinyin": "Wǒ zài jiā.",
+  "en": "I'm at home.",
+  "words": [
+   221,
+   271,
+   86
+  ],
+  "speaker": "yueB",
+  "maxPos": 117
+ },
+ {
+  "id": "s0089",
+  "hanzi": "我和你去。",
+  "pinyin": "Wǒ hé nǐ qù.",
+  "en": "I'll go with you.",
+  "words": [
+   221,
+   78,
+   146,
+   167
+  ],
+  "speaker": "hero",
+  "maxPos": 66
+ },
+ {
+  "id": "s0090",
+  "hanzi": "云希和月是朋友。",
+  "pinyin": "Yúnxī hé Yuè shì péngyou.",
+  "en": "Yunxi and Yue are friends.",
+  "words": [
+   "云希",
+   78,
+   "月",
+   188,
+   156
+  ],
+  "speaker": "teacher",
+  "maxPos": 179
+ },
+ {
+  "id": "s0091",
+  "hanzi": "书在桌子上。",
+  "pinyin": "Shū zài zhuōzi shàng.",
+  "en": "The book is on the table.",
+  "words": [
+   190,
+   271,
+   295,
+   175
+  ],
+  "speaker": "teacher",
+  "maxPos": 242
+ },
+ {
+  "id": "s0092",
+  "hanzi": "你上车吧。",
+  "pinyin": "Nǐ shàng chē ba.",
+  "en": "Get in the car.",
+  "words": [
+   146,
+   175,
+   20,
+   4
+  ],
+  "speaker": "yueB",
+  "maxPos": 176
+ },
+ {
+  "id": "s0093",
+  "hanzi": "今年是好年。",
+  "pinyin": "Jīnnián shì hǎo nián.",
+  "en": "This year is a good year.",
+  "words": [
+   93,
+   188,
+   71,
+   149
+  ],
+  "speaker": "teacher",
+  "maxPos": 177
+ },
+ {
+  "id": "s0094",
+  "hanzi": "一年有十二个月。",
+  "pinyin": "Yī nián yǒu shí èr gè yuè.",
+  "en": "A year has twelve months.",
+  "words": [
+   254,
+   149,
+   263,
+   184,
+   49,
+   60,
+   269
+  ],
+  "speaker": "teacher",
+  "maxPos": 91
+ },
+ {
+  "id": "s0095",
+  "hanzi": "我们到了。",
+  "pinyin": "Wǒmen dào le.",
+  "en": "We've arrived.",
+  "words": [
+   222,
+   29,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 86
+ },
+ {
+  "id": "s0096",
+  "hanzi": "你什么时候到？",
+  "pinyin": "Nǐ shénme shíhou dào?",
+  "en": "When will you arrive?",
+  "words": [
+   146,
+   182,
+   185,
+   29
+  ],
+  "speaker": "yueB",
+  "maxPos": 125
+ },
+ {
+  "id": "s0097",
+  "hanzi": "对，我是云希。",
+  "pinyin": "Duì, wǒ shì Yúnxī.",
+  "en": "Right, I'm Yunxi.",
+  "words": [
+   44,
+   221,
+   188,
+   "云希"
+  ],
+  "speaker": "hero",
+  "maxPos": 87
+ },
+ {
+  "id": "s0098",
+  "hanzi": "你说得对。",
+  "pinyin": "Nǐ shuō de duì.",
+  "en": "You're right.",
+  "words": [
+   146,
+   196,
+   332,
+   44
+  ],
+  "speaker": "yueB",
+  "maxPos": 314
+ },
+ {
+  "id": "s0099",
+  "hanzi": "你还在吗？",
+  "pinyin": "Nǐ hái zài ma?",
+  "en": "Are you still there?",
+  "words": [
+   146,
+   67,
+   271,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 88
+ },
+ {
+  "id": "s0100",
+  "hanzi": "他还没有来。",
+  "pinyin": "Tā hái méiyǒu lái.",
+  "en": "He hasn't come yet.",
+  "words": [
+   200,
+   67,
+   122,
+   106
+  ],
+  "speaker": "teacher",
+  "maxPos": 88
+ },
+ {
+  "id": "s0101",
+  "hanzi": "这个很大。",
+  "pinyin": "Zhè gè hěn dà.",
+  "en": "This one is big.",
+  "words": [
+   279,
+   60,
+   79,
+   25
+  ],
+  "speaker": "hero",
+  "maxPos": 89
+ },
+ {
+  "id": "s0102",
+  "hanzi": "你家大吗？",
+  "pinyin": "Nǐ jiā dà ma?",
+  "en": "Is your home big?",
+  "words": [
+   146,
+   86,
+   25,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 117
+ },
+ {
+  "id": "s0103",
+  "hanzi": "我要两个。",
+  "pinyin": "Wǒ yào liǎng gè.",
+  "en": "I want two.",
+  "words": [
+   221,
+   252,
+   111,
+   60
+  ],
+  "speaker": "hero",
+  "maxPos": 33
+ },
+ {
+  "id": "s0104",
+  "hanzi": "一个人去吗？",
+  "pinyin": "Yī gè rén qù ma?",
+  "en": "Going by yourself?",
+  "words": [
+   254,
+   60,
+   170,
+   167,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 66
+ },
+ {
+  "id": "s0105",
+  "hanzi": "三天后见。",
+  "pinyin": "Sān tiān hòu jiàn.",
+  "en": "See you in three days.",
+  "words": [
+   173,
+   207,
+   80,
+   88
+  ],
+  "speaker": "teacher",
+  "maxPos": 118
+ },
+ {
+  "id": "s0106",
+  "hanzi": "学校后边有一个店。",
+  "pinyin": "Xuéxiào hòu biān yǒu yī gè diàn.",
+  "en": "There's a shop behind the school.",
+  "words": [
+   250,
+   80,
+   11,
+   263,
+   254,
+   60,
+   34
+  ],
+  "speaker": "teacher",
+  "maxPos": 227
+ },
+ {
+  "id": "s0107",
+  "hanzi": "你几月去中国？",
+  "pinyin": "Nǐ jǐ yuè qù Zhōngguó?",
+  "en": "Which month are you going to China?",
+  "words": [
+   146,
+   85,
+   269,
+   167,
+   289
+  ],
+  "speaker": "hero",
+  "maxPos": 185
+ },
+ {
+  "id": "s0108",
+  "hanzi": "这个月我很忙。",
+  "pinyin": "Zhè gè yuè wǒ hěn máng.",
+  "en": "I'm busy this month.",
+  "words": [
+   279,
+   60,
+   269,
+   221,
+   79,
+   118
+  ],
+  "speaker": "yueB",
+  "maxPos": 173
+ },
+ {
+  "id": "s0109",
+  "hanzi": "你下来吧。",
+  "pinyin": "Nǐ xià lái ba.",
+  "en": "Come down.",
+  "words": [
+   146,
+   226,
+   106,
+   4
+  ],
+  "speaker": "teacher",
+  "maxPos": 134
+ },
+ {
+  "id": "s0110",
+  "hanzi": "下雨了。",
+  "pinyin": "Xià yǔ le.",
+  "en": "It's raining.",
+  "words": [
+   226,
+   267,
+   108
+  ],
+  "speaker": "teacher",
+  "maxPos": 214
+ },
+ {
+  "id": "s0111",
+  "hanzi": "我有一只猫。",
+  "pinyin": "Wǒ yǒu yī zhī māo.",
+  "en": "I have a cat.",
+  "words": [
+   221,
+   263,
+   254,
+   287,
+   119
+  ],
+  "speaker": "hero",
+  "maxPos": 246
+ },
+ {
+  "id": "s0112",
+  "hanzi": "那只狗很大。",
+  "pinyin": "Nà zhī gǒu hěn dà.",
+  "en": "That dog is big.",
+  "words": [
+   136,
+   287,
+   64,
+   79,
+   25
+  ],
+  "speaker": "yueB",
+  "maxPos": 223
+ },
+ {
+  "id": "s0113",
+  "hanzi": "人很多。",
+  "pinyin": "Rén hěn duō.",
+  "en": "There are lots of people.",
+  "words": [
+   170,
+   79,
+   46
+  ],
+  "speaker": "teacher",
+  "maxPos": 94
+ },
+ {
+  "id": "s0114",
+  "hanzi": "你多吃一些。",
+  "pinyin": "Nǐ duō chī yìxiē.",
+  "en": "Eat a bit more.",
+  "words": [
+   146,
+   46,
+   21,
+   262
+  ],
+  "speaker": "hero",
+  "maxPos": 123
+ },
+ {
+  "id": "s0115",
+  "hanzi": "我能去吗？",
+  "pinyin": "Wǒ néng qù ma?",
+  "en": "Can I go?",
+  "words": [
+   221,
+   145,
+   167,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 95
+ },
+ {
+  "id": "s0116",
+  "hanzi": "明天我不能来。",
+  "pinyin": "Míngtiān wǒ bù néng lái.",
+  "en": "I can't come tomorrow.",
+  "words": [
+   129,
+   221,
+   13,
+   145,
+   106
+  ],
+  "speaker": "yueB",
+  "maxPos": 95
+ },
+ {
+  "id": "s0117",
+  "hanzi": "你会写汉字吗？",
+  "pinyin": "Nǐ huì xiě Hànzì ma?",
+  "en": "Can you write Chinese characters?",
+  "words": [
+   146,
+   82,
+   240,
+   70,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 270
+ },
+ {
+  "id": "s0118",
+  "hanzi": "我会说一些汉语。",
+  "pinyin": "Wǒ huì shuō yìxiē Hànyǔ.",
+  "en": "I can speak some Chinese.",
+  "words": [
+   221,
+   82,
+   196,
+   262,
+   69
+  ],
+  "speaker": "hero",
+  "maxPos": 123
+ },
+ {
+  "id": "s0119",
+  "hanzi": "十月一日。",
+  "pinyin": "Shí yuè yī rì.",
+  "en": "October first.",
+  "words": [
+   184,
+   269,
+   254,
+   172
+  ],
+  "speaker": "teacher",
+  "maxPos": 97
+ },
+ {
+  "id": "s0120",
+  "hanzi": "今天是几月几日？",
+  "pinyin": "Jīntiān shì jǐ yuè jǐ rì?",
+  "en": "What's the date today?",
+  "words": [
+   94,
+   188,
+   85,
+   269,
+   85,
+   172
+  ],
+  "speaker": "yueB",
+  "maxPos": 185
+ },
+ {
+  "id": "s0121",
+  "hanzi": "家里有人吗？",
+  "pinyin": "Jiā lǐ yǒu rén ma?",
+  "en": "Is anyone home?",
+  "words": [
+   86,
+   110,
+   263,
+   170,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 117
+ },
+ {
+  "id": "s0122",
+  "hanzi": "书在房间里。",
+  "pinyin": "Shū zài fángjiān lǐ.",
+  "en": "The book is in the room.",
+  "words": [
+   190,
+   271,
+   52,
+   110
+  ],
+  "speaker": "yueB",
+  "maxPos": 236
+ },
+ {
+  "id": "s0123",
+  "hanzi": "我可以看吗？",
+  "pinyin": "Wǒ kěyǐ kàn ma?",
+  "en": "May I look?",
+  "words": [
+   221,
+   102,
+   99,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 67
+ },
+ {
+  "id": "s0124",
+  "hanzi": "你可以去。",
+  "pinyin": "Nǐ kěyǐ qù.",
+  "en": "You may go.",
+  "words": [
+   146,
+   102,
+   167
+  ],
+  "speaker": "yueB",
+  "maxPos": 66
+ },
+ {
+  "id": "s0125",
+  "hanzi": "我给你钱。",
+  "pinyin": "Wǒ gěi nǐ qián.",
+  "en": "I'll give you money.",
+  "words": [
+   221,
+   61,
+   146,
+   164
+  ],
+  "speaker": "hero",
+  "maxPos": 52
+ },
+ {
+  "id": "s0126",
+  "hanzi": "你给我看看。",
+  "pinyin": "Nǐ gěi wǒ kàn kàn.",
+  "en": "Let me have a look.",
+  "words": [
+   146,
+   61,
+   221,
+   99,
+   99
+  ],
+  "speaker": "yueB",
+  "maxPos": 67
+ },
+ {
+  "id": "s0127",
+  "hanzi": "你在哪儿工作？",
+  "pinyin": "Nǐ zài nǎr gōngzuò?",
+  "en": "Where do you work?",
+  "words": [
+   146,
+   271,
+   134,
+   63
+  ],
+  "speaker": "teacher",
+  "maxPos": 99
+ },
+ {
+  "id": "s0128",
+  "hanzi": "我的工作很忙。",
+  "pinyin": "Wǒ de gōngzuò hěn máng.",
+  "en": "My work is busy.",
+  "words": [
+   221,
+   30,
+   63,
+   79,
+   118
+  ],
+  "speaker": "hero",
+  "maxPos": 173
+ },
+ {
+  "id": "s0129",
+  "hanzi": "你前边是谁？",
+  "pinyin": "Nǐ qián biān shì shéi?",
+  "en": "Who is in front of you?",
+  "words": [
+   146,
+   163,
+   11,
+   188,
+   181
+  ],
+  "speaker": "yueB",
+  "maxPos": 154
+ },
+ {
+  "id": "s0130",
+  "hanzi": "学校前边有车。",
+  "pinyin": "Xuéxiào qián biān yǒu chē.",
+  "en": "There's a car in front of the school.",
+  "words": [
+   250,
+   163,
+   11,
+   263,
+   20
+  ],
+  "speaker": "teacher",
+  "maxPos": 176
+ },
+ {
+  "id": "s0131",
+  "hanzi": "这是新书吗？",
+  "pinyin": "Zhè shì xīn shū ma?",
+  "en": "Is this a new book?",
+  "words": [
+   279,
+   188,
+   242,
+   190,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 145
+ },
+ {
+  "id": "s0132",
+  "hanzi": "我有新朋友了。",
+  "pinyin": "Wǒ yǒu xīn péngyou le.",
+  "en": "I have a new friend.",
+  "words": [
+   221,
+   263,
+   242,
+   156,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 179
+ },
+ {
+  "id": "s0133",
+  "hanzi": "这个好吃吗？",
+  "pinyin": "Zhège hǎo chī ma?",
+  "en": "Is this one tasty?",
+  "words": [
+   281,
+   71,
+   21,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 102
+ },
+ {
+  "id": "s0134",
+  "hanzi": "我要这个。",
+  "pinyin": "Wǒ yào zhège.",
+  "en": "I want this one.",
+  "words": [
+   221,
+   252,
+   281
+  ],
+  "speaker": "hero",
+  "maxPos": 102
+ },
+ {
+  "id": "s0135",
+  "hanzi": "它是我的猫。",
+  "pinyin": "Tā shì wǒ de māo.",
+  "en": "It's my cat.",
+  "words": [
+   201,
+   188,
+   221,
+   30,
+   119
+  ],
+  "speaker": "hero",
+  "maxPos": 246
+ },
+ {
+  "id": "s0136",
+  "hanzi": "它很小。",
+  "pinyin": "Tā hěn xiǎo.",
+  "en": "It's very small.",
+  "words": [
+   201,
+   79,
+   234
+  ],
+  "speaker": "yueB",
+  "maxPos": 105
+ },
+ {
+  "id": "s0137",
+  "hanzi": "明天见！再见！",
+  "pinyin": "Míngtiān jiàn! zàijiàn!",
+  "en": "See you tomorrow! Bye!",
+  "words": [
+   129,
+   88,
+   272
+  ],
+  "speaker": "yueB",
+  "maxPos": 104
+ },
+ {
+  "id": "s0138",
+  "hanzi": "我想见你。",
+  "pinyin": "Wǒ xiǎng jiàn nǐ.",
+  "en": "I want to see you.",
+  "words": [
+   221,
+   233,
+   88,
+   146
+  ],
+  "speaker": "hero",
+  "maxPos": 104
+ },
+ {
+  "id": "s0139",
+  "hanzi": "我的家很小。",
+  "pinyin": "Wǒ de jiā hěn xiǎo.",
+  "en": "My home is small.",
+  "words": [
+   221,
+   30,
+   86,
+   79,
+   234
+  ],
+  "speaker": "yueB",
+  "maxPos": 117
+ },
+ {
+  "id": "s0140",
+  "hanzi": "小狗很好看。",
+  "pinyin": "Xiǎo gǒu hěn hǎo kàn.",
+  "en": "The puppy is cute.",
+  "words": [
+   234,
+   64,
+   79,
+   71,
+   99
+  ],
+  "speaker": "hero",
+  "maxPos": 223
+ },
+ {
+  "id": "s0141",
+  "hanzi": "你有问题吗？",
+  "pinyin": "Nǐ yǒu wèntí ma?",
+  "en": "Do you have a question?",
+  "words": [
+   146,
+   263,
+   220,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 106
+ },
+ {
+  "id": "s0142",
+  "hanzi": "没有问题！",
+  "pinyin": "Méiyǒu wèntí!",
+  "en": "No problem!",
+  "words": [
+   122,
+   220
+  ],
+  "speaker": "hero",
+  "maxPos": 106
+ },
+ {
+  "id": "s0143",
+  "hanzi": "你再说一下。",
+  "pinyin": "Nǐ zài shuō yī xià.",
+  "en": "Say it once more.",
+  "words": [
+   146,
+   270,
+   196,
+   254,
+   226
+  ],
+  "speaker": "yueB",
+  "maxPos": 107
+ },
+ {
+  "id": "s0144",
+  "hanzi": "再吃一个吧。",
+  "pinyin": "Zài chī yī gè ba.",
+  "en": "Have another one.",
+  "words": [
+   270,
+   21,
+   254,
+   60,
+   4
+  ],
+  "speaker": "hero",
+  "maxPos": 134
+ },
+ {
+  "id": "s0145",
+  "hanzi": "你在做什么？",
+  "pinyin": "Nǐ zài zuò shénme?",
+  "en": "What are you doing?",
+  "words": [
+   146,
+   271,
+   299,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 108
+ },
+ {
+  "id": "s0146",
+  "hanzi": "我不想做。",
+  "pinyin": "Wǒ bù xiǎng zuò.",
+  "en": "I don't want to do it.",
+  "words": [
+   221,
+   13,
+   233,
+   299
+  ],
+  "speaker": "hero",
+  "maxPos": 108
+ },
+ {
+  "id": "s0147",
+  "hanzi": "这些是我的书。",
+  "pinyin": "Zhèxiē shì wǒ de shū.",
+  "en": "These are my books.",
+  "words": [
+   284,
+   188,
+   221,
+   30,
+   190
+  ],
+  "speaker": "hero",
+  "maxPos": 145
+ },
+ {
+  "id": "s0148",
+  "hanzi": "这些都很贵。",
+  "pinyin": "Zhèxiē dōu hěn guì.",
+  "en": "These are all expensive.",
+  "words": [
+   284,
+   41,
+   79,
+   65
+  ],
+  "speaker": "yueB",
+  "maxPos": 109
+ },
+ {
+  "id": "s0149",
+  "hanzi": "你听！",
+  "pinyin": "Nǐ tīng!",
+  "en": "Listen!",
+  "words": [
+   146,
+   209
+  ],
+  "speaker": "yueB",
+  "maxPos": 110
+ },
+ {
+  "id": "s0150",
+  "hanzi": "我喜欢听歌。",
+  "pinyin": "Wǒ xǐhuan tīng gē.",
+  "en": "I like listening to songs.",
+  "words": [
+   221,
+   225,
+   209,
+   58
+  ],
+  "speaker": "hero",
+  "maxPos": 231
+ },
+ {
+  "id": "s0151",
+  "hanzi": "我在公司工作。",
+  "pinyin": "Wǒ zài gōngsī gōngzuò.",
+  "en": "I work at a company.",
+  "words": [
+   221,
+   271,
+   62,
+   63
+  ],
+  "speaker": "teacher",
+  "maxPos": 111
+ },
+ {
+  "id": "s0152",
+  "hanzi": "他的公司很大。",
+  "pinyin": "Tā de gōngsī hěn dà.",
+  "en": "His company is big.",
+  "words": [
+   200,
+   30,
+   62,
+   79,
+   25
+  ],
+  "speaker": "yueB",
+  "maxPos": 111
+ },
+ {
+  "id": "s0153",
+  "hanzi": "你有什么事？",
+  "pinyin": "Nǐ yǒu shénme shì?",
+  "en": "What's the matter?",
+  "words": [
+   146,
+   263,
+   182,
+   187
+  ],
+  "speaker": "yueB",
+  "maxPos": 112
+ },
+ {
+  "id": "s0154",
+  "hanzi": "没有事。",
+  "pinyin": "Méiyǒu shì.",
+  "en": "Nothing.",
+  "words": [
+   122,
+   187
+  ],
+  "speaker": "hero",
+  "maxPos": 112
+ },
+ {
+  "id": "s0155",
+  "hanzi": "今天是几号？",
+  "pinyin": "Jīntiān shì jǐ hào?",
+  "en": "What's the date today?",
+  "words": [
+   94,
+   188,
+   85,
+   76
+  ],
+  "speaker": "hero",
+  "maxPos": 185
+ },
+ {
+  "id": "s0156",
+  "hanzi": "今天是十号。",
+  "pinyin": "Jīntiān shì shí hào.",
+  "en": "Today is the tenth.",
+  "words": [
+   94,
+   188,
+   184,
+   76
+  ],
+  "speaker": "yueB",
+  "maxPos": 113
+ },
+ {
+  "id": "s0157",
+  "hanzi": "我有两个哥哥。",
+  "pinyin": "Wǒ yǒu liǎng gè gēge.",
+  "en": "I have two older brothers.",
+  "words": [
+   221,
+   263,
+   111,
+   60,
+   59
+  ],
+  "speaker": "hero",
+  "maxPos": 217
+ },
+ {
+  "id": "s0158",
+  "hanzi": "两个包子。",
+  "pinyin": "Liǎng gè bāozi.",
+  "en": "Two buns.",
+  "words": [
+   111,
+   60,
+   8
+  ],
+  "speaker": "yueB",
+  "maxPos": 304
+ },
+ {
+  "id": "s0159",
+  "hanzi": "我知道。",
+  "pinyin": "Wǒ zhīdào.",
+  "en": "I know.",
+  "words": [
+   221,
+   288
+  ],
+  "speaker": "yueB",
+  "maxPos": 114
+ },
+ {
+  "id": "s0160",
+  "hanzi": "你知道他是谁吗？",
+  "pinyin": "Nǐ zhīdào tā shì shéi ma?",
+  "en": "Do you know who he is?",
+  "words": [
+   146,
+   288,
+   200,
+   188,
+   181,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 114
+ },
+ {
+  "id": "s0161",
+  "hanzi": "我买了一本书。",
+  "pinyin": "Wǒ mǎi le yī běn shū.",
+  "en": "I bought a book.",
+  "words": [
+   221,
+   116,
+   108,
+   254,
+   10,
+   190
+  ],
+  "speaker": "hero",
+  "maxPos": 172
+ },
+ {
+  "id": "s0162",
+  "hanzi": "这本书很好。",
+  "pinyin": "Zhè běn shū hěn hǎo.",
+  "en": "This book is good.",
+  "words": [
+   279,
+   10,
+   190,
+   79,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 145
+ },
+ {
+  "id": "s0163",
+  "hanzi": "我们都是学生。",
+  "pinyin": "Wǒmen dōu shì xuéshēng.",
+  "en": "We are all students.",
+  "words": [
+   222,
+   41,
+   188,
+   248
+  ],
+  "speaker": "teacher",
+  "maxPos": 126
+ },
+ {
+  "id": "s0164",
+  "hanzi": "你家有几个人？",
+  "pinyin": "Nǐ jiā yǒu jǐ gè rén?",
+  "en": "How many people are in your family?",
+  "words": [
+   146,
+   86,
+   263,
+   85,
+   60,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 185
+ },
+ {
+  "id": "s0165",
+  "hanzi": "我回家了。",
+  "pinyin": "Wǒ huí jiā le.",
+  "en": "I'm going home.",
+  "words": [
+   221,
+   81,
+   86,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 137
+ },
+ {
+  "id": "s0166",
+  "hanzi": "一天有二十四个小时。",
+  "pinyin": "Yī tiān yǒu èr shí sì gè xiǎoshí.",
+  "en": "A day has twenty-four hours.",
+  "words": [
+   254,
+   207,
+   263,
+   49,
+   184,
+   198,
+   60,
+   236
+  ],
+  "speaker": "teacher",
+  "maxPos": 187
+ },
+ {
+  "id": "s0167",
+  "hanzi": "今天天很冷。",
+  "pinyin": "Jīntiān tiān hěn lěng.",
+  "en": "It's cold today.",
+  "words": [
+   94,
+   207,
+   79,
+   109
+  ],
+  "speaker": "yueB",
+  "maxPos": 118
+ },
+ {
+  "id": "s0168",
+  "hanzi": "外边很冷。",
+  "pinyin": "Wài biān hěn lěng.",
+  "en": "It's cold outside.",
+  "words": [
+   212,
+   11,
+   79,
+   109
+  ],
+  "speaker": "yueB",
+  "maxPos": 154
+ },
+ {
+  "id": "s0169",
+  "hanzi": "他在外边。",
+  "pinyin": "Tā zài wài biān.",
+  "en": "He's outside.",
+  "words": [
+   200,
+   271,
+   212,
+   11
+  ],
+  "speaker": "teacher",
+  "maxPos": 154
+ },
+ {
+  "id": "s0170",
+  "hanzi": "现在十点十分。",
+  "pinyin": "Xiànzài shí diǎn shí fēn.",
+  "en": "It's ten past ten now.",
+  "words": [
+   232,
+   184,
+   33,
+   184,
+   55
+  ],
+  "speaker": "hero",
+  "maxPos": 136
+ },
+ {
+  "id": "s0171",
+  "hanzi": "三点十分。",
+  "pinyin": "Sān diǎn shí fēn.",
+  "en": "Ten past three.",
+  "words": [
+   173,
+   33,
+   184,
+   55
+  ],
+  "speaker": "teacher",
+  "maxPos": 136
+ },
+ {
+  "id": "s0172",
+  "hanzi": "我问一下。",
+  "pinyin": "Wǒ wèn yī xià.",
+  "en": "Let me ask.",
+  "words": [
+   221,
+   219,
+   254,
+   226
+  ],
+  "speaker": "hero",
+  "maxPos": 121
+ },
+ {
+  "id": "s0173",
+  "hanzi": "你问老师吧。",
+  "pinyin": "Nǐ wèn lǎoshī ba.",
+  "en": "Ask the teacher.",
+  "words": [
+   146,
+   219,
+   107,
+   4
+  ],
+  "speaker": "yueB",
+  "maxPos": 196
+ },
+ {
+  "id": "s0174",
+  "hanzi": "现在几点？",
+  "pinyin": "Xiànzài jǐ diǎn?",
+  "en": "What time is it now?",
+  "words": [
+   232,
+   85,
+   33
+  ],
+  "speaker": "hero",
+  "maxPos": 185
+ },
+ {
+  "id": "s0175",
+  "hanzi": "我现在很忙。",
+  "pinyin": "Wǒ xiànzài hěn máng.",
+  "en": "I'm busy now.",
+  "words": [
+   221,
+   232,
+   79,
+   118
+  ],
+  "speaker": "yueB",
+  "maxPos": 173
+ },
+ {
+  "id": "s0176",
+  "hanzi": "我想买一些水果。",
+  "pinyin": "Wǒ xiǎng mǎi yìxiē shuǐguǒ.",
+  "en": "I want to buy some fruit.",
+  "words": [
+   221,
+   233,
+   116,
+   262,
+   193
+  ],
+  "speaker": "hero",
+  "maxPos": 253
+ },
+ {
+  "id": "s0177",
+  "hanzi": "你有时间吗？",
+  "pinyin": "Nǐ yǒu shíjiān ma?",
+  "en": "Do you have time?",
+  "words": [
+   146,
+   263,
+   186,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 124
+ },
+ {
+  "id": "s0178",
+  "hanzi": "我没有时间。",
+  "pinyin": "Wǒ méiyǒu shíjiān.",
+  "en": "I don't have time.",
+  "words": [
+   221,
+   122,
+   186
+  ],
+  "speaker": "yueB",
+  "maxPos": 124
+ },
+ {
+  "id": "s0179",
+  "hanzi": "你什么时候来？",
+  "pinyin": "Nǐ shénme shíhou lái?",
+  "en": "When are you coming?",
+  "words": [
+   146,
+   182,
+   185,
+   106
+  ],
+  "speaker": "yueB",
+  "maxPos": 125
+ },
+ {
+  "id": "s0180",
+  "hanzi": "我是学生。",
+  "pinyin": "Wǒ shì xuéshēng.",
+  "en": "I'm a student.",
+  "words": [
+   221,
+   188,
+   248
+  ],
+  "speaker": "hero",
+  "maxPos": 126
+ },
+ {
+  "id": "s0181",
+  "hanzi": "他是大学学生。",
+  "pinyin": "Tā shì dàxué xuéshēng.",
+  "en": "He's a university student.",
+  "words": [
+   200,
+   188,
+   27,
+   248
+  ],
+  "speaker": "teacher",
+  "maxPos": 142
+ },
+ {
+  "id": "s0182",
+  "hanzi": "你是哪国人？",
+  "pinyin": "Nǐ shì nǎ guó rén?",
+  "en": "What country are you from?",
+  "words": [
+   146,
+   188,
+   131,
+   66,
+   170
+  ],
+  "speaker": "yueB",
+  "maxPos": 169
+ },
+ {
+  "id": "s0183",
+  "hanzi": "我是中国人。",
+  "pinyin": "Wǒ shì Zhōngguó rén.",
+  "en": "I'm Chinese.",
+  "words": [
+   221,
+   188,
+   289,
+   170
+  ],
+  "speaker": "hero",
+  "maxPos": 80
+ },
+ {
+  "id": "s0184",
+  "hanzi": "你住在哪儿？",
+  "pinyin": "Nǐ zhù zài nǎr?",
+  "en": "Where do you live?",
+  "words": [
+   146,
+   294,
+   271,
+   134
+  ],
+  "speaker": "hero",
+  "maxPos": 128
+ },
+ {
+  "id": "s0185",
+  "hanzi": "我住在学校里。",
+  "pinyin": "Wǒ zhù zài xuéxiào lǐ.",
+  "en": "I live at school.",
+  "words": [
+   221,
+   294,
+   271,
+   250,
+   110
+  ],
+  "speaker": "yueB",
+  "maxPos": 152
+ },
+ {
+  "id": "s0186",
+  "hanzi": "这里很好。",
+  "pinyin": "Zhèlǐ hěn hǎo.",
+  "en": "It's nice here.",
+  "words": [
+   282,
+   79,
+   71
+  ],
+  "speaker": "yueB",
+  "maxPos": 129
+ },
+ {
+  "id": "s0187",
+  "hanzi": "你来这里做什么？",
+  "pinyin": "Nǐ lái zhèlǐ zuò shénme?",
+  "en": "What are you doing here?",
+  "words": [
+   146,
+   106,
+   282,
+   299,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 129
+ },
+ {
+  "id": "s0188",
+  "hanzi": "这个十元。",
+  "pinyin": "Zhè gè shí yuán.",
+  "en": "This one is ten yuan.",
+  "words": [
+   279,
+   60,
+   184,
+   268
+  ],
+  "speaker": "teacher",
+  "maxPos": 130
+ },
+ {
+  "id": "s0189",
+  "hanzi": "一百元太贵了。",
+  "pinyin": "Yī bǎi yuán tài guì le.",
+  "en": "A hundred yuan is too expensive.",
+  "words": [
+   254,
+   6,
+   268,
+   206,
+   65,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 228
+ },
+ {
+  "id": "s0190",
+  "hanzi": "她是女老师。",
+  "pinyin": "Tā shì nǚ lǎoshī.",
+  "en": "She's a female teacher.",
+  "words": [
+   202,
+   188,
+   152,
+   107
+  ],
+  "speaker": "teacher",
+  "maxPos": 196
+ },
+ {
+  "id": "s0191",
+  "hanzi": "那个女孩子是谁？",
+  "pinyin": "Nà gè nǚ háizi shì shéi?",
+  "en": "Who is that girl?",
+  "words": [
+   136,
+   60,
+   152,
+   68,
+   188,
+   181
+  ],
+  "speaker": "hero",
+  "maxPos": 150
+ },
+ {
+  "id": "s0192",
+  "hanzi": "你开车吗？",
+  "pinyin": "Nǐ kāi chē ma?",
+  "en": "Do you drive?",
+  "words": [
+   146,
+   97,
+   20,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 176
+ },
+ {
+  "id": "s0193",
+  "hanzi": "店开了。",
+  "pinyin": "Diàn kāi le.",
+  "en": "The shop is open.",
+  "words": [
+   34,
+   97,
+   108
+  ],
+  "speaker": "teacher",
+  "maxPos": 227
+ },
+ {
+  "id": "s0194",
+  "hanzi": "这个字怎么写？",
+  "pinyin": "Zhè gè zì zěnme xiě?",
+  "en": "How do you write this character?",
+  "words": [
+   279,
+   60,
+   296,
+   276,
+   240
+  ],
+  "speaker": "hero",
+  "maxPos": 151
+ },
+ {
+  "id": "s0195",
+  "hanzi": "你怎么来了？",
+  "pinyin": "Nǐ zěnme lái le?",
+  "en": "How come you're here?",
+  "words": [
+   146,
+   276,
+   106,
+   108
+  ],
+  "speaker": "yueB",
+  "maxPos": 133
+ },
+ {
+  "id": "s0196",
+  "hanzi": "我们走吧。",
+  "pinyin": "Wǒmen zǒu ba.",
+  "en": "Let's go.",
+  "words": [
+   222,
+   495,
+   4
+  ],
+  "speaker": "hero",
+  "maxPos": 325
+ },
+ {
+  "id": "s0197",
+  "hanzi": "吃吧！",
+  "pinyin": "Chī ba!",
+  "en": "Eat!",
+  "words": [
+   21,
+   4
+  ],
+  "speaker": "yueB",
+  "maxPos": 134
+ },
+ {
+  "id": "s0198",
+  "hanzi": "太好了！",
+  "pinyin": "Tài hǎo le!",
+  "en": "Great!",
+  "words": [
+   206,
+   71,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 135
+ },
+ {
+  "id": "s0199",
+  "hanzi": "这个太大了。",
+  "pinyin": "Zhè gè tài dà le.",
+  "en": "This one is too big.",
+  "words": [
+   279,
+   60,
+   206,
+   25,
+   108
+  ],
+  "speaker": "yueB",
+  "maxPos": 135
+ },
+ {
+  "id": "s0200",
+  "hanzi": "现在八点。",
+  "pinyin": "Xiànzài bā diǎn.",
+  "en": "It's eight o'clock now.",
+  "words": [
+   232,
+   2,
+   33
+  ],
+  "speaker": "teacher",
+  "maxPos": 136
+ },
+ {
+  "id": "s0201",
+  "hanzi": "我要一点水。",
+  "pinyin": "Wǒ yào yī diǎn shuǐ.",
+  "en": "I'd like a little water.",
+  "words": [
+   221,
+   252,
+   254,
+   33,
+   192
+  ],
+  "speaker": "hero",
+  "maxPos": 136
+ },
+ {
+  "id": "s0202",
+  "hanzi": "你喝水吗？",
+  "pinyin": "Nǐ hē shuǐ ma?",
+  "en": "Do you drink water?",
+  "words": [
+   146,
+   77,
+   192,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 21
+ },
+ {
+  "id": "s0203",
+  "hanzi": "我要喝一点水。",
+  "pinyin": "Wǒ yào hē yī diǎn shuǐ.",
+  "en": "I'd like to drink a little water.",
+  "words": [
+   221,
+   252,
+   77,
+   254,
+   33,
+   192
+  ],
+  "speaker": "hero",
+  "maxPos": 136
+ },
+ {
+  "id": "s0204",
+  "hanzi": "他回家了。",
+  "pinyin": "Tā huí jiā le.",
+  "en": "He went home.",
+  "words": [
+   200,
+   81,
+   86,
+   108
+  ],
+  "speaker": "teacher",
+  "maxPos": 137
+ },
+ {
+  "id": "s0205",
+  "hanzi": "你什么时候回来？",
+  "pinyin": "Nǐ shénme shíhou huí lái?",
+  "en": "When will you come back?",
+  "words": [
+   146,
+   182,
+   185,
+   81,
+   106
+  ],
+  "speaker": "yueB",
+  "maxPos": 137
+ },
+ {
+  "id": "s0206",
+  "hanzi": "请坐。",
+  "pinyin": "Qǐng zuò.",
+  "en": "Please sit.",
+  "words": [
+   165,
+   298
+  ],
+  "speaker": "teacher",
+  "maxPos": 158
+ },
+ {
+  "id": "s0207",
+  "hanzi": "请喝茶。",
+  "pinyin": "Qǐng hē chá.",
+  "en": "Please have some tea.",
+  "words": [
+   165,
+   77,
+   17
+  ],
+  "speaker": "hero",
+  "maxPos": 43
+ },
+ {
+  "id": "s0208",
+  "hanzi": "这是我第一天。",
+  "pinyin": "Zhè shì wǒ dì yī tiān.",
+  "en": "It's my first day.",
+  "words": [
+   279,
+   188,
+   221,
+   31,
+   254,
+   207
+  ],
+  "speaker": "hero",
+  "maxPos": 138
+ },
+ {
+  "id": "s0209",
+  "hanzi": "他是第二个。",
+  "pinyin": "Tā shì dì èr gè.",
+  "en": "He's the second one.",
+  "words": [
+   200,
+   188,
+   31,
+   49,
+   60
+  ],
+  "speaker": "teacher",
+  "maxPos": 138
+ },
+ {
+  "id": "s0210",
+  "hanzi": "你找什么？",
+  "pinyin": "Nǐ zhǎo shénme?",
+  "en": "What are you looking for?",
+  "words": [
+   146,
+   278,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 139
+ },
+ {
+  "id": "s0211",
+  "hanzi": "我找我的猫。",
+  "pinyin": "Wǒ zhǎo wǒ de māo.",
+  "en": "I'm looking for my cat.",
+  "words": [
+   221,
+   278,
+   221,
+   30,
+   119
+  ],
+  "speaker": "hero",
+  "maxPos": 246
+ },
+ {
+  "id": "s0212",
+  "hanzi": "你家有几口人？",
+  "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+  "en": "How many people are in your family?",
+  "words": [
+   146,
+   86,
+   263,
+   85,
+   104,
+   170
+  ],
+  "speaker": "yueB",
+  "maxPos": 185
+ },
+ {
+  "id": "s0213",
+  "hanzi": "我家有四口人。",
+  "pinyin": "Wǒ jiā yǒu sì kǒu rén.",
+  "en": "There are four people in my family.",
+  "words": [
+   221,
+   86,
+   263,
+   198,
+   104,
+   170
+  ],
+  "speaker": "hero",
+  "maxPos": 140
+ },
+ {
+  "id": "s0214",
+  "hanzi": "这个字是什么？",
+  "pinyin": "Zhè gè zì shì shénme?",
+  "en": "What is this character?",
+  "words": [
+   279,
+   60,
+   296,
+   188,
+   182
+  ],
+  "speaker": "hero",
+  "maxPos": 141
+ },
+ {
+  "id": "s0215",
+  "hanzi": "我会写这个字。",
+  "pinyin": "Wǒ huì xiě zhè gè zì.",
+  "en": "I can write this character.",
+  "words": [
+   221,
+   82,
+   240,
+   279,
+   60,
+   296
+  ],
+  "speaker": "yueB",
+  "maxPos": 151
+ },
+ {
+  "id": "s0216",
+  "hanzi": "我想去大学。",
+  "pinyin": "Wǒ xiǎng qù dàxué.",
+  "en": "I want to go to university.",
+  "words": [
+   221,
+   233,
+   167,
+   27
+  ],
+  "speaker": "hero",
+  "maxPos": 142
+ },
+ {
+  "id": "s0217",
+  "hanzi": "他在大学工作。",
+  "pinyin": "Tā zài dàxué gōngzuò.",
+  "en": "He works at a university.",
+  "words": [
+   200,
+   271,
+   27,
+   63
+  ],
+  "speaker": "teacher",
+  "maxPos": 142
+ },
+ {
+  "id": "s0218",
+  "hanzi": "你真好！",
+  "pinyin": "Nǐ zhēn hǎo!",
+  "en": "You're so kind!",
+  "words": [
+   146,
+   285,
+   71
+  ],
+  "speaker": "hero",
+  "maxPos": 143
+ },
+ {
+  "id": "s0219",
+  "hanzi": "今天真冷。",
+  "pinyin": "Jīntiān zhēn lěng.",
+  "en": "It's really cold today.",
+  "words": [
+   94,
+   285,
+   109
+  ],
+  "speaker": "yueB",
+  "maxPos": 143
+ },
+ {
+  "id": "s0220",
+  "hanzi": "大家好！",
+  "pinyin": "Dàjiā hǎo!",
+  "en": "Hello, everyone!",
+  "words": [
+   26,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 144
+ },
+ {
+  "id": "s0221",
+  "hanzi": "大家都来了。",
+  "pinyin": "Dàjiā dōu lái le.",
+  "en": "Everyone has come.",
+  "words": [
+   26,
+   41,
+   106,
+   108
+  ],
+  "speaker": "teacher",
+  "maxPos": 144
+ },
+ {
+  "id": "s0222",
+  "hanzi": "我在看书。",
+  "pinyin": "Wǒ zài kàn shū.",
+  "en": "I'm reading.",
+  "words": [
+   221,
+   271,
+   99,
+   190
+  ],
+  "speaker": "hero",
+  "maxPos": 145
+ },
+ {
+  "id": "s0223",
+  "hanzi": "这是什么书？",
+  "pinyin": "Zhè shì shénme shū?",
+  "en": "What book is this?",
+  "words": [
+   279,
+   188,
+   182,
+   190
+  ],
+  "speaker": "yueB",
+  "maxPos": 145
+ },
+ {
+  "id": "s0224",
+  "hanzi": "你买什么东西？",
+  "pinyin": "Nǐ mǎi shénme dōngxi?",
+  "en": "What are you buying?",
+  "words": [
+   146,
+   116,
+   182,
+   40
+  ],
+  "speaker": "yueB",
+  "maxPos": 172
+ },
+ {
+  "id": "s0225",
+  "hanzi": "东西太多了。",
+  "pinyin": "Dōngxi tài duō le.",
+  "en": "There's too much stuff.",
+  "words": [
+   40,
+   206,
+   46,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 146
+ },
+ {
+  "id": "s0226",
+  "hanzi": "人太少了。",
+  "pinyin": "Rén tài shǎo le.",
+  "en": "There are too few people.",
+  "words": [
+   170,
+   206,
+   180,
+   108
+  ],
+  "speaker": "teacher",
+  "maxPos": 147
+ },
+ {
+  "id": "s0227",
+  "hanzi": "我吃得很少。",
+  "pinyin": "Wǒ chī de hěn shǎo.",
+  "en": "I eat very little.",
+  "words": [
+   221,
+   21,
+   332,
+   79,
+   180
+  ],
+  "speaker": "yueB",
+  "maxPos": 314
+ },
+ {
+  "id": "s0228",
+  "hanzi": "我有些问题。",
+  "pinyin": "Wǒ yǒu xiē wèntí.",
+  "en": "I have some questions.",
+  "words": [
+   221,
+   263,
+   239,
+   220
+  ],
+  "speaker": "hero",
+  "maxPos": 148
+ },
+ {
+  "id": "s0229",
+  "hanzi": "这些东西是谁的？",
+  "pinyin": "Zhè xiē dōngxi shì shéi de?",
+  "en": "Whose things are these?",
+  "words": [
+   279,
+   239,
+   40,
+   188,
+   181,
+   30
+  ],
+  "speaker": "yueB",
+  "maxPos": 148
+ },
+ {
+  "id": "s0230",
+  "hanzi": "我没有钱了。",
+  "pinyin": "Wǒ méiyǒu qián le.",
+  "en": "I'm out of money.",
+  "words": [
+   221,
+   122,
+   164,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 82
+ },
+ {
+  "id": "s0231",
+  "hanzi": "这个多少钱？",
+  "pinyin": "Zhè gè duōshao qián?",
+  "en": "How much is this?",
+  "words": [
+   279,
+   60,
+   47,
+   164
+  ],
+  "speaker": "hero",
+  "maxPos": 52
+ },
+ {
+  "id": "s0232",
+  "hanzi": "我学汉语。",
+  "pinyin": "Wǒ xué Hànyǔ.",
+  "en": "I study Chinese.",
+  "words": [
+   221,
+   247,
+   69
+  ],
+  "speaker": "hero",
+  "maxPos": 149
+ },
+ {
+  "id": "s0233",
+  "hanzi": "你想学什么？",
+  "pinyin": "Nǐ xiǎng xué shénme?",
+  "en": "What do you want to learn?",
+  "words": [
+   146,
+   233,
+   247,
+   182
+  ],
+  "speaker": "teacher",
+  "maxPos": 149
+ },
+ {
+  "id": "s0234",
+  "hanzi": "那个孩子很小。",
+  "pinyin": "Nà gè háizi hěn xiǎo.",
+  "en": "That child is very young.",
+  "words": [
+   136,
+   60,
+   68,
+   79,
+   234
+  ],
+  "speaker": "teacher",
+  "maxPos": 150
+ },
+ {
+  "id": "s0235",
+  "hanzi": "你有孩子吗？",
+  "pinyin": "Nǐ yǒu háizi ma?",
+  "en": "Do you have children?",
+  "words": [
+   146,
+   263,
+   68,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 150
+ },
+ {
+  "id": "s0236",
+  "hanzi": "你写什么？",
+  "pinyin": "Nǐ xiě shénme?",
+  "en": "What are you writing?",
+  "words": [
+   146,
+   240,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 151
+ },
+ {
+  "id": "s0237",
+  "hanzi": "请写你的名字。",
+  "pinyin": "Qǐng xiě nǐ de míngzi.",
+  "en": "Please write your name.",
+  "words": [
+   165,
+   240,
+   146,
+   30,
+   130
+  ],
+  "speaker": "teacher",
+  "maxPos": 151
+ },
+ {
+  "id": "s0238",
+  "hanzi": "我去学校。",
+  "pinyin": "Wǒ qù xuéxiào.",
+  "en": "I'm going to school.",
+  "words": [
+   221,
+   167,
+   250
+  ],
+  "speaker": "hero",
+  "maxPos": 152
+ },
+ {
+  "id": "s0239",
+  "hanzi": "学校很大。",
+  "pinyin": "Xuéxiào hěn dà.",
+  "en": "The school is big.",
+  "words": [
+   250,
+   79,
+   25
+  ],
+  "speaker": "teacher",
+  "maxPos": 152
+ },
+ {
+  "id": "s0240",
+  "hanzi": "那些是什么？",
+  "pinyin": "Nàxiē shì shénme?",
+  "en": "What are those?",
+  "words": [
+   141,
+   188,
+   182
+  ],
+  "speaker": "hero",
+  "maxPos": 153
+ },
+ {
+  "id": "s0241",
+  "hanzi": "那些人是谁？",
+  "pinyin": "Nàxiē rén shì shéi?",
+  "en": "Who are those people?",
+  "words": [
+   141,
+   170,
+   188,
+   181
+  ],
+  "speaker": "yueB",
+  "maxPos": 153
+ },
+ {
+  "id": "s0242",
+  "hanzi": "我坐这边。",
+  "pinyin": "Wǒ zuò zhè biān.",
+  "en": "I'll sit on this side.",
+  "words": [
+   221,
+   298,
+   279,
+   11
+  ],
+  "speaker": "hero",
+  "maxPos": 158
+ },
+ {
+  "id": "s0243",
+  "hanzi": "那边有人。",
+  "pinyin": "Nà biān yǒu rén.",
+  "en": "There's someone over there.",
+  "words": [
+   136,
+   11,
+   263,
+   170
+  ],
+  "speaker": "yueB",
+  "maxPos": 154
+ },
+ {
+  "id": "s0244",
+  "hanzi": "你觉得怎么样？",
+  "pinyin": "Nǐ juéde zěnmeyàng?",
+  "en": "What do you think?",
+  "words": [
+   146,
+   96,
+   277
+  ],
+  "speaker": "yueB",
+  "maxPos": 239
+ },
+ {
+  "id": "s0245",
+  "hanzi": "我觉得很好。",
+  "pinyin": "Wǒ juéde hěn hǎo.",
+  "en": "I think it's good.",
+  "words": [
+   221,
+   96,
+   79,
+   71
+  ],
+  "speaker": "hero",
+  "maxPos": 155
+ },
+ {
+  "id": "s0246",
+  "hanzi": "我非常高兴。",
+  "pinyin": "Wǒ fēicháng gāoxìng.",
+  "en": "I'm very happy.",
+  "words": [
+   221,
+   53,
+   57
+  ],
+  "speaker": "hero",
+  "maxPos": 203
+ },
+ {
+  "id": "s0247",
+  "hanzi": "今天非常冷。",
+  "pinyin": "Jīntiān fēicháng lěng.",
+  "en": "It's very cold today.",
+  "words": [
+   94,
+   53,
+   109
+  ],
+  "speaker": "teacher",
+  "maxPos": 156
+ },
+ {
+  "id": "s0248",
+  "hanzi": "有些人不喜欢茶。",
+  "pinyin": "Yǒuxiē rén bù xǐhuan chá.",
+  "en": "Some people don't like tea.",
+  "words": [
+   266,
+   170,
+   13,
+   225,
+   17
+  ],
+  "speaker": "yueB",
+  "maxPos": 157
+ },
+ {
+  "id": "s0249",
+  "hanzi": "有些字很难。",
+  "pinyin": "Yǒuxiē zì hěn nán.",
+  "en": "Some characters are hard.",
+  "words": [
+   266,
+   296,
+   79,
+   775
+  ],
+  "speaker": "hero",
+  "maxPos": 582
+ },
+ {
+  "id": "s0250",
+  "hanzi": "请坐这儿。",
+  "pinyin": "Qǐng zuò zhèr.",
+  "en": "Please sit here.",
+  "words": [
+   165,
+   298,
+   283
+  ],
+  "speaker": "teacher",
+  "maxPos": 224
+ },
+ {
+  "id": "s0251",
+  "hanzi": "我坐车去。",
+  "pinyin": "Wǒ zuò chē qù.",
+  "en": "I'll go by car.",
+  "words": [
+   221,
+   298,
+   20,
+   167
+  ],
+  "speaker": "hero",
+  "maxPos": 176
+ },
+ {
+  "id": "s0252",
+  "hanzi": "我爱你。",
+  "pinyin": "Wǒ ài nǐ.",
+  "en": "I love you.",
+  "words": [
+   221,
+   1,
+   146
+  ],
+  "speaker": "hero",
+  "maxPos": 159
+ },
+ {
+  "id": "s0253",
+  "hanzi": "我爱吃包子。",
+  "pinyin": "Wǒ ài chī bāozi.",
+  "en": "I love eating buns.",
+  "words": [
+   221,
+   1,
+   21,
+   8
+  ],
+  "speaker": "hero",
+  "maxPos": 304
+ },
+ {
+  "id": "s0254",
+  "hanzi": "不要说！",
+  "pinyin": "Búyào shuō!",
+  "en": "Don't say it!",
+  "words": [
+   15,
+   196
+  ],
+  "speaker": "yueB",
+  "maxPos": 160
+ },
+ {
+  "id": "s0255",
+  "hanzi": "不要吃这个。",
+  "pinyin": "Búyào chī zhège.",
+  "en": "Don't eat this.",
+  "words": [
+   15,
+   21,
+   281
+  ],
+  "speaker": "teacher",
+  "maxPos": 160
+ },
+ {
+  "id": "s0256",
+  "hanzi": "您好！",
+  "pinyin": "Nín hǎo!",
+  "en": "Hello (polite)!",
+  "words": [
+   150,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 161
+ },
+ {
+  "id": "s0257",
+  "hanzi": "您叫什么名字？",
+  "pinyin": "Nín jiào shénme míngzi?",
+  "en": "What's your name, please?",
+  "words": [
+   150,
+   91,
+   182,
+   130
+  ],
+  "speaker": "hero",
+  "maxPos": 161
+ },
+ {
+  "id": "s0258",
+  "hanzi": "我要那个。",
+  "pinyin": "Wǒ yào nàge.",
+  "en": "I want that one.",
+  "words": [
+   221,
+   252,
+   138
+  ],
+  "speaker": "hero",
+  "maxPos": 162
+ },
+ {
+  "id": "s0259",
+  "hanzi": "那个人是谁？",
+  "pinyin": "Nàge rén shì shéi?",
+  "en": "Who is that person?",
+  "words": [
+   138,
+   170,
+   188,
+   181
+  ],
+  "speaker": "yueB",
+  "maxPos": 162
+ },
+ {
+  "id": "s0260",
+  "hanzi": "先生，你找谁？",
+  "pinyin": "Xiānsheng, nǐ zhǎo shéi?",
+  "en": "Sir, who are you looking for?",
+  "words": [
+   231,
+   146,
+   278,
+   181
+  ],
+  "speaker": "teacher",
+  "maxPos": 163
+ },
+ {
+  "id": "s0261",
+  "hanzi": "先生，您好！",
+  "pinyin": "Xiānsheng, nín hǎo!",
+  "en": "Hello, sir!",
+  "words": [
+   231,
+   150,
+   71
+  ],
+  "speaker": "yueB",
+  "maxPos": 163
+ },
+ {
+  "id": "s0262",
+  "hanzi": "你早！",
+  "pinyin": "Nǐ zǎo!",
+  "en": "Morning!",
+  "words": [
+   146,
+   273
+  ],
+  "speaker": "teacher",
+  "maxPos": 164
+ },
+ {
+  "id": "s0263",
+  "hanzi": "我今天来得很早。",
+  "pinyin": "Wǒ jīntiān lái de hěn zǎo.",
+  "en": "I came early today.",
+  "words": [
+   221,
+   94,
+   106,
+   332,
+   79,
+   273
+  ],
+  "speaker": "hero",
+  "maxPos": 314
+ },
+ {
+  "id": "s0264",
+  "hanzi": "你看一下。",
+  "pinyin": "Nǐ kàn yíxià.",
+  "en": "Take a look.",
+  "words": [
+   146,
+   99,
+   259
+  ],
+  "speaker": "yueB",
+  "maxPos": 165
+ },
+ {
+  "id": "s0265",
+  "hanzi": "我问一下老师。",
+  "pinyin": "Wǒ wèn yíxià lǎoshī.",
+  "en": "I'll ask the teacher.",
+  "words": [
+   221,
+   219,
+   259,
+   107
+  ],
+  "speaker": "hero",
+  "maxPos": 196
+ },
+ {
+  "id": "s0266",
+  "hanzi": "我喜欢学习汉语。",
+  "pinyin": "Wǒ xǐhuan xuéxí Hànyǔ.",
+  "en": "I like studying Chinese.",
+  "words": [
+   221,
+   225,
+   249,
+   69
+  ],
+  "speaker": "hero",
+  "maxPos": 166
+ },
+ {
+  "id": "s0267",
+  "hanzi": "你在学习吗？",
+  "pinyin": "Nǐ zài xuéxí ma?",
+  "en": "Are you studying?",
+  "words": [
+   146,
+   271,
+   249,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 166
+ },
+ {
+  "id": "s0268",
+  "hanzi": "我的书在那里。",
+  "pinyin": "Wǒ de shū zài nàlǐ.",
+  "en": "My book is over there.",
+  "words": [
+   221,
+   30,
+   190,
+   271,
+   139
+  ],
+  "speaker": "yueB",
+  "maxPos": 167
+ },
+ {
+  "id": "s0269",
+  "hanzi": "那里有很多人。",
+  "pinyin": "Nàlǐ yǒu hěn duō rén.",
+  "en": "There are lots of people there.",
+  "words": [
+   139,
+   263,
+   79,
+   46,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 167
+ },
+ {
+  "id": "s0270",
+  "hanzi": "它们是我的猫。",
+  "pinyin": "Tāmen shì wǒ de māo.",
+  "en": "They're my cats.",
+  "words": [
+   204,
+   188,
+   221,
+   30,
+   119
+  ],
+  "speaker": "hero",
+  "maxPos": 246
+ },
+ {
+  "id": "s0271",
+  "hanzi": "它们都很小。",
+  "pinyin": "Tāmen dōu hěn xiǎo.",
+  "en": "They're all small.",
+  "words": [
+   204,
+   41,
+   79,
+   234
+  ],
+  "speaker": "yueB",
+  "maxPos": 168
+ },
+ {
+  "id": "s0272",
+  "hanzi": "你要哪个？",
+  "pinyin": "Nǐ yào nǎ gè?",
+  "en": "Which one do you want?",
+  "words": [
+   146,
+   252,
+   131,
+   60
+  ],
+  "speaker": "yueB",
+  "maxPos": 169
+ },
+ {
+  "id": "s0273",
+  "hanzi": "你是哪国人？",
+  "pinyin": "Nǐ shì nǎ guó rén?",
+  "en": "Which country are you from?",
+  "words": [
+   146,
+   188,
+   131,
+   66,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 169
+ },
+ {
+  "id": "s0274",
+  "hanzi": "今天很热。",
+  "pinyin": "Jīntiān hěn rè.",
+  "en": "It's hot today.",
+  "words": [
+   94,
+   79,
+   169
+  ],
+  "speaker": "hero",
+  "maxPos": 78
+ },
+ {
+  "id": "s0275",
+  "hanzi": "我不喜欢热天。",
+  "pinyin": "Wǒ bù xǐhuan rè tiān.",
+  "en": "I don't like hot days.",
+  "words": [
+   221,
+   13,
+   225,
+   169,
+   207
+  ],
+  "speaker": "yueB",
+  "maxPos": 118
+ },
+ {
+  "id": "s0276",
+  "hanzi": "你几岁？",
+  "pinyin": "Nǐ jǐ suì?",
+  "en": "How old are you?",
+  "words": [
+   146,
+   85,
+   199
+  ],
+  "speaker": "teacher",
+  "maxPos": 185
+ },
+ {
+  "id": "s0277",
+  "hanzi": "我十八岁。",
+  "pinyin": "Wǒ shí bā suì.",
+  "en": "I'm eighteen.",
+  "words": [
+   221,
+   184,
+   2,
+   199
+  ],
+  "speaker": "hero",
+  "maxPos": 170
+ },
+ {
+  "id": "s0278",
+  "hanzi": "你穿什么？",
+  "pinyin": "Nǐ chuān shénme?",
+  "en": "What are you wearing?",
+  "words": [
+   146,
+   23,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 171
+ },
+ {
+  "id": "s0279",
+  "hanzi": "今天冷，多穿一些。",
+  "pinyin": "Jīntiān lěng, duō chuān yìxiē.",
+  "en": "It's cold today, wear more.",
+  "words": [
+   94,
+   109,
+   46,
+   23,
+   262
+  ],
+  "speaker": "teacher",
+  "maxPos": 171
+ },
+ {
+  "id": "s0280",
+  "hanzi": "我想买水果。",
+  "pinyin": "Wǒ xiǎng mǎi shuǐguǒ.",
+  "en": "I want to buy fruit.",
+  "words": [
+   221,
+   233,
+   116,
+   193
+  ],
+  "speaker": "hero",
+  "maxPos": 253
+ },
+ {
+  "id": "s0281",
+  "hanzi": "你买了什么？",
+  "pinyin": "Nǐ mǎi le shénme?",
+  "en": "What did you buy?",
+  "words": [
+   146,
+   116,
+   108,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 172
+ },
+ {
+  "id": "s0282",
+  "hanzi": "我喝茶。",
+  "pinyin": "Wǒ hē chá.",
+  "en": "I drink tea.",
+  "words": [
+   221,
+   77,
+   17
+  ],
+  "speaker": "yueB",
+  "maxPos": 22
+ },
+ {
+  "id": "s0283",
+  "hanzi": "这茶很好喝。",
+  "pinyin": "Zhè chá hěn hǎo hē.",
+  "en": "This tea is tasty.",
+  "words": [
+   279,
+   17,
+   79,
+   71,
+   77
+  ],
+  "speaker": "hero",
+  "maxPos": 45
+ },
+ {
+  "id": "s0284",
+  "hanzi": "你有多少钱？",
+  "pinyin": "Nǐ yǒu duōshao qián?",
+  "en": "How much money do you have?",
+  "words": [
+   146,
+   263,
+   47,
+   164
+  ],
+  "speaker": "hero",
+  "maxPos": 52
+ },
+ {
+  "id": "s0285",
+  "hanzi": "多少人来了？",
+  "pinyin": "Duōshao rén lái le?",
+  "en": "How many people came?",
+  "words": [
+   47,
+   170,
+   106,
+   108
+  ],
+  "speaker": "yueB",
+  "maxPos": 82
+ },
+ {
+  "id": "s0286",
+  "hanzi": "我很忙。",
+  "pinyin": "Wǒ hěn máng.",
+  "en": "I'm very busy.",
+  "words": [
+   221,
+   79,
+   118
+  ],
+  "speaker": "yueB",
+  "maxPos": 173
+ },
+ {
+  "id": "s0287",
+  "hanzi": "你忙吗？",
+  "pinyin": "Nǐ máng ma?",
+  "en": "Are you busy?",
+  "words": [
+   146,
+   118,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 173
+ },
+ {
+  "id": "s0288",
+  "hanzi": "不要说话。",
+  "pinyin": "Búyào shuōhuà.",
+  "en": "Don't talk.",
+  "words": [
+   15,
+   197
+  ],
+  "speaker": "teacher",
+  "maxPos": 174
+ },
+ {
+  "id": "s0289",
+  "hanzi": "他不想说话。",
+  "pinyin": "Tā bù xiǎng shuōhuà.",
+  "en": "He doesn't want to talk.",
+  "words": [
+   200,
+   13,
+   233,
+   197
+  ],
+  "speaker": "yueB",
+  "maxPos": 174
+ },
+ {
+  "id": "s0290",
+  "hanzi": "你看见我的猫了吗？",
+  "pinyin": "Nǐ kànjiàn wǒ de māo le ma?",
+  "en": "Did you see my cat?",
+  "words": [
+   146,
+   101,
+   221,
+   30,
+   119,
+   108,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 246
+ },
+ {
+  "id": "s0291",
+  "hanzi": "我没有看见他。",
+  "pinyin": "Wǒ méiyǒu kànjiàn tā.",
+  "en": "I didn't see him.",
+  "words": [
+   221,
+   122,
+   101,
+   200
+  ],
+  "speaker": "yueB",
+  "maxPos": 175
+ },
+ {
+  "id": "s0292",
+  "hanzi": "我们坐车去吧。",
+  "pinyin": "Wǒmen zuò chē qù ba.",
+  "en": "Let's go by car.",
+  "words": [
+   222,
+   298,
+   20,
+   167,
+   4
+  ],
+  "speaker": "hero",
+  "maxPos": 176
+ },
+ {
+  "id": "s0293",
+  "hanzi": "车来了！",
+  "pinyin": "Chē lái le!",
+  "en": "The bus is here!",
+  "words": [
+   20,
+   106,
+   108
+  ],
+  "speaker": "yueB",
+  "maxPos": 176
+ },
+ {
+  "id": "s0294",
+  "hanzi": "今年我二十岁。",
+  "pinyin": "Jīnnián wǒ èr shí suì.",
+  "en": "I'm twenty this year.",
+  "words": [
+   93,
+   221,
+   49,
+   184,
+   199
+  ],
+  "speaker": "hero",
+  "maxPos": 177
+ },
+ {
+  "id": "s0295",
+  "hanzi": "今年冷吗？",
+  "pinyin": "Jīnnián lěng ma?",
+  "en": "Is it cold this year?",
+  "words": [
+   93,
+   109,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 177
+ },
+ {
+  "id": "s0296",
+  "hanzi": "我喜欢你。",
+  "pinyin": "Wǒ xǐhuan nǐ.",
+  "en": "I like you.",
+  "words": [
+   221,
+   225,
+   146
+  ],
+  "speaker": "hero",
+  "maxPos": 30
+ },
+ {
+  "id": "s0297",
+  "hanzi": "你喜欢什么？",
+  "pinyin": "Nǐ xǐhuan shénme?",
+  "en": "What do you like?",
+  "words": [
+   146,
+   225,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 47
+ },
+ {
+  "id": "s0298",
+  "hanzi": "他有一个儿子。",
+  "pinyin": "Tā yǒu yī gè érzi.",
+  "en": "He has a son.",
+  "words": [
+   200,
+   263,
+   254,
+   60,
+   48
+  ],
+  "speaker": "teacher",
+  "maxPos": 178
+ },
+ {
+  "id": "s0299",
+  "hanzi": "我的儿子五岁。",
+  "pinyin": "Wǒ de érzi wǔ suì.",
+  "en": "My son is five.",
+  "words": [
+   221,
+   30,
+   48,
+   223,
+   199
+  ],
+  "speaker": "teacher",
+  "maxPos": 178
+ },
+ {
+  "id": "s0300",
+  "hanzi": "他是我的好朋友。",
+  "pinyin": "Tā shì wǒ de hǎo péngyou.",
+  "en": "He's my good friend.",
+  "words": [
+   200,
+   188,
+   221,
+   30,
+   71,
+   156
+  ],
+  "speaker": "hero",
+  "maxPos": 179
+ },
+ {
+  "id": "s0301",
+  "hanzi": "我们是朋友吗？",
+  "pinyin": "Wǒmen shì péngyou ma?",
+  "en": "Are we friends?",
+  "words": [
+   222,
+   188,
+   156,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 179
+ },
+ {
+  "id": "s0302",
+  "hanzi": "我坐飞机去中国。",
+  "pinyin": "Wǒ zuò fēijī qù Zhōngguó.",
+  "en": "I'm flying to China.",
+  "words": [
+   221,
+   298,
+   54,
+   167,
+   289
+  ],
+  "speaker": "hero",
+  "maxPos": 180
+ },
+ {
+  "id": "s0303",
+  "hanzi": "飞机几点到？",
+  "pinyin": "Fēijī jǐ diǎn dào?",
+  "en": "What time does the plane land?",
+  "words": [
+   54,
+   85,
+   33,
+   29
+  ],
+  "speaker": "yueB",
+  "maxPos": 185
+ },
+ {
+  "id": "s0304",
+  "hanzi": "他病了。",
+  "pinyin": "Tā bìng le.",
+  "en": "He's sick.",
+  "words": [
+   200,
+   12,
+   108
+  ],
+  "speaker": "teacher",
+  "maxPos": 181
+ },
+ {
+  "id": "s0305",
+  "hanzi": "你的病好了吗？",
+  "pinyin": "Nǐ de bìng hǎo le ma?",
+  "en": "Are you better now?",
+  "words": [
+   146,
+   30,
+   12,
+   71,
+   108,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 181
+ },
+ {
+  "id": "s0306",
+  "hanzi": "我认识他。",
+  "pinyin": "Wǒ rènshi tā.",
+  "en": "I know him.",
+  "words": [
+   221,
+   171,
+   200
+  ],
+  "speaker": "hero",
+  "maxPos": 182
+ },
+ {
+  "id": "s0307",
+  "hanzi": "认识你很高兴。",
+  "pinyin": "Rènshi nǐ hěn gāoxìng.",
+  "en": "Nice to meet you.",
+  "words": [
+   171,
+   146,
+   79,
+   57
+  ],
+  "speaker": "yueB",
+  "maxPos": 203
+ },
+ {
+  "id": "s0308",
+  "hanzi": "这个菜很好吃。",
+  "pinyin": "Zhè gè cài hěn hǎo chī.",
+  "en": "This dish is delicious.",
+  "words": [
+   279,
+   60,
+   16,
+   79,
+   71,
+   21
+  ],
+  "speaker": "hero",
+  "maxPos": 45
+ },
+ {
+  "id": "s0309",
+  "hanzi": "你想吃什么菜？",
+  "pinyin": "Nǐ xiǎng chī shénme cài?",
+  "en": "What dish do you want?",
+  "words": [
+   146,
+   233,
+   21,
+   182,
+   16
+  ],
+  "speaker": "yueB",
+  "maxPos": 47
+ },
+ {
+  "id": "s0310",
+  "hanzi": "你的电话是多少？",
+  "pinyin": "Nǐ de diànhuà shì duōshao?",
+  "en": "What's your phone number?",
+  "words": [
+   146,
+   30,
+   35,
+   188,
+   47
+  ],
+  "speaker": "hero",
+  "maxPos": 183
+ },
+ {
+  "id": "s0311",
+  "hanzi": "我给你打电话。",
+  "pinyin": "Wǒ gěi nǐ dǎ diànhuà.",
+  "en": "I'll call you.",
+  "words": [
+   221,
+   61,
+   146,
+   327,
+   35
+  ],
+  "speaker": "yueB",
+  "maxPos": 335
+ },
+ {
+  "id": "s0312",
+  "hanzi": "她在中学工作。",
+  "pinyin": "Tā zài zhōngxué gōngzuò.",
+  "en": "She works at a middle school.",
+  "words": [
+   202,
+   271,
+   292,
+   63
+  ],
+  "speaker": "teacher",
+  "maxPos": 184
+ },
+ {
+  "id": "s0313",
+  "hanzi": "我是中学学生。",
+  "pinyin": "Wǒ shì zhōngxué xuéshēng.",
+  "en": "I'm a middle school student.",
+  "words": [
+   221,
+   188,
+   292,
+   248
+  ],
+  "speaker": "hero",
+  "maxPos": 184
+ },
+ {
+  "id": "s0314",
+  "hanzi": "你有几个朋友？",
+  "pinyin": "Nǐ yǒu jǐ gè péngyou?",
+  "en": "How many friends do you have?",
+  "words": [
+   146,
+   263,
+   85,
+   60,
+   156
+  ],
+  "speaker": "yueB",
+  "maxPos": 185
+ },
+ {
+  "id": "s0315",
+  "hanzi": "现在几点了？",
+  "pinyin": "Xiànzài jǐ diǎn le?",
+  "en": "What time is it now?",
+  "words": [
+   232,
+   85,
+   33,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 185
+ },
+ {
+  "id": "s0316",
+  "hanzi": "现在三点半。",
+  "pinyin": "Xiànzài sān diǎn bàn.",
+  "en": "It's half past three.",
+  "words": [
+   232,
+   173,
+   33,
+   7
+  ],
+  "speaker": "yueB",
+  "maxPos": 186
+ },
+ {
+  "id": "s0317",
+  "hanzi": "我吃了半个。",
+  "pinyin": "Wǒ chī le bàn gè.",
+  "en": "I ate half.",
+  "words": [
+   221,
+   21,
+   108,
+   7,
+   60
+  ],
+  "speaker": "hero",
+  "maxPos": 186
+ },
+ {
+  "id": "s0318",
+  "hanzi": "我学习了一个小时。",
+  "pinyin": "Wǒ xuéxí le yī gè xiǎoshí.",
+  "en": "I studied for an hour.",
+  "words": [
+   221,
+   249,
+   108,
+   254,
+   60,
+   236
+  ],
+  "speaker": "hero",
+  "maxPos": 187
+ },
+ {
+  "id": "s0319",
+  "hanzi": "两个小时后见。",
+  "pinyin": "Liǎng gè xiǎoshí hòu jiàn.",
+  "en": "See you in two hours.",
+  "words": [
+   111,
+   60,
+   236,
+   80,
+   88
+  ],
+  "speaker": "yueB",
+  "maxPos": 187
+ },
+ {
+  "id": "s0320",
+  "hanzi": "这个店卖什么？",
+  "pinyin": "Zhè gè diàn mài shénme?",
+  "en": "What does this shop sell?",
+  "words": [
+   279,
+   60,
+   34,
+   117,
+   182
+  ],
+  "speaker": "hero",
+  "maxPos": 227
+ },
+ {
+  "id": "s0321",
+  "hanzi": "他们卖水果。",
+  "pinyin": "Tāmen mài shuǐguǒ.",
+  "en": "They sell fruit.",
+  "words": [
+   203,
+   117,
+   193
+  ],
+  "speaker": "yueB",
+  "maxPos": 253
+ },
+ {
+  "id": "s0322",
+  "hanzi": "你在哪里？",
+  "pinyin": "Nǐ zài nǎlǐ?",
+  "en": "Where are you?",
+  "words": [
+   146,
+   271,
+   133
+  ],
+  "speaker": "yueB",
+  "maxPos": 189
+ },
+ {
+  "id": "s0323",
+  "hanzi": "我的书在哪里？",
+  "pinyin": "Wǒ de shū zài nǎlǐ?",
+  "en": "Where is my book?",
+  "words": [
+   221,
+   30,
+   190,
+   271,
+   133
+  ],
+  "speaker": "hero",
+  "maxPos": 189
+ },
+ {
+  "id": "s0324",
+  "hanzi": "他是男老师。",
+  "pinyin": "Tā shì nán lǎoshī.",
+  "en": "He's a male teacher.",
+  "words": [
+   200,
+   188,
+   142,
+   107
+  ],
+  "speaker": "teacher",
+  "maxPos": 196
+ },
+ {
+  "id": "s0325",
+  "hanzi": "那个男孩子是我弟弟。",
+  "pinyin": "Nà gè nán háizi shì wǒ dìdi.",
+  "en": "That boy is my little brother.",
+  "words": [
+   136,
+   60,
+   142,
+   68,
+   188,
+   221,
+   32
+  ],
+  "speaker": "hero",
+  "maxPos": 252
+ },
+ {
+  "id": "s0326",
+  "hanzi": "他在医院。",
+  "pinyin": "Tā zài yīyuàn.",
+  "en": "He's at the hospital.",
+  "words": [
+   200,
+   271,
+   257
+  ],
+  "speaker": "teacher",
+  "maxPos": 191
+ },
+ {
+  "id": "s0327",
+  "hanzi": "我去医院看病。",
+  "pinyin": "Wǒ qù yīyuàn kàn bìng.",
+  "en": "I'm going to the hospital to see a doctor.",
+  "words": [
+   221,
+   167,
+   257,
+   99,
+   12
+  ],
+  "speaker": "hero",
+  "maxPos": 191
+ },
+ {
+  "id": "s0328",
+  "hanzi": "你睡了吗？",
+  "pinyin": "Nǐ shuì le ma?",
+  "en": "Are you asleep?",
+  "words": [
+   146,
+   194,
+   108,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 192
+ },
+ {
+  "id": "s0329",
+  "hanzi": "我想睡了。",
+  "pinyin": "Wǒ xiǎng shuì le.",
+  "en": "I want to sleep now.",
+  "words": [
+   221,
+   233,
+   194,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 192
+ },
+ {
+  "id": "s0330",
+  "hanzi": "一块钱。",
+  "pinyin": "Yī kuài qián.",
+  "en": "One kuai.",
+  "words": [
+   254,
+   105,
+   164
+  ],
+  "speaker": "teacher",
+  "maxPos": 53
+ },
+ {
+  "id": "s0331",
+  "hanzi": "这个三块钱。",
+  "pinyin": "Zhè gè sān kuài qián.",
+  "en": "This one is three kuai.",
+  "words": [
+   279,
+   60,
+   173,
+   105,
+   164
+  ],
+  "speaker": "yueB",
+  "maxPos": 72
+ },
+ {
+  "id": "s0332",
+  "hanzi": "去年我去了中国。",
+  "pinyin": "Qùnián wǒ qù le Zhōngguó.",
+  "en": "I went to China last year.",
+  "words": [
+   168,
+   221,
+   167,
+   108,
+   289
+  ],
+  "speaker": "hero",
+  "maxPos": 193
+ },
+ {
+  "id": "s0333",
+  "hanzi": "去年很冷。",
+  "pinyin": "Qùnián hěn lěng.",
+  "en": "It was cold last year.",
+  "words": [
+   168,
+   79,
+   109
+  ],
+  "speaker": "yueB",
+  "maxPos": 193
+ },
+ {
+  "id": "s0334",
+  "hanzi": "她有一个女儿。",
+  "pinyin": "Tā yǒu yī gè nǚ’ér.",
+  "en": "She has a daughter.",
+  "words": [
+   202,
+   263,
+   254,
+   60,
+   153
+  ],
+  "speaker": "teacher",
+  "maxPos": 194
+ },
+ {
+  "id": "s0335",
+  "hanzi": "我的女儿很漂亮。",
+  "pinyin": "Wǒ de nǚ’ér hěn piàoliang.",
+  "en": "My daughter is beautiful.",
+  "words": [
+   221,
+   30,
+   153,
+   79,
+   158
+  ],
+  "speaker": "teacher",
+  "maxPos": 245
+ },
+ {
+  "id": "s0336",
+  "hanzi": "我买了一件衣服。",
+  "pinyin": "Wǒ mǎi le yī jiàn yīfu.",
+  "en": "I bought a piece of clothing.",
+  "words": [
+   221,
+   116,
+   108,
+   254,
+   89,
+   255
+  ],
+  "speaker": "hero",
+  "maxPos": 204
+ },
+ {
+  "id": "s0337",
+  "hanzi": "这件衣服很贵。",
+  "pinyin": "Zhè jiàn yīfu hěn guì.",
+  "en": "This piece of clothing is expensive.",
+  "words": [
+   279,
+   89,
+   255,
+   79,
+   65
+  ],
+  "speaker": "yueB",
+  "maxPos": 204
+ },
+ {
+  "id": "s0338",
+  "hanzi": "老师好！",
+  "pinyin": "Lǎoshī hǎo!",
+  "en": "Hello, teacher!",
+  "words": [
+   107,
+   71
+  ],
+  "speaker": "hero",
+  "maxPos": 196
+ },
+ {
+  "id": "s0339",
+  "hanzi": "他是我的汉语老师。",
+  "pinyin": "Tā shì wǒ de Hànyǔ lǎoshī.",
+  "en": "He's my Chinese teacher.",
+  "words": [
+   200,
+   188,
+   221,
+   30,
+   69,
+   107
+  ],
+  "speaker": "hero",
+  "maxPos": 196
+ },
+ {
+  "id": "s0340",
+  "hanzi": "你吃饭了吗？",
+  "pinyin": "Nǐ chī fàn le ma?",
+  "en": "Have you eaten?",
+  "words": [
+   146,
+   21,
+   50,
+   108,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 197
+ },
+ {
+  "id": "s0341",
+  "hanzi": "我们去吃饭吧。",
+  "pinyin": "Wǒmen qù chī fàn ba.",
+  "en": "Let's go eat.",
+  "words": [
+   222,
+   167,
+   21,
+   50,
+   4
+  ],
+  "speaker": "hero",
+  "maxPos": 197
+ },
+ {
+  "id": "s0342",
+  "hanzi": "等我五分钟。",
+  "pinyin": "Děng wǒ wǔ fēnzhōng.",
+  "en": "Wait five minutes for me.",
+  "words": [
+   334,
+   221,
+   223,
+   56
+  ],
+  "speaker": "hero",
+  "maxPos": 311
+ },
+ {
+  "id": "s0343",
+  "hanzi": "十分钟后到。",
+  "pinyin": "Shí fēnzhōng hòu dào.",
+  "en": "Arriving in ten minutes.",
+  "words": [
+   184,
+   56,
+   80,
+   29
+  ],
+  "speaker": "yueB",
+  "maxPos": 198
+ },
+ {
+  "id": "s0344",
+  "hanzi": "她们是我的姐姐。",
+  "pinyin": "Tāmen shì wǒ de jiějie.",
+  "en": "They're my older sisters.",
+  "words": [
+   205,
+   188,
+   221,
+   30,
+   92
+  ],
+  "speaker": "hero",
+  "maxPos": 234
+ },
+ {
+  "id": "s0345",
+  "hanzi": "她们都很漂亮。",
+  "pinyin": "Tāmen dōu hěn piàoliang.",
+  "en": "They're all beautiful.",
+  "words": [
+   205,
+   41,
+   79,
+   158
+  ],
+  "speaker": "yueB",
+  "maxPos": 245
+ },
+ {
+  "id": "s0346",
+  "hanzi": "我来晚了。",
+  "pinyin": "Wǒ lái wǎn le.",
+  "en": "I'm late.",
+  "words": [
+   221,
+   106,
+   215,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 200
+ },
+ {
+  "id": "s0347",
+  "hanzi": "太晚了，我要睡觉。",
+  "pinyin": "Tài wǎn le, wǒ yào shuìjiào.",
+  "en": "It's too late, I'm going to sleep.",
+  "words": [
+   206,
+   215,
+   108,
+   221,
+   252,
+   195
+  ],
+  "speaker": "yueB",
+  "maxPos": 251
+ },
+ {
+  "id": "s0348",
+  "hanzi": "晚上见！",
+  "pinyin": "Wǎnshang jiàn!",
+  "en": "See you tonight!",
+  "words": [
+   217,
+   88
+  ],
+  "speaker": "hero",
+  "maxPos": 201
+ },
+ {
+  "id": "s0349",
+  "hanzi": "晚上你做什么？",
+  "pinyin": "Wǎnshang nǐ zuò shénme?",
+  "en": "What are you doing tonight?",
+  "words": [
+   217,
+   146,
+   299,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 201
+ },
+ {
+  "id": "s0350",
+  "hanzi": "你读什么书？",
+  "pinyin": "Nǐ dú shénme shū?",
+  "en": "What book are you reading?",
+  "words": [
+   146,
+   42,
+   182,
+   190
+  ],
+  "speaker": "yueB",
+  "maxPos": 202
+ },
+ {
+  "id": "s0351",
+  "hanzi": "请读一下。",
+  "pinyin": "Qǐng dú yíxià.",
+  "en": "Please read it.",
+  "words": [
+   165,
+   42,
+   259
+  ],
+  "speaker": "teacher",
+  "maxPos": 202
+ },
+ {
+  "id": "s0352",
+  "hanzi": "我很高兴。",
+  "pinyin": "Wǒ hěn gāoxìng.",
+  "en": "I'm happy.",
+  "words": [
+   221,
+   79,
+   57
+  ],
+  "speaker": "hero",
+  "maxPos": 203
+ },
+ {
+  "id": "s0353",
+  "hanzi": "你高兴吗？",
+  "pinyin": "Nǐ gāoxìng ma?",
+  "en": "Are you happy?",
+  "words": [
+   146,
+   57,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 203
+ },
+ {
+  "id": "s0354",
+  "hanzi": "今天很冷。",
+  "pinyin": "Jīntiān hěn lěng.",
+  "en": "It's cold today.",
+  "words": [
+   94,
+   79,
+   109
+  ],
+  "speaker": "teacher",
+  "maxPos": 78
+ },
+ {
+  "id": "s0355",
+  "hanzi": "你冷吗？",
+  "pinyin": "Nǐ lěng ma?",
+  "en": "Are you cold?",
+  "words": [
+   146,
+   109,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 27
+ },
+ {
+  "id": "s0356",
+  "hanzi": "这件衣服很漂亮。",
+  "pinyin": "Zhè jiàn yīfu hěn piàoliang.",
+  "en": "This piece of clothing is beautiful.",
+  "words": [
+   279,
+   89,
+   255,
+   79,
+   158
+  ],
+  "speaker": "yueB",
+  "maxPos": 245
+ },
+ {
+  "id": "s0357",
+  "hanzi": "我想买新衣服。",
+  "pinyin": "Wǒ xiǎng mǎi xīn yīfu.",
+  "en": "I want to buy new clothes.",
+  "words": [
+   221,
+   233,
+   116,
+   242,
+   255
+  ],
+  "speaker": "hero",
+  "maxPos": 204
+ },
+ {
+  "id": "s0358",
+  "hanzi": "我正在吃饭。",
+  "pinyin": "Wǒ zhèngzài chī fàn.",
+  "en": "I'm eating right now.",
+  "words": [
+   221,
+   286,
+   21,
+   50
+  ],
+  "speaker": "hero",
+  "maxPos": 205
+ },
+ {
+  "id": "s0359",
+  "hanzi": "他正在看书。",
+  "pinyin": "Tā zhèngzài kàn shū.",
+  "en": "He's reading right now.",
+  "words": [
+   200,
+   286,
+   99,
+   190
+  ],
+  "speaker": "teacher",
+  "maxPos": 205
+ },
+ {
+  "id": "s0360",
+  "hanzi": "我们去看电影吧。",
+  "pinyin": "Wǒmen qù kàn diànyǐng ba.",
+  "en": "Let's go see a movie.",
+  "words": [
+   222,
+   167,
+   99,
+   38,
+   4
+  ],
+  "speaker": "hero",
+  "maxPos": 206
+ },
+ {
+  "id": "s0361",
+  "hanzi": "这个电影很好看。",
+  "pinyin": "Zhè gè diànyǐng hěn hǎo kàn.",
+  "en": "This movie is good.",
+  "words": [
+   279,
+   60,
+   38,
+   79,
+   71,
+   99
+  ],
+  "speaker": "yueB",
+  "maxPos": 206
+ },
+ {
+  "id": "s0362",
+  "hanzi": "我在看电视。",
+  "pinyin": "Wǒ zài kàn diànshì.",
+  "en": "I'm watching TV.",
+  "words": [
+   221,
+   271,
+   99,
+   37
+  ],
+  "speaker": "yueB",
+  "maxPos": 207
+ },
+ {
+  "id": "s0363",
+  "hanzi": "你喜欢看电视吗？",
+  "pinyin": "Nǐ xǐhuan kàn diànshì ma?",
+  "en": "Do you like watching TV?",
+  "words": [
+   146,
+   225,
+   99,
+   37,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 207
+ },
+ {
+  "id": "s0364",
+  "hanzi": "我的手机呢？",
+  "pinyin": "Wǒ de shǒujī ne?",
+  "en": "Where's my phone?",
+  "words": [
+   221,
+   30,
+   189,
+   144
+  ],
+  "speaker": "hero",
+  "maxPos": 208
+ },
+ {
+  "id": "s0365",
+  "hanzi": "你有手机吗？",
+  "pinyin": "Nǐ yǒu shǒujī ma?",
+  "en": "Do you have a phone?",
+  "words": [
+   146,
+   263,
+   189,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 208
+ },
+ {
+  "id": "s0366",
+  "hanzi": "下午见。",
+  "pinyin": "Xiàwǔ jiàn.",
+  "en": "See you this afternoon.",
+  "words": [
+   230,
+   88
+  ],
+  "speaker": "teacher",
+  "maxPos": 209
+ },
+ {
+  "id": "s0367",
+  "hanzi": "下午我去学校。",
+  "pinyin": "Xiàwǔ wǒ qù xuéxiào.",
+  "en": "I'm going to school this afternoon.",
+  "words": [
+   230,
+   221,
+   167,
+   250
+  ],
+  "speaker": "hero",
+  "maxPos": 209
+ },
+ {
+  "id": "s0368",
+  "hanzi": "昨天你去哪儿了？",
+  "pinyin": "Zuótiān nǐ qù nǎr le?",
+  "en": "Where did you go yesterday?",
+  "words": [
+   297,
+   146,
+   167,
+   134,
+   108
+  ],
+  "speaker": "yueB",
+  "maxPos": 210
+ },
+ {
+  "id": "s0369",
+  "hanzi": "昨天很热。",
+  "pinyin": "Zuótiān hěn rè.",
+  "en": "It was hot yesterday.",
+  "words": [
+   297,
+   79,
+   169
+  ],
+  "speaker": "hero",
+  "maxPos": 210
+ },
+ {
+  "id": "s0370",
+  "hanzi": "我吃了一半。",
+  "pinyin": "Wǒ chī le yíbàn.",
+  "en": "I ate half.",
+  "words": [
+   221,
+   21,
+   108,
+   258
+  ],
+  "speaker": "yueB",
+  "maxPos": 211
+ },
+ {
+  "id": "s0371",
+  "hanzi": "一半是你的。",
+  "pinyin": "Yíbàn shì nǐ de.",
+  "en": "Half is yours.",
+  "words": [
+   258,
+   188,
+   146,
+   30
+  ],
+  "speaker": "hero",
+  "maxPos": 211
+ },
+ {
+  "id": "s0372",
+  "hanzi": "我妈妈是老师。",
+  "pinyin": "Wǒ māma shì lǎoshī.",
+  "en": "My mom is a teacher.",
+  "words": [
+   221,
+   114,
+   188,
+   107
+  ],
+  "speaker": "hero",
+  "maxPos": 212
+ },
+ {
+  "id": "s0373",
+  "hanzi": "妈妈，我回来了！",
+  "pinyin": "Māma, wǒ huí lái le!",
+  "en": "Mom, I'm home!",
+  "words": [
+   114,
+   221,
+   81,
+   106,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 212
+ },
+ {
+  "id": "s0374",
+  "hanzi": "你听见了吗？",
+  "pinyin": "Nǐ tīngjiàn le ma?",
+  "en": "Did you hear that?",
+  "words": [
+   146,
+   210,
+   108,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 213
+ },
+ {
+  "id": "s0375",
+  "hanzi": "我没有听见。",
+  "pinyin": "Wǒ méiyǒu tīngjiàn.",
+  "en": "I didn't hear.",
+  "words": [
+   221,
+   122,
+   210
+  ],
+  "speaker": "hero",
+  "maxPos": 213
+ },
+ {
+  "id": "s0376",
+  "hanzi": "这个太贵了！",
+  "pinyin": "Zhè gè tài guì le!",
+  "en": "This is too expensive!",
+  "words": [
+   279,
+   60,
+   206,
+   65,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 135
+ },
+ {
+  "id": "s0377",
+  "hanzi": "那个不贵。",
+  "pinyin": "Nà gè bù guì.",
+  "en": "That one isn't expensive.",
+  "words": [
+   136,
+   60,
+   13,
+   65
+  ],
+  "speaker": "yueB",
+  "maxPos": 56
+ },
+ {
+  "id": "s0378",
+  "hanzi": "下雨了吗？",
+  "pinyin": "Xià yǔ le ma?",
+  "en": "Is it raining?",
+  "words": [
+   226,
+   267,
+   108,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 214
+ },
+ {
+  "id": "s0379",
+  "hanzi": "今天有雨。",
+  "pinyin": "Jīntiān yǒu yǔ.",
+  "en": "It will rain today.",
+  "words": [
+   94,
+   263,
+   267
+  ],
+  "speaker": "teacher",
+  "maxPos": 214
+ },
+ {
+  "id": "s0380",
+  "hanzi": "他是我的同学。",
+  "pinyin": "Tā shì wǒ de tóngxué.",
+  "en": "He's my classmate.",
+  "words": [
+   200,
+   188,
+   221,
+   30,
+   211
+  ],
+  "speaker": "hero",
+  "maxPos": 215
+ },
+ {
+  "id": "s0381",
+  "hanzi": "我们是同学。",
+  "pinyin": "Wǒmen shì tóngxué.",
+  "en": "We're classmates.",
+  "words": [
+   222,
+   188,
+   211
+  ],
+  "speaker": "yueB",
+  "maxPos": 215
+ },
+ {
+  "id": "s0382",
+  "hanzi": "她喜欢唱歌。",
+  "pinyin": "Tā xǐhuan chàng gē.",
+  "en": "She likes singing.",
+  "words": [
+   202,
+   225,
+   18,
+   58
+  ],
+  "speaker": "hero",
+  "maxPos": 231
+ },
+ {
+  "id": "s0383",
+  "hanzi": "我们唱歌吧！",
+  "pinyin": "Wǒmen chàng gē ba!",
+  "en": "Let's sing!",
+  "words": [
+   222,
+   18,
+   58,
+   4
+  ],
+  "speaker": "hero",
+  "maxPos": 231
+ },
+ {
+  "id": "s0384",
+  "hanzi": "我哥哥在中国。",
+  "pinyin": "Wǒ gēge zài Zhōngguó.",
+  "en": "My older brother is in China.",
+  "words": [
+   221,
+   59,
+   271,
+   289
+  ],
+  "speaker": "hero",
+  "maxPos": 217
+ },
+ {
+  "id": "s0385",
+  "hanzi": "你有哥哥吗？",
+  "pinyin": "Nǐ yǒu gēge ma?",
+  "en": "Do you have an older brother?",
+  "words": [
+   146,
+   263,
+   59,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 217
+ },
+ {
+  "id": "s0386",
+  "hanzi": "下雪了！",
+  "pinyin": "Xià xuě le!",
+  "en": "It's snowing!",
+  "words": [
+   226,
+   251,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 218
+ },
+ {
+  "id": "s0387",
+  "hanzi": "我喜欢雪。",
+  "pinyin": "Wǒ xǐhuan xuě.",
+  "en": "I like snow.",
+  "words": [
+   221,
+   225,
+   251
+  ],
+  "speaker": "yueB",
+  "maxPos": 218
+ },
+ {
+  "id": "s0388",
+  "hanzi": "他是医生。",
+  "pinyin": "Tā shì yīshēng.",
+  "en": "He's a doctor.",
+  "words": [
+   200,
+   188,
+   256
+  ],
+  "speaker": "teacher",
+  "maxPos": 219
+ },
+ {
+  "id": "s0389",
+  "hanzi": "我想做医生。",
+  "pinyin": "Wǒ xiǎng zuò yīshēng.",
+  "en": "I want to be a doctor.",
+  "words": [
+   221,
+   233,
+   299,
+   256
+  ],
+  "speaker": "hero",
+  "maxPos": 219
+ },
+ {
+  "id": "s0390",
+  "hanzi": "我们去玩吧！",
+  "pinyin": "Wǒmen qù wán ba!",
+  "en": "Let's go play!",
+  "words": [
+   222,
+   167,
+   214,
+   4
+  ],
+  "speaker": "hero",
+  "maxPos": 220
+ },
+ {
+  "id": "s0391",
+  "hanzi": "你想玩什么？",
+  "pinyin": "Nǐ xiǎng wán shénme?",
+  "en": "What do you want to play?",
+  "words": [
+   146,
+   233,
+   214,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 220
+ },
+ {
+  "id": "s0392",
+  "hanzi": "我哥哥是大学生。",
+  "pinyin": "Wǒ gēge shì dàxuéshēng.",
+  "en": "My older brother is a university student.",
+  "words": [
+   221,
+   59,
+   188,
+   28
+  ],
+  "speaker": "hero",
+  "maxPos": 221
+ },
+ {
+  "id": "s0393",
+  "hanzi": "你是大学生吗？",
+  "pinyin": "Nǐ shì dàxuéshēng ma?",
+  "en": "Are you a university student?",
+  "words": [
+   146,
+   188,
+   28,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 221
+ },
+ {
+  "id": "s0394",
+  "hanzi": "我想休息一下。",
+  "pinyin": "Wǒ xiǎng xiūxi yíxià.",
+  "en": "I want to rest a bit.",
+  "words": [
+   221,
+   233,
+   246,
+   259
+  ],
+  "speaker": "hero",
+  "maxPos": 222
+ },
+ {
+  "id": "s0395",
+  "hanzi": "你休息吧。",
+  "pinyin": "Nǐ xiūxi ba.",
+  "en": "Get some rest.",
+  "words": [
+   146,
+   246,
+   4
+  ],
+  "speaker": "yueB",
+  "maxPos": 222
+ },
+ {
+  "id": "s0396",
+  "hanzi": "我家有一只狗。",
+  "pinyin": "Wǒ jiā yǒu yī zhī gǒu.",
+  "en": "We have a dog at home.",
+  "words": [
+   221,
+   86,
+   263,
+   254,
+   287,
+   64
+  ],
+  "speaker": "hero",
+  "maxPos": 223
+ },
+ {
+  "id": "s0397",
+  "hanzi": "那只狗是谁的？",
+  "pinyin": "Nà zhī gǒu shì shéi de?",
+  "en": "Whose dog is that?",
+  "words": [
+   136,
+   287,
+   64,
+   188,
+   181,
+   30
+  ],
+  "speaker": "yueB",
+  "maxPos": 223
+ },
+ {
+  "id": "s0398",
+  "hanzi": "我在这儿。",
+  "pinyin": "Wǒ zài zhèr.",
+  "en": "I'm here.",
+  "words": [
+   221,
+   271,
+   283
+  ],
+  "speaker": "yueB",
+  "maxPos": 224
+ },
+ {
+  "id": "s0399",
+  "hanzi": "请来这儿。",
+  "pinyin": "Qǐng lái zhèr.",
+  "en": "Please come here.",
+  "words": [
+   165,
+   106,
+   283
+  ],
+  "speaker": "teacher",
+  "maxPos": 224
+ },
+ {
+  "id": "s0400",
+  "hanzi": "一千块钱。",
+  "pinyin": "Yī qiān kuài qián.",
+  "en": "One thousand kuai.",
+  "words": [
+   254,
+   162,
+   105,
+   164
+  ],
+  "speaker": "teacher",
+  "maxPos": 225
+ },
+ {
+  "id": "s0401",
+  "hanzi": "这个三千元。",
+  "pinyin": "Zhè gè sān qiān yuán.",
+  "en": "This one is three thousand yuan.",
+  "words": [
+   279,
+   60,
+   173,
+   162,
+   268
+  ],
+  "speaker": "yueB",
+  "maxPos": 225
+ },
+ {
+  "id": "s0402",
+  "hanzi": "我有一个新电脑。",
+  "pinyin": "Wǒ yǒu yī gè xīn diànnǎo.",
+  "en": "I have a new computer.",
+  "words": [
+   221,
+   263,
+   254,
+   60,
+   242,
+   36
+  ],
+  "speaker": "hero",
+  "maxPos": 226
+ },
+ {
+  "id": "s0403",
+  "hanzi": "他在电脑上看电影。",
+  "pinyin": "Tā zài diànnǎo shàng kàn diànyǐng.",
+  "en": "He's watching a movie on the computer.",
+  "words": [
+   200,
+   271,
+   36,
+   175,
+   99,
+   38
+  ],
+  "speaker": "yueB",
+  "maxPos": 226
+ },
+ {
+  "id": "s0404",
+  "hanzi": "这个店很小。",
+  "pinyin": "Zhè gè diàn hěn xiǎo.",
+  "en": "This shop is small.",
+  "words": [
+   279,
+   60,
+   34,
+   79,
+   234
+  ],
+  "speaker": "teacher",
+  "maxPos": 227
+ },
+ {
+  "id": "s0405",
+  "hanzi": "我去店里买东西。",
+  "pinyin": "Wǒ qù diàn lǐ mǎi dōngxi.",
+  "en": "I'm going to the shop to buy things.",
+  "words": [
+   221,
+   167,
+   34,
+   110,
+   116,
+   40
+  ],
+  "speaker": "hero",
+  "maxPos": 227
+ },
+ {
+  "id": "s0406",
+  "hanzi": "一百个人。",
+  "pinyin": "Yī bǎi gè rén.",
+  "en": "A hundred people.",
+  "words": [
+   254,
+   6,
+   60,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 228
+ },
+ {
+  "id": "s0407",
+  "hanzi": "我有两百块钱。",
+  "pinyin": "Wǒ yǒu liǎng bǎi kuài qián.",
+  "en": "I have two hundred kuai.",
+  "words": [
+   221,
+   263,
+   111,
+   6,
+   105,
+   164
+  ],
+  "speaker": "hero",
+  "maxPos": 228
+ },
+ {
+  "id": "s0408",
+  "hanzi": "我弟弟在小学。",
+  "pinyin": "Wǒ dìdi zài xiǎoxué.",
+  "en": "My little brother is in primary school.",
+  "words": [
+   221,
+   32,
+   271,
+   237
+  ],
+  "speaker": "hero",
+  "maxPos": 252
+ },
+ {
+  "id": "s0409",
+  "hanzi": "这是我的小学。",
+  "pinyin": "Zhè shì wǒ de xiǎoxué.",
+  "en": "This is my primary school.",
+  "words": [
+   279,
+   188,
+   221,
+   30,
+   237
+  ],
+  "speaker": "yueB",
+  "maxPos": 229
+ },
+ {
+  "id": "s0410",
+  "hanzi": "上午我很忙。",
+  "pinyin": "Shàngwǔ wǒ hěn máng.",
+  "en": "I'm busy in the morning.",
+  "words": [
+   178,
+   221,
+   79,
+   118
+  ],
+  "speaker": "hero",
+  "maxPos": 230
+ },
+ {
+  "id": "s0411",
+  "hanzi": "上午十点见。",
+  "pinyin": "Shàngwǔ shí diǎn jiàn.",
+  "en": "See you at ten in the morning.",
+  "words": [
+   178,
+   184,
+   33,
+   88
+  ],
+  "speaker": "yueB",
+  "maxPos": 230
+ },
+ {
+  "id": "s0412",
+  "hanzi": "我喜欢这个歌。",
+  "pinyin": "Wǒ xǐhuan zhè gè gē.",
+  "en": "I like this song.",
+  "words": [
+   221,
+   225,
+   279,
+   60,
+   58
+  ],
+  "speaker": "hero",
+  "maxPos": 231
+ },
+ {
+  "id": "s0413",
+  "hanzi": "你会唱中国歌吗？",
+  "pinyin": "Nǐ huì chàng Zhōngguó gē ma?",
+  "en": "Can you sing Chinese songs?",
+  "words": [
+   146,
+   82,
+   18,
+   289,
+   58,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 231
+ },
+ {
+  "id": "s0414",
+  "hanzi": "今天有汉语课。",
+  "pinyin": "Jīntiān yǒu Hànyǔ kè.",
+  "en": "There's Chinese class today.",
+  "words": [
+   94,
+   263,
+   69,
+   103
+  ],
+  "speaker": "teacher",
+  "maxPos": 232
+ },
+ {
+  "id": "s0415",
+  "hanzi": "我上课了。",
+  "pinyin": "Wǒ shàng kè le.",
+  "en": "I'm going to class.",
+  "words": [
+   221,
+   175,
+   103,
+   108
+  ],
+  "speaker": "hero",
+  "maxPos": 232
+ },
+ {
+  "id": "s0416",
+  "hanzi": "你喜欢哪些菜？",
+  "pinyin": "Nǐ xǐhuan nǎxiē cài?",
+  "en": "Which dishes do you like?",
+  "words": [
+   146,
+   225,
+   135,
+   16
+  ],
+  "speaker": "yueB",
+  "maxPos": 233
+ },
+ {
+  "id": "s0417",
+  "hanzi": "哪些是你的？",
+  "pinyin": "Nǎxiē shì nǐ de?",
+  "en": "Which ones are yours?",
+  "words": [
+   135,
+   188,
+   146,
+   30
+  ],
+  "speaker": "hero",
+  "maxPos": 233
+ },
+ {
+  "id": "s0418",
+  "hanzi": "这个菜很好吃。",
+  "pinyin": "Zhè gè cài hěn hǎochī.",
+  "en": "This dish is delicious.",
+  "words": [
+   279,
+   60,
+   16,
+   79,
+   72
+  ],
+  "speaker": "hero",
+  "maxPos": 57
+ },
+ {
+  "id": "s0419",
+  "hanzi": "包子好吃吗？",
+  "pinyin": "Bāozi hǎochī ma?",
+  "en": "Are the buns tasty?",
+  "words": [
+   8,
+   72,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 304
+ },
+ {
+  "id": "s0420",
+  "hanzi": "我姐姐很漂亮。",
+  "pinyin": "Wǒ jiějie hěn piàoliang.",
+  "en": "My older sister is beautiful.",
+  "words": [
+   221,
+   92,
+   79,
+   158
+  ],
+  "speaker": "hero",
+  "maxPos": 245
+ },
+ {
+  "id": "s0421",
+  "hanzi": "姐姐，你去哪儿？",
+  "pinyin": "Jiějie, nǐ qù nǎr?",
+  "en": "Sister, where are you going?",
+  "words": [
+   92,
+   146,
+   167,
+   134
+  ],
+  "speaker": "hero",
+  "maxPos": 234
+ },
+ {
+  "id": "s0422",
+  "hanzi": "今天天气很好。",
+  "pinyin": "Jīntiān tiānqì hěn hǎo.",
+  "en": "The weather is nice today.",
+  "words": [
+   94,
+   208,
+   79,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 235
+ },
+ {
+  "id": "s0423",
+  "hanzi": "明天天气怎么样？",
+  "pinyin": "Míngtiān tiānqì zěnmeyàng?",
+  "en": "How's the weather tomorrow?",
+  "words": [
+   129,
+   208,
+   277
+  ],
+  "speaker": "yueB",
+  "maxPos": 239
+ },
+ {
+  "id": "s0424",
+  "hanzi": "我的房间很小。",
+  "pinyin": "Wǒ de fángjiān hěn xiǎo.",
+  "en": "My room is small.",
+  "words": [
+   221,
+   30,
+   52,
+   79,
+   234
+  ],
+  "speaker": "hero",
+  "maxPos": 236
+ },
+ {
+  "id": "s0425",
+  "hanzi": "你的房间在哪儿？",
+  "pinyin": "Nǐ de fángjiān zài nǎr?",
+  "en": "Where is your room?",
+  "words": [
+   146,
+   30,
+   52,
+   271,
+   134
+  ],
+  "speaker": "yueB",
+  "maxPos": 236
+ },
+ {
+  "id": "s0426",
+  "hanzi": "我爸爸在公司工作。",
+  "pinyin": "Wǒ bàba zài gōngsī gōngzuò.",
+  "en": "My dad works at a company.",
+  "words": [
+   221,
+   3,
+   271,
+   62,
+   63
+  ],
+  "speaker": "hero",
+  "maxPos": 237
+ },
+ {
+  "id": "s0427",
+  "hanzi": "爸爸，我爱你！",
+  "pinyin": "Bàba, wǒ ài nǐ!",
+  "en": "Dad, I love you!",
+  "words": [
+   3,
+   221,
+   1,
+   146
+  ],
+  "speaker": "hero",
+  "maxPos": 237
+ },
+ {
+  "id": "s0428",
+  "hanzi": "我喜欢读书。",
+  "pinyin": "Wǒ xǐhuan dúshū.",
+  "en": "I like reading.",
+  "words": [
+   221,
+   225,
+   43
+  ],
+  "speaker": "yueB",
+  "maxPos": 238
+ },
+ {
+  "id": "s0429",
+  "hanzi": "他在大学读书。",
+  "pinyin": "Tā zài dàxué dúshū.",
+  "en": "He studies at university.",
+  "words": [
+   200,
+   271,
+   27,
+   43
+  ],
+  "speaker": "teacher",
+  "maxPos": 238
+ },
+ {
+  "id": "s0430",
+  "hanzi": "这个怎么样？",
+  "pinyin": "Zhè gè zěnmeyàng?",
+  "en": "How about this one?",
+  "words": [
+   279,
+   60,
+   277
+  ],
+  "speaker": "hero",
+  "maxPos": 239
+ },
+ {
+  "id": "s0431",
+  "hanzi": "你的工作怎么样？",
+  "pinyin": "Nǐ de gōngzuò zěnmeyàng?",
+  "en": "How's your work?",
+  "words": [
+   146,
+   30,
+   63,
+   277
+  ],
+  "speaker": "yueB",
+  "maxPos": 239
+ },
+ {
+  "id": "s0432",
+  "hanzi": "喂，你好！",
+  "pinyin": "Wèi, nǐ hǎo!",
+  "en": "Hello? (on the phone)",
+  "words": [
+   218,
+   146,
+   71
+  ],
+  "speaker": "hero",
+  "maxPos": 240
+ },
+ {
+  "id": "s0433",
+  "hanzi": "喂，是月吗？",
+  "pinyin": "Wèi, shì Yuè ma?",
+  "en": "Hello, is that Yue?",
+  "words": [
+   218,
+   188,
+   "月",
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 240
+ },
+ {
+  "id": "s0434",
+  "hanzi": "我有一个妹妹。",
+  "pinyin": "Wǒ yǒu yī gè mèimei.",
+  "en": "I have a younger sister.",
+  "words": [
+   221,
+   263,
+   254,
+   60,
+   123
+  ],
+  "speaker": "hero",
+  "maxPos": 241
+ },
+ {
+  "id": "s0435",
+  "hanzi": "我妹妹八岁。",
+  "pinyin": "Wǒ mèimei bā suì.",
+  "en": "My little sister is eight.",
+  "words": [
+   221,
+   123,
+   2,
+   199
+  ],
+  "speaker": "hero",
+  "maxPos": 241
+ },
+ {
+  "id": "s0436",
+  "hanzi": "书在桌子上。",
+  "pinyin": "Shū zài zhuōzi shàng.",
+  "en": "The book is on the table.",
+  "words": [
+   190,
+   271,
+   295,
+   175
+  ],
+  "speaker": "yueB",
+  "maxPos": 242
+ },
+ {
+  "id": "s0437",
+  "hanzi": "这个桌子很大。",
+  "pinyin": "Zhè gè zhuōzi hěn dà.",
+  "en": "This table is big.",
+  "words": [
+   279,
+   60,
+   295,
+   79,
+   25
+  ],
+  "speaker": "teacher",
+  "maxPos": 242
+ },
+ {
+  "id": "s0438",
+  "hanzi": "这个很便宜。",
+  "pinyin": "Zhè gè hěn piányi.",
+  "en": "This one is cheap.",
+  "words": [
+   279,
+   60,
+   79,
+   157
+  ],
+  "speaker": "hero",
+  "maxPos": 243
+ },
+ {
+  "id": "s0439",
+  "hanzi": "水果很便宜。",
+  "pinyin": "Shuǐguǒ hěn piányi.",
+  "en": "The fruit is cheap.",
+  "words": [
+   193,
+   79,
+   157
+  ],
+  "speaker": "yueB",
+  "maxPos": 253
+ },
+ {
+  "id": "s0440",
+  "hanzi": "我不去那儿。",
+  "pinyin": "Wǒ bù qù nàr.",
+  "en": "I'm not going there.",
+  "words": [
+   221,
+   13,
+   167,
+   140
+  ],
+  "speaker": "yueB",
+  "maxPos": 244
+ },
+ {
+  "id": "s0441",
+  "hanzi": "那儿有一个店。",
+  "pinyin": "Nàr yǒu yī gè diàn.",
+  "en": "There's a shop over there.",
+  "words": [
+   140,
+   263,
+   254,
+   60,
+   34
+  ],
+  "speaker": "teacher",
+  "maxPos": 244
+ },
+ {
+  "id": "s0442",
+  "hanzi": "你真漂亮！",
+  "pinyin": "Nǐ zhēn piàoliang!",
+  "en": "You're so beautiful!",
+  "words": [
+   146,
+   285,
+   158
+  ],
+  "speaker": "hero",
+  "maxPos": 245
+ },
+ {
+  "id": "s0443",
+  "hanzi": "那只猫很漂亮。",
+  "pinyin": "Nà zhī māo hěn piàoliang.",
+  "en": "That cat is pretty.",
+  "words": [
+   136,
+   287,
+   119,
+   79,
+   158
+  ],
+  "speaker": "yueB",
+  "maxPos": 246
+ },
+ {
+  "id": "s0444",
+  "hanzi": "我有一只猫，它叫小月。",
+  "pinyin": "Wǒ yǒu yī zhī māo, tā jiào xiǎo Yuè.",
+  "en": "I have a cat called Xiaoyue.",
+  "words": [
+   221,
+   263,
+   254,
+   287,
+   119,
+   201,
+   91,
+   234,
+   "月"
+  ],
+  "speaker": "hero",
+  "maxPos": 246
+ },
+ {
+  "id": "s0445",
+  "hanzi": "猫在椅子上。",
+  "pinyin": "Māo zài yǐzi shàng.",
+  "en": "The cat is on the chair.",
+  "words": [
+   119,
+   271,
+   260,
+   175
+  ],
+  "speaker": "yueB",
+  "maxPos": 254
+ },
+ {
+  "id": "s0446",
+  "hanzi": "你要哪个？",
+  "pinyin": "Nǐ yào nǎge?",
+  "en": "Which one do you want?",
+  "words": [
+   146,
+   252,
+   132
+  ],
+  "speaker": "hero",
+  "maxPos": 247
+ },
+ {
+  "id": "s0447",
+  "hanzi": "哪个是你的？",
+  "pinyin": "Nǎge shì nǐ de?",
+  "en": "Which one is yours?",
+  "words": [
+   132,
+   188,
+   146,
+   30
+  ],
+  "speaker": "yueB",
+  "maxPos": 247
+ },
+ {
+  "id": "s0448",
+  "hanzi": "你的书在那边。",
+  "pinyin": "Nǐ de shū zài nàbiān.",
+  "en": "Your book is over there.",
+  "words": [
+   146,
+   30,
+   190,
+   271,
+   137
+  ],
+  "speaker": "hero",
+  "maxPos": 248
+ },
+ {
+  "id": "s0449",
+  "hanzi": "那边的店很便宜。",
+  "pinyin": "Nàbiān de diàn hěn piányi.",
+  "en": "The shop over there is cheap.",
+  "words": [
+   137,
+   30,
+   34,
+   79,
+   157
+  ],
+  "speaker": "yueB",
+  "maxPos": 248
+ },
+ {
+  "id": "s0450",
+  "hanzi": "一百零五。",
+  "pinyin": "Yī bǎi líng wǔ.",
+  "en": "One hundred and five.",
+  "words": [
+   254,
+   6,
+   112,
+   223
+  ],
+  "speaker": "teacher",
+  "maxPos": 249
+ },
+ {
+  "id": "s0451",
+  "hanzi": "我的电话是零八九。",
+  "pinyin": "Wǒ de diànhuà shì líng bā jiǔ.",
+  "en": "My number is zero eight nine.",
+  "words": [
+   221,
+   30,
+   35,
+   188,
+   112,
+   2,
+   95
+  ],
+  "speaker": "hero",
+  "maxPos": 249
+ },
+ {
+  "id": "s0452",
+  "hanzi": "我会说中文。",
+  "pinyin": "Wǒ huì shuō Zhōngwén.",
+  "en": "I can speak Chinese.",
+  "words": [
+   221,
+   82,
+   196,
+   290
+  ],
+  "speaker": "hero",
+  "maxPos": 250
+ },
+ {
+  "id": "s0453",
+  "hanzi": "你的中文很好！",
+  "pinyin": "Nǐ de Zhōngwén hěn hǎo!",
+  "en": "Your Chinese is very good!",
+  "words": [
+   146,
+   30,
+   290,
+   79,
+   71
+  ],
+  "speaker": "yueB",
+  "maxPos": 250
+ },
+ {
+  "id": "s0454",
+  "hanzi": "我想睡觉。",
+  "pinyin": "Wǒ xiǎng shuìjiào.",
+  "en": "I want to sleep.",
+  "words": [
+   221,
+   233,
+   195
+  ],
+  "speaker": "hero",
+  "maxPos": 251
+ },
+ {
+  "id": "s0455",
+  "hanzi": "十点了，睡觉吧。",
+  "pinyin": "Shí diǎn le, shuìjiào ba.",
+  "en": "It's ten, go to sleep.",
+  "words": [
+   184,
+   33,
+   108,
+   195,
+   4
+  ],
+  "speaker": "teacher",
+  "maxPos": 251
+ },
+ {
+  "id": "s0456",
+  "hanzi": "我弟弟很小。",
+  "pinyin": "Wǒ dìdi hěn xiǎo.",
+  "en": "My little brother is very young.",
+  "words": [
+   221,
+   32,
+   79,
+   234
+  ],
+  "speaker": "hero",
+  "maxPos": 252
+ },
+ {
+  "id": "s0457",
+  "hanzi": "你有弟弟吗？",
+  "pinyin": "Nǐ yǒu dìdi ma?",
+  "en": "Do you have a younger brother?",
+  "words": [
+   146,
+   263,
+   32,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 252
+ },
+ {
+  "id": "s0458",
+  "hanzi": "我喜欢吃水果。",
+  "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+  "en": "I like eating fruit.",
+  "words": [
+   221,
+   225,
+   21,
+   193
+  ],
+  "speaker": "hero",
+  "maxPos": 253
+ },
+ {
+  "id": "s0459",
+  "hanzi": "这些水果很好吃。",
+  "pinyin": "Zhè xiē shuǐguǒ hěn hǎochī.",
+  "en": "This fruit is delicious.",
+  "words": [
+   279,
+   239,
+   193,
+   79,
+   72
+  ],
+  "speaker": "yueB",
+  "maxPos": 253
+ },
+ {
+  "id": "s0460",
+  "hanzi": "请坐在椅子上。",
+  "pinyin": "Qǐng zuò zài yǐzi shàng.",
+  "en": "Please sit on the chair.",
+  "words": [
+   165,
+   298,
+   271,
+   260,
+   175
+  ],
+  "speaker": "teacher",
+  "maxPos": 254
+ },
+ {
+  "id": "s0461",
+  "hanzi": "这个椅子很小。",
+  "pinyin": "Zhè gè yǐzi hěn xiǎo.",
+  "en": "This chair is small.",
+  "words": [
+   279,
+   60,
+   260,
+   79,
+   234
+  ],
+  "speaker": "hero",
+  "maxPos": 254
+ },
+ {
+  "id": "s0462",
+  "hanzi": "老师们好！",
+  "pinyin": "Lǎoshī men hǎo!",
+  "en": "Hello, teachers!",
+  "words": [
+   107,
+   124,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 196
+ },
+ {
+  "id": "s0463",
+  "hanzi": "同学们，再见！",
+  "pinyin": "Tóngxué men, zàijiàn!",
+  "en": "Goodbye, classmates!",
+  "words": [
+   211,
+   124,
+   272
+  ],
+  "speaker": "teacher",
+  "maxPos": 215
+ },
+ {
+  "id": "s0464",
+  "hanzi": "我有六个朋友。",
+  "pinyin": "Wǒ yǒu liù gè péngyou.",
+  "en": "I have six friends.",
+  "words": [
+   221,
+   263,
+   113,
+   60,
+   156
+  ],
+  "speaker": "hero",
+  "maxPos": 179
+ },
+ {
+  "id": "s0465",
+  "hanzi": "七点了，起床吧。",
+  "pinyin": "Qī diǎn le, qǐchuáng ba.",
+  "en": "It's seven, get up.",
+  "words": [
+   160,
+   33,
+   108,
+   161,
+   4
+  ],
+  "speaker": "yueB",
+  "maxPos": 283
+ },
+ {
+  "id": "s0466",
+  "hanzi": "你饿吗？",
+  "pinyin": "Nǐ è ma?",
+  "en": "Are you hungry?",
+  "words": [
+   146,
+   610,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 16
+ },
+ {
+  "id": "s0467",
+  "hanzi": "我很饿。",
+  "pinyin": "Wǒ hěn è.",
+  "en": "I'm very hungry.",
+  "words": [
+   221,
+   79,
+   610
+  ],
+  "speaker": "yueB",
+  "maxPos": 18
+ },
+ {
+  "id": "s0468",
+  "hanzi": "你呢？",
+  "pinyin": "Nǐ ne?",
+  "en": "And you?",
+  "words": [
+   146,
+   144
+  ],
+  "speaker": "yueB",
+  "maxPos": 20
+ },
+ {
+  "id": "s0469",
+  "hanzi": "我不饿，我很渴。",
+  "pinyin": "Wǒ bù è, wǒ hěn kě.",
+  "en": "I'm not hungry, I'm very thirsty.",
+  "words": [
+   221,
+   13,
+   610,
+   221,
+   79,
+   732
+  ],
+  "speaker": "hero",
+  "maxPos": 18
+ },
+ {
+  "id": "s0470",
+  "hanzi": "他也很渴。",
+  "pinyin": "Tā yě hěn kě.",
+  "en": "He's very thirsty too.",
+  "words": [
+   200,
+   253,
+   79,
+   732
+  ],
+  "speaker": "teacher",
+  "maxPos": 19
+ },
+ {
+  "id": "s0471",
+  "hanzi": "我们想吃。",
+  "pinyin": "Wǒmen xiǎng chī.",
+  "en": "We want to eat.",
+  "words": [
+   222,
+   233,
+   21
+  ],
+  "speaker": "hero",
+  "maxPos": 14
+ },
+ {
+  "id": "s0472",
+  "hanzi": "你想喝吗？",
+  "pinyin": "Nǐ xiǎng hē ma?",
+  "en": "Do you want something to drink?",
+  "words": [
+   146,
+   233,
+   77,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 15
+ },
+ {
+  "id": "s0473",
+  "hanzi": "我要吃！",
+  "pinyin": "Wǒ yào chī!",
+  "en": "I want to eat!",
+  "words": [
+   221,
+   252,
+   21
+  ],
+  "speaker": "hero",
+  "maxPos": 14
+ },
+ {
+  "id": "s0474",
+  "hanzi": "她不想吃。",
+  "pinyin": "Tā bù xiǎng chī.",
+  "en": "She doesn't want to eat.",
+  "words": [
+   202,
+   13,
+   233,
+   21
+  ],
+  "speaker": "teacher",
+  "maxPos": 14
+ },
+ {
+  "id": "s0475",
+  "hanzi": "你们渴吗？",
+  "pinyin": "Nǐmen kě ma?",
+  "en": "Are you all thirsty?",
+  "words": [
+   148,
+   732,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 17
+ },
+ {
+  "id": "s0476",
+  "hanzi": "我们也想喝。",
+  "pinyin": "Wǒmen yě xiǎng hē.",
+  "en": "We want to drink too.",
+  "words": [
+   222,
+   253,
+   233,
+   77
+  ],
+  "speaker": "yueB",
+  "maxPos": 19
+ },
+ {
+  "id": "s0477",
+  "hanzi": "月饿吗？",
+  "pinyin": "Yuè è ma?",
+  "en": "Is Yue hungry?",
+  "words": [
+   "月",
+   610,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 16
+ },
+ {
+  "id": "s0478",
+  "hanzi": "云希很渴，月呢？",
+  "pinyin": "Yúnxī hěn kě, Yuè ne?",
+  "en": "Yunxi is very thirsty. And Yue?",
+  "words": [
+   "云希",
+   79,
+   732,
+   "月",
+   144
+  ],
+  "speaker": "teacher",
+  "maxPos": 20
+ },
+ {
+  "id": "s0479",
+  "hanzi": "他们要吃吗？",
+  "pinyin": "Tāmen yào chī ma?",
+  "en": "Do they want to eat?",
+  "words": [
+   203,
+   252,
+   21,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 14
+ },
+ {
+  "id": "s0480",
+  "hanzi": "你要喝吗？",
+  "pinyin": "Nǐ yào hē ma?",
+  "en": "Would you like a drink?",
+  "words": [
+   146,
+   252,
+   77,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 15
+ },
+ {
+  "id": "s0481",
+  "hanzi": "我也饿。",
+  "pinyin": "Wǒ yě è.",
+  "en": "I'm hungry too.",
+  "words": [
+   221,
+   253,
+   610
+  ],
+  "speaker": "hero",
+  "maxPos": 19
+ },
+ {
+  "id": "s0482",
+  "hanzi": "她也要吃。",
+  "pinyin": "Tā yě yào chī.",
+  "en": "She wants to eat too.",
+  "words": [
+   202,
+   253,
+   252,
+   21
+  ],
+  "speaker": "yueB",
+  "maxPos": 19
+ },
+ {
+  "id": "s0483",
+  "hanzi": "我要茶。",
+  "pinyin": "Wǒ yào chá.",
+  "en": "I'd like tea.",
+  "words": [
+   221,
+   252,
+   17
+  ],
+  "speaker": "hero",
+  "maxPos": 22
+ },
+ {
+  "id": "s0484",
+  "hanzi": "你喝咖啡吗？",
+  "pinyin": "Nǐ hē kāfēi ma?",
+  "en": "Do you drink coffee?",
+  "words": [
+   146,
+   77,
+   377,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 23
+ },
+ {
+  "id": "s0485",
+  "hanzi": "我不喝咖啡，我喝茶。",
+  "pinyin": "Wǒ bù hē kāfēi, wǒ hē chá.",
+  "en": "I don't drink coffee, I drink tea.",
+  "words": [
+   221,
+   13,
+   77,
+   377,
+   221,
+   77,
+   17
+  ],
+  "speaker": "hero",
+  "maxPos": 23
+ },
+ {
+  "id": "s0486",
+  "hanzi": "她想喝牛奶。",
+  "pinyin": "Tā xiǎng hē niúnǎi.",
+  "en": "She wants to drink milk.",
+  "words": [
+   202,
+   233,
+   77,
+   151
+  ],
+  "speaker": "teacher",
+  "maxPos": 24
+ },
+ {
+  "id": "s0487",
+  "hanzi": "我很渴，我要水。",
+  "pinyin": "Wǒ hěn kě, wǒ yào shuǐ.",
+  "en": "I'm very thirsty, I want water.",
+  "words": [
+   221,
+   79,
+   732,
+   221,
+   252,
+   192
+  ],
+  "speaker": "hero",
+  "maxPos": 21
+ },
+ {
+  "id": "s0488",
+  "hanzi": "水很冷。",
+  "pinyin": "Shuǐ hěn lěng.",
+  "en": "The water is very cold.",
+  "words": [
+   192,
+   79,
+   109
+  ],
+  "speaker": "yueB",
+  "maxPos": 27
+ },
+ {
+  "id": "s0489",
+  "hanzi": "茶很热。",
+  "pinyin": "Chá hěn rè.",
+  "en": "The tea is very hot.",
+  "words": [
+   17,
+   79,
+   169
+  ],
+  "speaker": "teacher",
+  "maxPos": 26
+ },
+ {
+  "id": "s0490",
+  "hanzi": "你要热茶吗？",
+  "pinyin": "Nǐ yào rè chá ma?",
+  "en": "Would you like hot tea?",
+  "words": [
+   146,
+   252,
+   169,
+   17,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 26
+ },
+ {
+  "id": "s0491",
+  "hanzi": "我要冷水。",
+  "pinyin": "Wǒ yào lěng shuǐ.",
+  "en": "I'd like cold water.",
+  "words": [
+   221,
+   252,
+   109,
+   192
+  ],
+  "speaker": "yueB",
+  "maxPos": 27
+ },
+ {
+  "id": "s0492",
+  "hanzi": "他喝咖啡和牛奶。",
+  "pinyin": "Tā hē kāfēi hé niúnǎi.",
+  "en": "He's having coffee and milk.",
+  "words": [
+   200,
+   77,
+   377,
+   78,
+   151
+  ],
+  "speaker": "yueB",
+  "maxPos": 29
+ },
+ {
+  "id": "s0493",
+  "hanzi": "我和月喝茶。",
+  "pinyin": "Wǒ hé Yuè hē chá.",
+  "en": "Yue and I are having tea.",
+  "words": [
+   221,
+   78,
+   "月",
+   77,
+   17
+  ],
+  "speaker": "hero",
+  "maxPos": 29
+ },
+ {
+  "id": "s0494",
+  "hanzi": "你和她要水吗？",
+  "pinyin": "Nǐ hé tā yào shuǐ ma?",
+  "en": "Do you and she want water?",
+  "words": [
+   146,
+   78,
+   202,
+   252,
+   192,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 29
+ },
+ {
+  "id": "s0495",
+  "hanzi": "你喜欢咖啡吗？",
+  "pinyin": "Nǐ xǐhuan kāfēi ma?",
+  "en": "Do you like coffee?",
+  "words": [
+   146,
+   225,
+   377,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 30
+ },
+ {
+  "id": "s0496",
+  "hanzi": "我很喜欢茶。",
+  "pinyin": "Wǒ hěn xǐhuan chá.",
+  "en": "I really like tea.",
+  "words": [
+   221,
+   79,
+   225,
+   17
+  ],
+  "speaker": "yueB",
+  "maxPos": 30
+ },
+ {
+  "id": "s0497",
+  "hanzi": "她不喜欢牛奶。",
+  "pinyin": "Tā bù xǐhuan niúnǎi.",
+  "en": "She doesn't like milk.",
+  "words": [
+   202,
+   13,
+   225,
+   151
+  ],
+  "speaker": "teacher",
+  "maxPos": 30
+ },
+ {
+  "id": "s0498",
+  "hanzi": "我们喜欢冷饮料。",
+  "pinyin": "Wǒmen xǐhuan lěng yǐnliào.",
+  "en": "We like cold drinks.",
+  "words": [
+   222,
+   225,
+   109,
+   938
+  ],
+  "speaker": "hero",
+  "maxPos": 30
+ },
+ {
+  "id": "s0499",
+  "hanzi": "你要饮料吗？",
+  "pinyin": "Nǐ yào yǐnliào ma?",
+  "en": "Would you like a drink?",
+  "words": [
+   146,
+   252,
+   938,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 25
+ },
+ {
+  "id": "s0500",
+  "hanzi": "他们不要饮料。",
+  "pinyin": "Tāmen bù yào yǐnliào.",
+  "en": "They don't want drinks.",
+  "words": [
+   203,
+   13,
+   252,
+   938
+  ],
+  "speaker": "yueB",
+  "maxPos": 25
+ },
+ {
+  "id": "s0501",
+  "hanzi": "咖啡很甜。",
+  "pinyin": "Kāfēi hěn tián.",
+  "en": "The coffee is very sweet.",
+  "words": [
+   377,
+   79,
+   855
+  ],
+  "speaker": "hero",
+  "maxPos": 28
+ },
+ {
+  "id": "s0502",
+  "hanzi": "牛奶甜吗？",
+  "pinyin": "Niúnǎi tián ma?",
+  "en": "Is the milk sweet?",
+  "words": [
+   151,
+   855,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 28
+ },
+ {
+  "id": "s0503",
+  "hanzi": "我不喜欢甜饮料。",
+  "pinyin": "Wǒ bù xǐhuan tián yǐnliào.",
+  "en": "I don't like sweet drinks.",
+  "words": [
+   221,
+   13,
+   225,
+   855,
+   938
+  ],
+  "speaker": "hero",
+  "maxPos": 30
+ },
+ {
+  "id": "s0504",
+  "hanzi": "热牛奶很好。",
+  "pinyin": "Rè niúnǎi hěn hǎo.",
+  "en": "Hot milk is good.",
+  "words": [
+   169,
+   151,
+   79,
+   71
+  ],
+  "speaker": "teacher",
+  "maxPos": 26
+ },
+ {
+  "id": "s0505",
+  "hanzi": "冷咖啡也很好。",
+  "pinyin": "Lěng kāfēi yě hěn hǎo.",
+  "en": "Cold coffee is nice too.",
+  "words": [
+   109,
+   377,
+   253,
+   79,
+   71
+  ],
+  "speaker": "yueB",
+  "maxPos": 27
+ },
+ {
+  "id": "s0506",
+  "hanzi": "我要一个鸡蛋。",
+  "pinyin": "Wǒ yào yī gè jīdàn.",
+  "en": "I'd like one egg.",
+  "words": [
+   221,
+   252,
+   254,
+   60,
+   84
+  ],
+  "speaker": "hero",
+  "maxPos": 36
+ },
+ {
+  "id": "s0507",
+  "hanzi": "他要两个鸡蛋。",
+  "pinyin": "Tā yào liǎng gè jīdàn.",
+  "en": "He wants two eggs.",
+  "words": [
+   200,
+   252,
+   111,
+   60,
+   84
+  ],
+  "speaker": "yueB",
+  "maxPos": 36
+ },
+ {
+  "id": "s0508",
+  "hanzi": "你吃鸡蛋吗？",
+  "pinyin": "Nǐ chī jīdàn ma?",
+  "en": "Do you eat eggs?",
+  "words": [
+   146,
+   21,
+   84,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 36
+ },
+ {
+  "id": "s0509",
+  "hanzi": "我要一个面包。",
+  "pinyin": "Wǒ yào yī gè miànbāo.",
+  "en": "I'd like a bread roll.",
+  "words": [
+   221,
+   252,
+   254,
+   60,
+   126
+  ],
+  "speaker": "yueB",
+  "maxPos": 35
+ },
+ {
+  "id": "s0510",
+  "hanzi": "她喜欢吃面包。",
+  "pinyin": "Tā xǐhuan chī miànbāo.",
+  "en": "She likes eating bread.",
+  "words": [
+   202,
+   225,
+   21,
+   126
+  ],
+  "speaker": "teacher",
+  "maxPos": 35
+ },
+ {
+  "id": "s0511",
+  "hanzi": "你们要米饭吗？",
+  "pinyin": "Nǐmen yào mǐfàn ma?",
+  "en": "Do you want rice?",
+  "words": [
+   148,
+   252,
+   125,
+   115
+  ],
+  "speaker": "teacher",
+  "maxPos": 34
+ },
+ {
+  "id": "s0512",
+  "hanzi": "我不要米饭，我要面包。",
+  "pinyin": "Wǒ bù yào mǐfàn, wǒ yào miànbāo.",
+  "en": "No rice for me, I'd like bread.",
+  "words": [
+   221,
+   13,
+   252,
+   125,
+   221,
+   252,
+   126
+  ],
+  "speaker": "hero",
+  "maxPos": 35
+ },
+ {
+  "id": "s0513",
+  "hanzi": "我很饿，我想吃米饭。",
+  "pinyin": "Wǒ hěn è, wǒ xiǎng chī mǐfàn.",
+  "en": "I'm very hungry, I want to eat rice.",
+  "words": [
+   221,
+   79,
+   610,
+   221,
+   233,
+   21,
+   125
+  ],
+  "speaker": "hero",
+  "maxPos": 34
+ },
+ {
+  "id": "s0514",
+  "hanzi": "你吃鱼吗？",
+  "pinyin": "Nǐ chī yú ma?",
+  "en": "Do you eat fish?",
+  "words": [
+   146,
+   21,
+   483,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 37
+ },
+ {
+  "id": "s0515",
+  "hanzi": "我不喜欢鱼。",
+  "pinyin": "Wǒ bù xǐhuan yú.",
+  "en": "I don't like fish.",
+  "words": [
+   221,
+   13,
+   225,
+   483
+  ],
+  "speaker": "hero",
+  "maxPos": 37
+ },
+ {
+  "id": "s0516",
+  "hanzi": "他们喜欢吃鱼和米饭。",
+  "pinyin": "Tāmen xǐhuan chī yú hé mǐfàn.",
+  "en": "They like eating fish and rice.",
+  "words": [
+   203,
+   225,
+   21,
+   483,
+   78,
+   125
+  ],
+  "speaker": "teacher",
+  "maxPos": 37
+ },
+ {
+  "id": "s0517",
+  "hanzi": "我想吃肉。",
+  "pinyin": "Wǒ xiǎng chī ròu.",
+  "en": "I want to eat meat.",
+  "words": [
+   221,
+   233,
+   21,
+   423
+  ],
+  "speaker": "yueB",
+  "maxPos": 38
+ },
+ {
+  "id": "s0518",
+  "hanzi": "她不吃肉。",
+  "pinyin": "Tā bù chī ròu.",
+  "en": "She doesn't eat meat.",
+  "words": [
+   202,
+   13,
+   21,
+   423
+  ],
+  "speaker": "teacher",
+  "maxPos": 38
+ },
+ {
+  "id": "s0519",
+  "hanzi": "我要鸡肉。",
+  "pinyin": "Wǒ yào jī ròu.",
+  "en": "I'd like chicken.",
+  "words": [
+   221,
+   252,
+   687,
+   423
+  ],
+  "speaker": "hero",
+  "maxPos": 39
+ },
+ {
+  "id": "s0520",
+  "hanzi": "我们吃鸡肉和米饭。",
+  "pinyin": "Wǒmen chī jī ròu hé mǐfàn.",
+  "en": "We're having chicken and rice.",
+  "words": [
+   222,
+   21,
+   687,
+   423,
+   78,
+   125
+  ],
+  "speaker": "hero",
+  "maxPos": 39
+ },
+ {
+  "id": "s0521",
+  "hanzi": "你喜欢鸡肉吗？",
+  "pinyin": "Nǐ xǐhuan jī ròu ma?",
+  "en": "Do you like chicken?",
+  "words": [
+   146,
+   225,
+   687,
+   423,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 39
+ },
+ {
+  "id": "s0522",
+  "hanzi": "我要两个菜。",
+  "pinyin": "Wǒ yào liǎng gè cài.",
+  "en": "I'd like two dishes.",
+  "words": [
+   221,
+   252,
+   111,
+   60,
+   16
+  ],
+  "speaker": "hero",
+  "maxPos": 40
+ },
+ {
+  "id": "s0523",
+  "hanzi": "菜很热。",
+  "pinyin": "Cài hěn rè.",
+  "en": "The food is hot.",
+  "words": [
+   16,
+   79,
+   169
+  ],
+  "speaker": "teacher",
+  "maxPos": 40
+ },
+ {
+  "id": "s0524",
+  "hanzi": "他吃菜，不吃肉。",
+  "pinyin": "Tā chī cài, bù chī ròu.",
+  "en": "He eats vegetables, not meat.",
+  "words": [
+   200,
+   21,
+   16,
+   13,
+   21,
+   423
+  ],
+  "speaker": "yueB",
+  "maxPos": 40
+ },
+ {
+  "id": "s0525",
+  "hanzi": "我要一个菜。",
+  "pinyin": "Wǒ yào yī gè cài.",
+  "en": "I'd like one dish.",
+  "words": [
+   221,
+   252,
+   254,
+   60,
+   16
+  ],
+  "speaker": "yueB",
+  "maxPos": 40
+ },
+ {
+  "id": "s0526",
+  "hanzi": "我们要两个面包。",
+  "pinyin": "Wǒmen yào liǎng gè miànbāo.",
+  "en": "We'd like two bread rolls.",
+  "words": [
+   222,
+   252,
+   111,
+   60,
+   126
+  ],
+  "speaker": "teacher",
+  "maxPos": 35
+ },
+ {
+  "id": "s0527",
+  "hanzi": "这是饭店吗？",
+  "pinyin": "Zhè shì fàndiàn ma?",
+  "en": "Is this a restaurant?",
+  "words": [
+   279,
+   188,
+   51,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 45
+ },
+ {
+  "id": "s0528",
+  "hanzi": "那个饭店很好。",
+  "pinyin": "Nà gè fàndiàn hěn hǎo.",
+  "en": "That restaurant is very good.",
+  "words": [
+   136,
+   60,
+   51,
+   79,
+   71
+  ],
+  "speaker": "yueB",
+  "maxPos": 46
+ },
+ {
+  "id": "s0529",
+  "hanzi": "他们来饭店吃鱼。",
+  "pinyin": "Tāmen lái fàndiàn chī yú.",
+  "en": "They come to the restaurant to eat fish.",
+  "words": [
+   203,
+   106,
+   51,
+   21,
+   483
+  ],
+  "speaker": "teacher",
+  "maxPos": 48
+ },
+ {
+  "id": "s0530",
+  "hanzi": "有菜单吗？",
+  "pinyin": "Yǒu càidān ma?",
+  "en": "Is there a menu?",
+  "words": [
+   263,
+   545,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 49
+ },
+ {
+  "id": "s0531",
+  "hanzi": "请给我菜单。",
+  "pinyin": "Qǐng gěi wǒ càidān.",
+  "en": "Please give me the menu.",
+  "words": [
+   165,
+   61,
+   221,
+   545
+  ],
+  "speaker": "hero",
+  "maxPos": 44
+ },
+ {
+  "id": "s0532",
+  "hanzi": "这是菜单。",
+  "pinyin": "Zhè shì càidān.",
+  "en": "Here's the menu.",
+  "words": [
+   279,
+   188,
+   545
+  ],
+  "speaker": "teacher",
+  "maxPos": 45
+ },
+ {
+  "id": "s0533",
+  "hanzi": "你要什么？",
+  "pinyin": "Nǐ yào shénme?",
+  "en": "What would you like?",
+  "words": [
+   146,
+   252,
+   182
+  ],
+  "speaker": "teacher",
+  "maxPos": 47
+ },
+ {
+  "id": "s0534",
+  "hanzi": "你们想吃什么？",
+  "pinyin": "Nǐmen xiǎng chī shénme?",
+  "en": "What would you like to eat?",
+  "words": [
+   148,
+   233,
+   21,
+   182
+  ],
+  "speaker": "teacher",
+  "maxPos": 47
+ },
+ {
+  "id": "s0535",
+  "hanzi": "你喝什么？",
+  "pinyin": "Nǐ hē shénme?",
+  "en": "What are you drinking?",
+  "words": [
+   146,
+   77,
+   182
+  ],
+  "speaker": "yueB",
+  "maxPos": 47
+ },
+ {
+  "id": "s0536",
+  "hanzi": "请来两个菜。",
+  "pinyin": "Qǐng lái liǎng gè cài.",
+  "en": "Two dishes, please.",
+  "words": [
+   165,
+   106,
+   111,
+   60,
+   16
+  ],
+  "speaker": "hero",
+  "maxPos": 48
+ },
+ {
+  "id": "s0537",
+  "hanzi": "来一个面包。",
+  "pinyin": "Lái yī gè miànbāo.",
+  "en": "A bread roll, please.",
+  "words": [
+   106,
+   254,
+   60,
+   126
+  ],
+  "speaker": "yueB",
+  "maxPos": 48
+ },
+ {
+  "id": "s0538",
+  "hanzi": "请给我一个鸡蛋。",
+  "pinyin": "Qǐng gěi wǒ yī gè jīdàn.",
+  "en": "Please give me an egg.",
+  "words": [
+   165,
+   61,
+   221,
+   254,
+   60,
+   84
+  ],
+  "speaker": "yueB",
+  "maxPos": 44
+ },
+ {
+  "id": "s0539",
+  "hanzi": "请给他水。",
+  "pinyin": "Qǐng gěi tā shuǐ.",
+  "en": "Please give him some water.",
+  "words": [
+   165,
+   61,
+   200,
+   192
+  ],
+  "speaker": "hero",
+  "maxPos": 44
+ },
+ {
+  "id": "s0540",
+  "hanzi": "有鱼吗？",
+  "pinyin": "Yǒu yú ma?",
+  "en": "Do you have fish?",
+  "words": [
+   263,
+   483,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 49
+ },
+ {
+  "id": "s0541",
+  "hanzi": "没有鱼。",
+  "pinyin": "Méiyǒu yú.",
+  "en": "There's no fish.",
+  "words": [
+   122,
+   483
+  ],
+  "speaker": "teacher",
+  "maxPos": 50
+ },
+ {
+  "id": "s0542",
+  "hanzi": "有鸡肉吗？",
+  "pinyin": "Yǒu jī ròu ma?",
+  "en": "Do you have chicken?",
+  "words": [
+   263,
+   687,
+   423,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 49
+ },
+ {
+  "id": "s0543",
+  "hanzi": "我们没有咖啡，有茶。",
+  "pinyin": "Wǒmen méiyǒu kāfēi, yǒu chá.",
+  "en": "We don't have coffee, we have tea.",
+  "words": [
+   222,
+   122,
+   377,
+   263,
+   17
+  ],
+  "speaker": "teacher",
+  "maxPos": 50
+ },
+ {
+  "id": "s0544",
+  "hanzi": "这个菜很好。",
+  "pinyin": "Zhè gè cài hěn hǎo.",
+  "en": "This dish is very good.",
+  "words": [
+   279,
+   60,
+   16,
+   79,
+   71
+  ],
+  "speaker": "yueB",
+  "maxPos": 45
+ },
+ {
+  "id": "s0545",
+  "hanzi": "那个是鸡肉吗？",
+  "pinyin": "Nà gè shì jī ròu ma?",
+  "en": "Is that one chicken?",
+  "words": [
+   136,
+   60,
+   188,
+   687,
+   423,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 46
+ },
+ {
+  "id": "s0546",
+  "hanzi": "他们没有菜单。",
+  "pinyin": "Tāmen méiyǒu càidān.",
+  "en": "They don't have a menu.",
+  "words": [
+   203,
+   122,
+   545
+  ],
+  "speaker": "hero",
+  "maxPos": 50
+ },
+ {
+  "id": "s0547",
+  "hanzi": "多少钱？",
+  "pinyin": "Duōshao qián?",
+  "en": "How much is it?",
+  "words": [
+   47,
+   164
+  ],
+  "speaker": "hero",
+  "maxPos": 52
+ },
+ {
+  "id": "s0548",
+  "hanzi": "这个菜多少钱？",
+  "pinyin": "Zhè gè cài duōshao qián?",
+  "en": "How much is this dish?",
+  "words": [
+   279,
+   60,
+   16,
+   47,
+   164
+  ],
+  "speaker": "hero",
+  "maxPos": 52
+ },
+ {
+  "id": "s0549",
+  "hanzi": "十块钱。",
+  "pinyin": "Shí kuài qián.",
+  "en": "Ten yuan.",
+  "words": [
+   184,
+   105,
+   164
+  ],
+  "speaker": "teacher",
+  "maxPos": 54
+ },
+ {
+  "id": "s0550",
+  "hanzi": "五块钱。",
+  "pinyin": "Wǔ kuài qián.",
+  "en": "Five yuan.",
+  "words": [
+   223,
+   105,
+   164
+  ],
+  "speaker": "teacher",
+  "maxPos": 55
+ },
+ {
+  "id": "s0551",
+  "hanzi": "茶五块，咖啡十块。",
+  "pinyin": "Chá wǔ kuài, kāfēi shí kuài.",
+  "en": "Tea is five yuan, coffee is ten.",
+  "words": [
+   17,
+   223,
+   105,
+   377,
+   184,
+   105
+  ],
+  "speaker": "teacher",
+  "maxPos": 55
+ },
+ {
+  "id": "s0552",
+  "hanzi": "咖啡多少钱？",
+  "pinyin": "Kāfēi duōshao qián?",
+  "en": "How much is the coffee?",
+  "words": [
+   377,
+   47,
+   164
+  ],
+  "speaker": "yueB",
+  "maxPos": 52
+ },
+ {
+  "id": "s0553",
+  "hanzi": "这个很贵。",
+  "pinyin": "Zhè gè hěn guì.",
+  "en": "This one is expensive.",
+  "words": [
+   279,
+   60,
+   79,
+   65
+  ],
+  "speaker": "yueB",
+  "maxPos": 56
+ },
+ {
+  "id": "s0554",
+  "hanzi": "鱼不贵。",
+  "pinyin": "Yú bù guì.",
+  "en": "The fish isn't expensive.",
+  "words": [
+   483,
+   13,
+   65
+  ],
+  "speaker": "teacher",
+  "maxPos": 56
+ },
+ {
+  "id": "s0555",
+  "hanzi": "十五块？不贵！",
+  "pinyin": "Shí wǔ kuài? bù guì!",
+  "en": "Fifteen yuan? That's not expensive!",
+  "words": [
+   184,
+   223,
+   105,
+   13,
+   65
+  ],
+  "speaker": "hero",
+  "maxPos": 56
+ },
+ {
+  "id": "s0556",
+  "hanzi": "鸡肉很好吃！",
+  "pinyin": "Jī ròu hěn hǎochī!",
+  "en": "The chicken is delicious!",
+  "words": [
+   687,
+   423,
+   79,
+   72
+  ],
+  "speaker": "hero",
+  "maxPos": 57
+ },
+ {
+  "id": "s0557",
+  "hanzi": "好吃吗？",
+  "pinyin": "Hǎochī ma?",
+  "en": "Is it tasty?",
+  "words": [
+   72,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 57
+ },
+ {
+  "id": "s0558",
+  "hanzi": "这个菜很好吃。",
+  "pinyin": "Zhè gè cài hěn hǎochī.",
+  "en": "This dish is delicious.",
+  "words": [
+   279,
+   60,
+   16,
+   79,
+   72
+  ],
+  "speaker": "yueB",
+  "maxPos": 57
+ },
+ {
+  "id": "s0559",
+  "hanzi": "谢谢你！",
+  "pinyin": "Xièxie nǐ!",
+  "en": "Thank you!",
+  "words": [
+   241,
+   146
+  ],
+  "speaker": "hero",
+  "maxPos": 59
+ },
+ {
+  "id": "s0560",
+  "hanzi": "好，谢谢。",
+  "pinyin": "Hǎo, xièxie.",
+  "en": "OK, thanks.",
+  "words": [
+   71,
+   241
+  ],
+  "speaker": "yueB",
+  "maxPos": 59
+ },
+ {
+  "id": "s0561",
+  "hanzi": "再见！",
+  "pinyin": "Zàijiàn!",
+  "en": "Goodbye!",
+  "words": [
+   272
+  ],
+  "speaker": "teacher",
+  "maxPos": 60
+ },
+ {
+  "id": "s0562",
+  "hanzi": "谢谢，再见！",
+  "pinyin": "Xièxie, zàijiàn!",
+  "en": "Thanks, bye!",
+  "words": [
+   241,
+   272
+  ],
+  "speaker": "hero",
+  "maxPos": 60
+ },
+ {
+  "id": "s0563",
+  "hanzi": "我可以喝水吗？",
+  "pinyin": "Wǒ kěyǐ hē shuǐ ma?",
+  "en": "May I have some water?",
+  "words": [
+   221,
+   102,
+   77,
+   192,
+   115
+  ],
+  "speaker": "hero",
+  "maxPos": 58
+ },
+ {
+  "id": "s0564",
+  "hanzi": "可以。",
+  "pinyin": "Kěyǐ.",
+  "en": "Sure.",
+  "words": [
+   102
+  ],
+  "speaker": "teacher",
+  "maxPos": 58
+ },
+ {
+  "id": "s0565",
+  "hanzi": "可以给我菜单吗？",
+  "pinyin": "Kěyǐ gěi wǒ càidān ma?",
+  "en": "Could you give me the menu?",
+  "words": [
+   102,
+   61,
+   221,
+   545,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 58
+ },
+ {
+  "id": "s0566",
+  "hanzi": "这是豆腐。",
+  "pinyin": "Zhè shì dòufu.",
+  "en": "This is tofu.",
+  "words": [
+   279,
+   188,
+   2001
+  ],
+  "speaker": "teacher",
+  "maxPos": 2001
+ },
+ {
+  "id": "s0567",
+  "hanzi": "我不喜欢豆腐。",
+  "pinyin": "Wǒ bù xǐhuan dòufu.",
+  "en": "I don't like tofu.",
+  "words": [
+   221,
+   13,
+   225,
+   2001
+  ],
+  "speaker": "hero",
+  "maxPos": 2001
+ },
+ {
+  "id": "s0568",
+  "hanzi": "你喝粥吗？",
+  "pinyin": "Nǐ hē zhōu ma?",
+  "en": "Do you eat porridge?",
+  "words": [
+   146,
+   77,
+   2002,
+   115
+  ],
+  "speaker": "yueB",
+  "maxPos": 2002
+ },
+ {
+  "id": "s0569",
+  "hanzi": "我要粥和米饭。",
+  "pinyin": "Wǒ yào zhōu hé mǐfàn.",
+  "en": "I'd like porridge and rice.",
+  "words": [
+   221,
+   252,
+   2002,
+   78,
+   125
+  ],
+  "speaker": "hero",
+  "maxPos": 2002
+ },
+ {
+  "id": "s0570",
+  "hanzi": "嗨，我是云希。",
+  "pinyin": "Hāi, wǒ shì Yúnxī.",
+  "en": "Hi, I'm Yunxi.",
+  "words": [
+   2003,
+   221,
+   188,
+   "云希"
+  ],
+  "speaker": "hero",
+  "maxPos": 2003
+ },
+ {
+  "id": "s0571",
+  "hanzi": "嗨，你们好！",
+  "pinyin": "Hāi, nǐmen hǎo!",
+  "en": "Hi, everyone!",
+  "words": [
+   2003,
+   148,
+   71
+  ],
+  "speaker": "yueB",
+  "maxPos": 2003
+ },
+ {
+  "id": "s0572",
+  "hanzi": "我是美国人，你呢？",
+  "pinyin": "Wǒ shì Měiguó rén, nǐ ne?",
+  "en": "I'm American, and you?",
+  "words": [
+   221,
+   188,
+   2004,
+   170,
+   146,
+   144
+  ],
+  "speaker": "yueB",
+  "maxPos": 2004
+ },
+ {
+  "id": "s0573",
+  "hanzi": "他不是美国人。",
+  "pinyin": "Tā bù shì Měiguó rén.",
+  "en": "He isn't American.",
+  "words": [
+   200,
+   13,
+   188,
+   2004,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 2004
+ },
+ {
+  "id": "s0574",
+  "hanzi": "她是日本人。",
+  "pinyin": "Tā shì Rìběn rén.",
+  "en": "She's Japanese.",
+  "words": [
+   202,
+   188,
+   2005,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 2005
+ },
+ {
+  "id": "s0575",
+  "hanzi": "这是日本。",
+  "pinyin": "Zhè shì Rìběn.",
+  "en": "This is Japan.",
+  "words": [
+   279,
+   188,
+   2005
+  ],
+  "speaker": "hero",
+  "maxPos": 2005
+ },
+ {
+  "id": "s0576",
+  "hanzi": "你是韩国人，对不对？",
+  "pinyin": "Nǐ shì Hánguó rén, duì bù duì?",
+  "en": "You're South Korean, right?",
+  "words": [
+   146,
+   188,
+   2006,
+   170,
+   44,
+   13,
+   44
+  ],
+  "speaker": "hero",
+  "maxPos": 2006
+ },
+ {
+  "id": "s0577",
+  "hanzi": "她的妈妈是韩国人。",
+  "pinyin": "Tā de māma shì Hánguó rén.",
+  "en": "Her mother is South Korean.",
+  "words": [
+   202,
+   30,
+   114,
+   188,
+   2006,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 2006
+ },
+ {
+  "id": "s0578",
+  "hanzi": "他不说英文。",
+  "pinyin": "Tā bù shuō Yīngwén.",
+  "en": "He doesn't speak English.",
+  "words": [
+   200,
+   13,
+   196,
+   2007
+  ],
+  "speaker": "yueB",
+  "maxPos": 2007
+ },
+ {
+  "id": "s0579",
+  "hanzi": "我喜欢英文课。",
+  "pinyin": "Wǒ xǐhuan Yīngwén kè.",
+  "en": "I like English class.",
+  "words": [
+   221,
+   225,
+   2007,
+   103
+  ],
+  "speaker": "hero",
+  "maxPos": 2007
+ },
+ {
+  "id": "s0580",
+  "hanzi": "她的爸爸是英国人。",
+  "pinyin": "Tā de bàba shì Yīngguó rén.",
+  "en": "Her dad is British.",
+  "words": [
+   202,
+   30,
+   3,
+   188,
+   2008,
+   170
+  ],
+  "speaker": "teacher",
+  "maxPos": 2008
+ },
+ {
+  "id": "s0581",
+  "hanzi": "我不是英国人。",
+  "pinyin": "Wǒ bù shì Yīngguó rén.",
+  "en": "I'm not British.",
+  "words": [
+   221,
+   13,
+   188,
+   2008,
+   170
+  ],
+  "speaker": "yueB",
+  "maxPos": 2008
+ }
+]

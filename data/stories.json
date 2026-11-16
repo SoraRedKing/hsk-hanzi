@@ -1,0 +1,428 @@
+[
+  {
+    "unit": 1,
+    "title": "饭店",
+    "titleEn": "Eating out",
+    "lines": [
+      {
+        "speaker": "teacher",
+        "hanzi": "云希和月很饿。",
+        "pinyin": "Yúnxī hé Yuè hěn è.",
+        "en": "Yunxi and Yue are very hungry."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "月，你饿吗？我很饿！",
+        "pinyin": "Yuè, nǐ è ma? Wǒ hěn è!",
+        "en": "Yue, are you hungry? I'm starving!"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "我也很饿，也很渴。",
+        "pinyin": "Wǒ yě hěn è, yě hěn kě.",
+        "en": "I'm hungry too, and thirsty."
+      },
+      {
+        "speaker": "teacher",
+        "hanzi": "云希和月来饭店。",
+        "pinyin": "Yúnxī hé Yuè lái fàndiàn.",
+        "en": "Yunxi and Yue come to a restaurant."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "你好！请给我们菜单。",
+        "pinyin": "Nǐ hǎo! Qǐng gěi wǒmen càidān.",
+        "en": "Hello! Please give us the menu."
+      },
+      {
+        "speaker": "teacher",
+        "hanzi": "好。你们要喝什么？",
+        "pinyin": "Hǎo. Nǐmen yào hē shénme?",
+        "en": "Sure. What would you like to drink?"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "我要热茶。云希，你呢？",
+        "pinyin": "Wǒ yào rè chá. Yúnxī, nǐ ne?",
+        "en": "I'd like hot tea. Yunxi, and you?"
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "我喜欢咖啡。有咖啡吗？",
+        "pinyin": "Wǒ xǐhuan kāfēi. Yǒu kāfēi ma?",
+        "en": "I like coffee. Do you have coffee?"
+      },
+      {
+        "speaker": "teacher",
+        "hanzi": "没有咖啡。有茶，有牛奶。",
+        "pinyin": "Méiyǒu kāfēi. Yǒu chá, yǒu niúnǎi.",
+        "en": "No coffee. There's tea, and there's milk."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "那我要冷牛奶。",
+        "pinyin": "Nà wǒ yào lěng niúnǎi.",
+        "en": "Then I'll have cold milk."
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "我们要鸡肉、米饭和两个菜。",
+        "pinyin": "Wǒmen yào jīròu, mǐfàn hé liǎng gè cài.",
+        "en": "We'd like chicken, rice and two dishes."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "这个鸡肉很好吃！",
+        "pinyin": "Zhège jīròu hěn hǎochī!",
+        "en": "This chicken is delicious!"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "多少钱？",
+        "pinyin": "Duōshao qián?",
+        "en": "How much is it?"
+      },
+      {
+        "speaker": "teacher",
+        "hanzi": "五十块。",
+        "pinyin": "Wǔshí kuài.",
+        "en": "Fifty yuan."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "不贵！谢谢，再见！",
+        "pinyin": "Bú guì! Xièxie, zàijiàn!",
+        "en": "Not expensive! Thanks, bye!"
+      }
+    ],
+    "questions": [
+      {
+        "q": "月要喝什么？",
+        "qEn": "What does Yue want to drink?",
+        "options": [
+          "Hot tea",
+          "Coffee",
+          "Cold water"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "饭店有咖啡吗？",
+        "qEn": "Does the restaurant have coffee?",
+        "options": [
+          "No",
+          "Yes",
+          "Only cold coffee"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "他们给多少钱？",
+        "qEn": "How much do they pay?",
+        "options": [
+          "50 yuan",
+          "15 yuan",
+          "10 yuan"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "title": "你好",
+    "titleEn": "Hello",
+    "lines": [
+      {
+        "speaker": "teacher",
+        "hanzi": "云希和月在中国。",
+        "pinyin": "Yúnxī hé Yuè zài Zhōngguó.",
+        "en": "Yunxi and Yue are in China."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "你好！我叫云希。你叫什么名字？",
+        "pinyin": "Nǐ hǎo! Wǒ jiào Yúnxī. Nǐ jiào shénme míngzi?",
+        "en": "Hi! I'm Yunxi. What's your name?"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "我叫月。",
+        "pinyin": "Wǒ jiào Yuè.",
+        "en": "I'm Yue."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "你是中国人吗？",
+        "pinyin": "Nǐ shì Zhōngguó rén ma?",
+        "en": "Are you Chinese?"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "不是。我来中国说汉语。",
+        "pinyin": "Bú shì. Wǒ lái Zhōngguó shuō Hànyǔ.",
+        "en": "No. I came to China to speak Chinese."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "你的汉语很好！",
+        "pinyin": "Nǐ de Hànyǔ hěn hǎo!",
+        "en": "Your Chinese is very good!"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "谢谢。你想吃什么？",
+        "pinyin": "Xièxie. Nǐ xiǎng chī shénme?",
+        "en": "Thanks. What do you want to eat?"
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "我都想吃！",
+        "pinyin": "Wǒ dōu xiǎng chī!",
+        "en": "I want to eat everything!"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "好，明天再见！",
+        "pinyin": "Hǎo, míngtiān zàijiàn!",
+        "en": "OK, see you tomorrow!"
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "再见！",
+        "pinyin": "Zàijiàn!",
+        "en": "Bye!"
+      }
+    ],
+    "questions": [
+      {
+        "q": "月是中国人吗？",
+        "qEn": "Is Yue Chinese?",
+        "options": [
+          "No",
+          "Yes",
+          "We don't know"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "云希想吃什么？",
+        "qEn": "What does Yunxi want to eat?",
+        "options": [
+          "Everything",
+          "Nothing",
+          "Only tea"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "谁的汉语很好？",
+        "qEn": "Whose Chinese is very good?",
+        "options": [
+          "Yue's",
+          "Yunxi's",
+          "Xiaoxiao's"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "title": "云希的家",
+    "titleEn": "Yunxi's home",
+    "lines": [
+      {
+        "speaker": "teacher",
+        "hanzi": "今天云希在家。",
+        "pinyin": "Jīntiān Yúnxī zài jiā.",
+        "en": "Today Yunxi is at home."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "月，你来我家吧！",
+        "pinyin": "Yuè, nǐ lái wǒ jiā ba!",
+        "en": "Yue, come over to my place!"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "好。你家在哪儿？",
+        "pinyin": "Hǎo. Nǐ jiā zài nǎr?",
+        "en": "OK. Where is your home?"
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "我家在大学里。",
+        "pinyin": "Wǒ jiā zài dàxué lǐ.",
+        "en": "My home is in the university."
+      },
+      {
+        "speaker": "teacher",
+        "hanzi": "月到了。云希的家很小。",
+        "pinyin": "Yuè dào le. Yúnxī de jiā hěn xiǎo.",
+        "en": "Yue arrives. Yunxi's home is small."
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "你家真小！你一个人住吗？",
+        "pinyin": "Nǐ jiā zhēn xiǎo! Nǐ yí gè rén zhù ma?",
+        "en": "Your home is really small! Do you live alone?"
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "对，我一个人住。你想喝水吗？",
+        "pinyin": "Duì, wǒ yí gè rén zhù. Nǐ xiǎng hē shuǐ ma?",
+        "en": "Yes, I live alone. Would you like some water?"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "好，谢谢。你在做什么？",
+        "pinyin": "Hǎo, xièxie. Nǐ zài zuò shénme?",
+        "en": "Yes, thanks. What are you doing?"
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "我在听汉语。",
+        "pinyin": "Wǒ zài tīng Hànyǔ.",
+        "en": "I'm listening to Chinese."
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "我也想听。",
+        "pinyin": "Wǒ yě xiǎng tīng.",
+        "en": "I want to listen too."
+      }
+    ],
+    "questions": [
+      {
+        "q": "云希的家在哪儿？",
+        "qEn": "Where is Yunxi's home?",
+        "options": [
+          "In the university",
+          "In a big company",
+          "Far outside the city"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "云希一个人住吗？",
+        "qEn": "Does Yunxi live alone?",
+        "options": [
+          "Yes",
+          "No",
+          "With Yue"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "月想喝什么？",
+        "qEn": "What does Yue want to drink?",
+        "options": [
+          "Water",
+          "Tea",
+          "Nothing"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "title": "买东西",
+    "titleEn": "Shopping",
+    "lines": [
+      {
+        "speaker": "teacher",
+        "hanzi": "今天很热。云希和月去买东西。",
+        "pinyin": "Jīntiān hěn rè. Yúnxī hé Yuè qù mǎi dōngxi.",
+        "en": "It's hot today. Yunxi and Yue go shopping."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "月，你想买什么？",
+        "pinyin": "Yuè, nǐ xiǎng mǎi shénme?",
+        "en": "Yue, what do you want to buy?"
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "我想买一本书。",
+        "pinyin": "Wǒ xiǎng mǎi yì běn shū.",
+        "en": "I want to buy a book."
+      },
+      {
+        "speaker": "teacher",
+        "hanzi": "那里有很多书。",
+        "pinyin": "Nàli yǒu hěn duō shū.",
+        "en": "There are lots of books there."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "这本书多少钱？",
+        "pinyin": "Zhè běn shū duōshao qián?",
+        "en": "How much is this book?"
+      },
+      {
+        "speaker": "teacher",
+        "hanzi": "三十块。",
+        "pinyin": "Sānshí kuài.",
+        "en": "Thirty kuai."
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "三十块？我没有钱了。",
+        "pinyin": "Sānshí kuài? Wǒ méiyǒu qián le.",
+        "en": "Thirty kuai? I'm out of money."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "我有！我给你买。",
+        "pinyin": "Wǒ yǒu! Wǒ gěi nǐ mǎi.",
+        "en": "I have some! I'll buy it for you."
+      },
+      {
+        "speaker": "yueB",
+        "hanzi": "谢谢你。你真是我的好朋友。",
+        "pinyin": "Xièxie nǐ. Nǐ zhēn shì wǒ de hǎo péngyou.",
+        "en": "Thank you. You really are my good friend."
+      },
+      {
+        "speaker": "hero",
+        "hanzi": "我们去喝茶吧！",
+        "pinyin": "Wǒmen qù hē chá ba!",
+        "en": "Let's go have tea!"
+      }
+    ],
+    "questions": [
+      {
+        "q": "今天热吗？",
+        "qEn": "Is it hot today?",
+        "options": [
+          "Yes, it's hot",
+          "No, it's cold",
+          "It's raining"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "月想买什么？",
+        "qEn": "What does Yue want to buy?",
+        "options": [
+          "A book",
+          "Tea",
+          "A phone"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "书多少钱？",
+        "qEn": "How much is the book?",
+        "options": [
+          "30 kuai",
+          "3 kuai",
+          "300 kuai"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+]
