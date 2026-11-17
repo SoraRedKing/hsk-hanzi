@@ -179,6 +179,16 @@ body[data-screen="radio"] #radio { display: flex; flex-direction: column; }
 .pos { display: inline-block; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; background: var(--paper-2); border-radius: 8px; padding: 2px 8px; margin-right: 8px; color: var(--muted); vertical-align: middle; }
 .new-tag { display: inline-block; background: var(--gold); color: #5a4300; font-weight: 900; font-size: 12px; letter-spacing: 0.1em; padding: 3px 10px; border-radius: 10px; margin-bottom: 10px; }
 .teacher-line { color: var(--muted); font-size: 14px; margin-top: 14px; }
+.meet-example { display: flex; align-items: center; gap: 12px; margin-top: 14px; background: var(--paper-2); border-radius: 12px; padding: 8px 14px; max-width: 640px; }
+.meet-example span { display: block; text-align: left; }
+.meet-example .ex-hz { font-size: 20px; }
+.meet-example .ex-py { font-size: 14px; color: var(--muted); }
+.meet-example .ex-en { font-size: 14px; }
+.speaker.tiny { font-size: 15px; width: 40px; height: 36px; border-radius: 10px; box-shadow: 0 3px 0 var(--blue-deep); flex: none; }
+.recall-answer { display: flex; flex-direction: column; align-items: center; }
+.recall-grade { display: flex; gap: 14px; margin-top: 22px; }
+.recall-grade .btn3d { min-width: 150px; font-size: 18px; padding: 12px 18px; }
+.recall-grade .k { opacity: 0.6; margin-right: 6px; font-size: 14px; }
 .speaker { border: 0; background: var(--blue); color: #fff; border-radius: 18px; font-size: 34px; width: 92px; height: 82px; box-shadow: 0 6px 0 var(--blue-deep); }
 .speaker:active { transform: translateY(5px); box-shadow: 0 1px 0 var(--blue-deep); }
 .speaker.small { font-size: 18px; width: 52px; height: 44px; border-radius: 12px; box-shadow: 0 4px 0 var(--blue-deep); margin-top: 16px; }

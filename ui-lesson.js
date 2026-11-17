@@ -121,10 +121,12 @@
     btn.className = "btn3d green big";
     btn.textContent = "Check";
     btn.disabled = true;
+    btn.hidden = false;
     const w = App.word(ex.wordId);
     const stage = $("#ex-stage");
     switch (ex.type) {
-      case "meet": return renderMeet(stage, w);
+      case "meet": return renderMeet(stage, w, ex);
+      case "recall": return renderRecall(stage, w);
       case "pickMeaning": return renderChoice(stage, ex, w, ex.fromParts ? "Guess from its parts" : "What does this mean?", `<div class="big-hanzi">${App.hanziHTML(w)}</div>${ex.fromParts ? partsHTML(w) : ""}`, (id) => App.meaningHTML(App.word(id)), false);
       case "pickWord": return renderChoice(stage, ex, w, "Which word means…", `<div class="meaning" style="font-size:26px">${App.meaningHTML(w)}</div>`, (id) => App.esc(App.word(id).hanzi), true);
       case "listen": return renderChoice(stage, ex, w, "What did you hear?", `<button class="speaker" id="ex-play">🔊</button>`, (id) => App.esc(App.word(id).hanzi), true, () => App.playAudio(w.id));
@@ -140,7 +142,8 @@
     }
   }
 
-  function renderMeet(stage, w) {
+  function renderMeet(stage, w, ex) {
+    const s = ex && ex.exampleId ? App.sentence(ex.exampleId) : null;
     stage.innerHTML = `
       <div class="new-tag">NEW WORD</div>
       <div class="big-hanzi">${App.hanziHTML(w)}</div>
@@ -148,12 +151,49 @@
       <div class="meaning">${App.meaningHTML(w)}</div>
       <button class="speaker small" id="ex-play" title="Play again">🔊</button>
       ${partsHTML(w)}
+      ${s ? `<div class="meet-example"><button class="speaker tiny" id="ex-sent" title="Play the sentence">🔊</button><div><span class="ex-hz">${App.esc(s.hanzi)}</span><span class="ex-py">${App.esc(s.pinyin)}</span><span class="ex-en">${App.esc(s.en)}</span></div></div>` : ""}
       <div class="teacher-line">晓晓 · ${App.levelName(w.level)}</div>`;
     $("#ex-play").addEventListener("click", () => App.playAudio(w.id));
+    if (s) $("#ex-sent").addEventListener("click", () => App.playSentence(s.id));
     App.playAudio(w.id);
     const btn = $("#check-btn");
     btn.textContent = "Continue";
     btn.disabled = false;
+  }
+
+  // Recall: the character alone; think of sound and meaning, Show, then say honestly
+  // whether you knew it. "I didn't" is a wrong answer, so the card comes back later.
+  function renderRecall(stage, w) {
+    stage.innerHTML = `
+      <div class="ex-title">Do you remember it?</div>
+      <div class="big-hanzi">${App.hanziHTML(w)}</div>
+      <div class="recall-answer" hidden>
+        <div class="pinyin">${App.esc(w.pinyin)}</div>
+        <div class="meaning">${App.meaningHTML(w)}</div>
+      </div>
+      <div class="recall-grade" hidden>
+        <button class="btn3d green" id="recall-yes"><span class="k">1</span> I knew it</button>
+        <button class="btn3d" id="recall-no"><span class="k">2</span> I didn't</button>
+      </div>`;
+    $("#recall-yes").addEventListener("click", () => gradeRecall(true));
+    $("#recall-no").addEventListener("click", () => gradeRecall(false));
+    const btn = $("#check-btn");
+    btn.textContent = "Show";
+    btn.disabled = false;
+  }
+  function revealRecall() {
+    if (view.revealed) return;
+    view.revealed = true;
+    $("#ex-stage .recall-answer").hidden = false;
+    $("#ex-stage .recall-grade").hidden = false;
+    $("#check-btn").hidden = true;
+    App.playAudio(cur().wordId);
+  }
+  function gradeRecall(knewIt) {
+    if (!view.revealed || view.checked) return;
+    $("#ex-stage .recall-grade").hidden = true;
+    $("#check-btn").hidden = false;
+    record(knewIt, {});
   }
 
   function renderChoice(stage, ex, w, title, prompt, optHTML, hz, onShow) {
@@ -415,6 +455,7 @@
     const ex = cur();
     if (view.checked) return advance();
     if (ex.type === "meet") return meetDone();
+    if (ex.type === "recall") return revealRecall();
     if (ex.type === "buildSentence" || ex.type === "listenTap") return checkTiles(ex);
     if (ex.type === "component") return checkComponent(ex);
     if (view.selected === null) return;
@@ -533,7 +574,7 @@
       passed = ratio >= 0.8;
       if (passed) p = Outcome.applyTestOut(p, l.wordIds, today, Math.random);
     }
-    const xp = l.kind === "legendary" && !passed ? 10 : Rewards.lessonXp({ correct: correctFirst, total: graded.length, perfect, maxCombo: l.maxCombo, boosted: App.boosted(), kind: l.kind });
+    const xp = l.kind === "legendary" && !passed ? 10 : Rewards.lessonXp({ correct: correctFirst, total: graded.length, perfect, maxCombo: l.maxCombo, boosted: App.boosted(), kind: l.kind, words: (l.wordIds || []).length });
     if (l.kind !== "new" && l.kind !== "review") p = Object.assign({}, p, { done: Object.assign({}, p.done, { [l.key]: today }) });
     p = Object.assign({}, p, { lessonInProgress: null });
     App.set(p);
@@ -563,12 +604,16 @@
     if (e.key === "Escape") return askQuit();
     const ex = cur();
     if (!ex) return;
-    if (e.key === "Enter" || (e.key === " " && (ex.type === "meet" || view.checked))) {
+    if (e.key === "Enter" || (e.key === " " && (ex.type === "meet" || ex.type === "recall" || view.checked))) {
       e.preventDefault();
       if (!$("#check-btn").disabled) check();
       return;
     }
     const n = Number(e.key);
+    if (ex.type === "recall") {
+      if (view.revealed && !view.checked && (n === 1 || n === 2)) gradeRecall(n === 1);
+      return;
+    }
     if (!view.checked && ex.type === "component" && n >= 1 && n <= 9) {
       const opt = document.querySelectorAll("#ex-stage .opt")[n - 1];
       if (opt) opt.click();
@@ -584,6 +629,7 @@
   function testAnswer(correct) {
     const ex = cur();
     if (ex.type === "meet") return meetDone();
+    if (ex.type === "recall") { view.revealed = true; record(correct, {}); return advance(); }
     if (ex.type === "match") { record(correct, { pairResults: ex.pairs.map((id) => ({ wordId: id, correct })) }); return advance(); }
     if (/trace|write/i.test(ex.type)) { destroyWriter(); record(correct, { mistakes: correct ? 0 : 5, revealed: !correct }); return advance(); }
     if (ex.type === "buildSentence" || ex.type === "listenTap") {
@@ -631,6 +677,13 @@
       finish();
     },
     _shot: () => { start(App.buildPath().stops.find((s) => s.kind === "lesson" && s.status === "current")); meetDone(); },
+    _shotMeet: () => { start(App.buildPath().stops.find((s) => s.kind === "lesson" && s.status === "current")); },
+    _shotRecall: () => {
+      const wo = App.state.words.find((w) => w.hanzi === "我");
+      setL({ key: "shot", kind: "practice", wordIds: [wo.id], exercises: [{ id: "shot-rc", type: "recall", wordId: wo.id }], idx: 0, results: [], combo: 0, maxCombo: 0, startedAt: 0 });
+      open();
+      revealRecall();
+    },
     _shotTrace: (ok) => {
       const ai = App.state.words.find((w) => w.hanzi === "爱");
       setL({ key: "shot", kind: "practice", wordIds: [ai.id], exercises: [{ id: "shot-tr", type: "trace", wordId: ai.id }], idx: 0, results: [], combo: 0, maxCombo: 0, startedAt: 0 });

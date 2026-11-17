@@ -10,8 +10,11 @@
   const MONTHLY_TARGET = 40;
   const MONTH_BADGES = ["雪", "梅", "春", "花", "竹", "夏", "荷", "月", "秋", "枫", "冬", "福"];
 
-  function lessonXp({ perfect, maxCombo, boosted, kind }) {
-    const xp = kind === "legendary" ? 40 : 10 + (perfect ? 5 : 0) + Math.floor((maxCombo || 0) / 5) + (kind === "hard" ? 10 : 0);
+  // A new-word lesson's base is 5 XP per new word (at least 10), so a day earns the
+  // same whether it is split into many small lessons or a few woven ones.
+  function lessonXp({ perfect, maxCombo, boosted, kind, words }) {
+    const base = kind === "new" ? Math.max(10, 5 * (words || 0)) : 10;
+    const xp = kind === "legendary" ? 40 : base + (perfect ? 5 : 0) + Math.floor((maxCombo || 0) / 5) + (kind === "hard" ? 10 : 0);
     return boosted ? xp * 2 : xp;
   }
 

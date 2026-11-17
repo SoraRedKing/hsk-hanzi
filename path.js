@@ -13,12 +13,23 @@
   else root.Path = factory(root.Syllabus, root.Scheduler);
 })(typeof self !== "undefined" ? self : this, function (Y, S) {
   const BACKLOG = 60;
-  const LESSON_WORDS = 2;
+  const LESSON_WORDS = 5; // target new words per lesson; a day splits evenly around it
   const REVIEW_WORDS = 12;
 
   const chunk = (arr, n) => {
     const out = [];
     for (let i = 0; i < arr.length; i += n) out.push(arr.slice(i, i + n));
+    return out;
+  };
+  // ceil(len / target) parts in order, sizes differing by at most 1 (10 → 5+5, 12 → 6+6)
+  const balanced = (arr, target) => {
+    const parts = Math.ceil(arr.length / target), out = [];
+    let at = 0;
+    for (let i = 0; i < parts; i++) {
+      const size = Math.floor(arr.length / parts) + (i < arr.length % parts ? 1 : 0);
+      out.push(arr.slice(at, at + size));
+      at += size;
+    }
     return out;
   };
 
@@ -96,14 +107,14 @@
     days.forEach((day, di) => {
       const met = day.filter((id) => introduced(id) && !lipWords.has(id));
       const rest = day.filter((id) => !introduced(id) && !lipWords.has(id));
-      for (const ids of chunk(met, LESSON_WORDS)) {
+      for (const ids of balanced(met, LESSON_WORDS)) {
         stops.push({ key: `l-${ids[0]}-${ids[ids.length - 1]}`, kind: "lesson", unit: cursorUnit, wordIds: ids, status: "done" });
       }
       if (!lipPlaced && day.some((id) => lipWords.has(id))) {
         stops.push({ key: lip.key, kind: "lesson", unit: cursorUnit, wordIds: lip.wordIds.slice(), status: "pending", resume: true });
         lipPlaced = true;
       }
-      for (const ids of chunk(rest, LESSON_WORDS)) {
+      for (const ids of balanced(rest, LESSON_WORDS)) {
         stops.push({ key: `l-${ids[0]}-${ids[ids.length - 1]}`, kind: "lesson", unit: cursorUnit, wordIds: ids, status: "pending" });
       }
       const key = dayKey(day);

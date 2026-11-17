@@ -1,11 +1,13 @@
 /* Offline cache for HSK 汉字. The version and file list below are filled in by tools/build_web.js. */
-const VERSION = "20261116114919";
+const VERSION = "20261117125402";
 const SHELL = `hsk-shell-${VERSION}`;
 const AUDIO = "hsk-audio-v1"; // audio never changes in place, so it survives app updates
 const SHELL_FILES = ["activity.js","app.js","data/chapters.json","data/component-meanings.json","data/components.json","data/lines.json","data/order.json","data/sentences.json","data/stories.json","data/strokes.json","data/words.json","extras.js","icons/apple-touch-icon.png","icons/icon-192.png","icons/icon-512.png","./","lesson.js","manifest.webmanifest","mascot.js","outcome.js","parts.js","path.js","rewards.js","scheduler.js","sfx.js","shim.js","styles.css","syllabus.js","tones.js","ui-extras.js","ui-lesson.js","ui-path.js","ui-practice.js","ui-story.js","vendor/hanzi-writer.min.js","web.css","index.html"];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(SHELL).then((c) => c.addAll(SHELL_FILES)).then(() => self.skipWaiting()));
+  // cache: "reload" skips the browser's HTTP cache (GitHub Pages caches for 10 min),
+  // so a new version never gets stored with stale files from the previous one.
+  e.waitUntil(caches.open(SHELL).then((c) => c.addAll(SHELL_FILES.map((f) => new Request(f, { cache: "reload" })))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (e) => {

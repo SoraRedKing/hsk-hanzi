@@ -184,30 +184,81 @@
     return s;
   }
 
-  // New-word lesson: 2 new words (meet → recognise → trace → sentence/tones → faded
-  // trace) with review words folded into one match and one recognition exercise.
+  // Example for the meet card: any sentence with the word (it is read, not tested),
+  // preferring the fewest other unknown words, then the shortest.
+  function exampleSentence(ctx, wordId) {
+    const known = new Set(ctx.known.concat([wordId]));
+    const unknown = (s) => s.words.filter((t) => typeof t !== "string" && !known.has(t)).length;
+    let best = null;
+    for (const s of ctx.sentences || []) {
+      if (!s.words.includes(wordId)) continue;
+      if (!best || unknown(s) < unknown(best) || (unknown(s) === unknown(best) && s.hanzi.length < best.hanzi.length)) best = s;
+    }
+    return best;
+  }
+
+  // Woven new-word lesson (~5 words): each word is met, recognised and traced, then
+  // comes back at growing gaps while the next words are learned (recall one word
+  // later, a sentence two words later) and once more in a mixed closing round.
   function buildNewLesson(newIds, reviewIds, ctx) {
     const ex = makeBuilder("new", ctx);
     const out = [], used = new Set();
-    const allowed = new Set(ctx.known.concat(newIds));
-    newIds.forEach((id, i) => {
-      out.push(ex("meet", id));
-      out.push(ex(i % 2 === 0 ? "pickMeaning" : "listen", id));
+    const sentenceStep = (id, i, allowed) => {
+      const s = sentenceFor(ctx, id, allowed, used);
+      if (s) return sentenceEx(ex, i % 2 === 0 ? "buildSentence" : "listenTap", s, id, ctx);
+      return ex(recognitionType(ctx.byId.get(id), 2, ctx) === "tones" ? "tones" : "pickWord", id);
+    };
+    const sentenced = new Set();
+    newIds.forEach((id, k) => {
+      const ex0 = exampleSentence(ctx, id);
+      out.push(ex("meet", id, ex0 ? { exampleId: ex0.id } : {}));
+      out.push(ex(k % 2 === 0 ? "pickMeaning" : "listen", id));
       out.push(ex(canWrite(ctx, id) ? "trace" : "pickWord", id));
+      if (k >= 1) out.push(ex("recall", newIds[k - 1]));
+      if (k >= 2) {
+        const metSoFar = new Set(ctx.known.concat(newIds.slice(0, k + 1)));
+        out.push(sentenceStep(newIds[k - 2], k - 2, metSoFar));
+        sentenced.add(newIds[k - 2]);
+      }
     });
-    const pairs = matchPairs(newIds.concat(reviewIds), Object.assign({}, ctx, { known: reviewIds.length ? ctx.known : [] }), 5);
-    if (pairs.length >= 3) out.push(ex("match", pairs[0], { pairs }));
+
+    const last = newIds[newIds.length - 1];
+    const allowed = new Set(ctx.known.concat(newIds));
+    const closing = [ex("recall", last)];
+    newIds.forEach((id, i) => { if (!sentenced.has(id)) closing.push(sentenceStep(id, i, allowed)); });
+    newIds.forEach((id) => closing.push(ex(canWrite(ctx, id) ? "traceFaded" : "listen", id)));
+    newIds.forEach((id, i) => closing.push(ex(i % 2 === 1 ? "recall" : "pickWord", id)));
+    if (newIds.length === 1) { closing.push(ex("pickWord", last)); closing.push(ex("listen", last)); }
+    // the match keeps up to 2 slots for earlier words, so they are not crowded out by 5 new ones
+    const keepReview = Math.min(2, reviewIds.length);
+    const pairs = matchPairs(newIds.slice(0, 5 - keepReview).concat(reviewIds, newIds.slice(5 - keepReview)), Object.assign({}, ctx, { known: reviewIds.length ? ctx.known : [] }), 5);
+    if (pairs.length >= 3) closing.push(ex("match", pairs[0], { pairs }));
     if (reviewIds.length) {
       const r = reviewIds[Math.floor(ctx.rng() * reviewIds.length)];
-      out.push(ex(recognitionType(ctx.byId.get(r), Math.floor(ctx.rng() * 3), ctx), r));
+      closing.push(ex(recognitionType(ctx.byId.get(r), Math.floor(ctx.rng() * 3), ctx), r));
     }
-    newIds.forEach((id, i) => {
-      const s = sentenceFor(ctx, id, allowed, used);
-      if (s) out.push(sentenceEx(ex, i % 2 === 0 ? "buildSentence" : "listenTap", s, id, ctx));
-      else out.push(ex(recognitionType(ctx.byId.get(id), 2, ctx) === "tones" ? "tones" : "pickWord", id));
-    });
-    newIds.forEach((id) => out.push(ex(canWrite(ctx, id) ? "traceFaded" : "listen", id)));
-    if (newIds.length === 1) { out.push(ex("pickWord", newIds[0])); out.push(ex("listen", newIds[0])); }
+
+    // shuffle, then never put two exercises about the same word side by side
+    // (a match game spans several words, so it may sit next to any of them)
+    const touches = (e) => (e.type === "match" ? [] : [e.wordId]);
+    const clash = (a, b) => !!a && !!b && touches(a).some((id) => touches(b).includes(id));
+    // Greedy by "most items still waiting" so the busiest word is never left bunched at the end.
+    const pool = shuffle(closing, ctx.rng);
+    const waiting = (e) => Math.max(0, ...touches(e).map((id) => pool.filter((o) => touches(o).includes(id)).length));
+    let prev = out[out.length - 1];
+    let first = true;
+    while (pool.length) {
+      let best = -1;
+      pool.forEach((e, i) => {
+        if (clash(e, prev) || (first && pool.length > 1 && touches(e).includes(last))) return;
+        if (best === -1 || waiting(e) > waiting(pool[best])) best = i;
+      });
+      if (best === -1) best = pool.findIndex((e) => !clash(e, prev));
+      if (best === -1) best = 0;
+      prev = pool.splice(best, 1)[0];
+      out.push(prev);
+      first = false;
+    }
     return out;
   }
 
@@ -359,7 +410,7 @@
   }
 
   return {
-    writable, pickDistractors, toneVariants, usableSentences, allowWrite, explain,
+    writable, pickDistractors, toneVariants, usableSentences, allowWrite, explain, exampleSentence,
     buildNewLesson, buildReviewLesson, buildCheckpoint, buildHard, buildBoss, buildLegendary,
     buildTestOut, buildPractice, buildMistakes, buildListen, buildComponent, requeue,
   };

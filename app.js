@@ -16,6 +16,8 @@
     // --shot modes: stage a screen with in-memory data (saves are memory-only)
     shots: {
       lesson: () => UILesson._shot && UILesson._shot(),
+      meet: () => UILesson._shotMeet(),
+      recall: () => UILesson._shotRecall(),
       write: () => UILesson._shotWrite && UILesson._shotWrite(),
       sentence: () => UILesson._shotSentence && UILesson._shotSentence(),
       trace: () => UILesson._shotTrace(false),
